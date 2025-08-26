@@ -1338,6 +1338,44 @@
     "latest_build_available": false
   },
   {
+    "id": "6de2e2f0d756fc4ff268d4ac876d8ff8",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        462
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        88,
+        0,
+        19
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "sparcv9",
+    "operating_system": "solaris",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jdk8.0.462-solaris_sparcv9.zip",
+    "checksum": "3ae5b35832e2a11852c41ba2d2310a7b0ec75e460233e433b54222c2b325bf81",
+    "checksum_type": "sha256",
+    "size": 116936993,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "6e0a6263a6fcb22b58a9b60141a2da2b",
     "distribution": "zulu",
     "version": {
@@ -2476,42 +2514,5 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
-  },
-  {
-    "id": "6de2e2f0d756fc4ff268d4ac876d8ff8",
-    "distribution": "zulu",
-    "version": {
-      "components": [
-        8,
-        0,
-        462
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        0,
-        462
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "sparcv9",
-    "operating_system": "solaris",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jdk8.0.462-solaris_sparcv9.zip",
-    "checksum": "3ae5b35832e2a11852c41ba2d2310a7b0ec75e460233e433b54222c2b325bf81",
-    "checksum_type": "sha256",
-    "size": 116936993,
-    "lib_c_type": "libc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
   }
 ]

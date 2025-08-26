@@ -630,44 +630,6 @@
     "latest_build_available": false
   },
   {
-    "id": "8d9067e70d1c9545b5650895916f546b",
-    "distribution": "zulu",
-    "version": {
-      "components": [
-        11,
-        0,
-        20,
-        1
-      ],
-      "build": [
-        1
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        11,
-        66,
-        19
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "solaris",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://cdn.azul.com/zulu/bin/zulu11.66.19-ca-jdk11.0.20.1-solaris_x64.zip",
-    "checksum": "71b1742b929b308187394efe64d83cf4959050f4311308222a876628de99cac9",
-    "checksum_type": "sha256",
-    "size": 238518601,
-    "lib_c_type": "libc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "7166cffa6f533c05e46f5a42779061d9",
     "distribution": "zulu",
     "version": {
@@ -1336,6 +1298,44 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "f692f56eef151cfb62daca46b8bc425e",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        462
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        88,
+        0,
+        19
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "solaris",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jdk8.0.462-solaris_x64.zip",
+    "checksum": "2831a9588c29f461b8bfbbdbd7c5f7432bb4e0c8e457d9c533f0f7af4076c0f8",
+    "checksum_type": "sha256",
+    "size": 114431652,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "b50d379e47f9396b75bac53b638220de",
@@ -2098,44 +2098,6 @@
     "latest_build_available": false
   },
   {
-    "id": "4ca204249eb4378b32190813831eea78",
-    "distribution": "zulu",
-    "version": {
-      "components": [
-        8,
-        0,
-        275
-      ],
-      "build": [
-        1
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        50,
-        0,
-        51
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "solaris",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.50.0.51-ca-jdk8.0.275-solaris_x64.zip",
-    "checksum": "c7b0cf17b126a8c29dd3f3012e20c0c455aa93695cc50c3b9e9bcde1a5116aaf",
-    "checksum_type": "sha256",
-    "size": 115822254,
-    "lib_c_type": "libc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "9ab696b1d13db0a66d33178df49605d2",
     "distribution": "zulu",
     "version": {
@@ -2514,42 +2476,5 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
-  },
-  {
-    "id": "f692f56eef151cfb62daca46b8bc425e",
-    "distribution": "zulu",
-    "version": {
-      "components": [
-        8,
-        0,
-        462
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        0,
-        462
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "solaris",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jdk8.0.462-solaris_x64.zip",
-    "checksum": "2831a9588c29f461b8bfbbdbd7c5f7432bb4e0c8e457d9c533f0f7af4076c0f8",
-    "checksum_type": "sha256",
-    "size": 114431652,
-    "lib_c_type": "libc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
   }
 ]
