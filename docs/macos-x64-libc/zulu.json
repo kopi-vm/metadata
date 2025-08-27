@@ -4616,43 +4616,6 @@
     "latest_build_available": false
   },
   {
-    "id": "c5d0849d08f0277b564304fd72d41b8e",
-    "distribution": "zulu",
-    "version": {
-      "components": [
-        21,
-        0,
-        6
-      ],
-      "build": [
-        7
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        21,
-        40,
-        17
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "macos",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://cdn.azul.com/zulu/bin/zulu21.40.17-ca-fx-jdk21.0.6-macosx_x64.tar.gz",
-    "checksum": "9e152d50b8fbda7de0145729d18a8f3db5bfdd25303eea275af090d863dcc36c",
-    "checksum_type": "sha256",
-    "size": 300922772,
-    "lib_c_type": "libc",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "837fed7255a8c8238913ae68c4350604",
     "distribution": "zulu",
     "version": {
@@ -5941,43 +5904,6 @@
     "checksum": "e663b717dcf25b95debd0b2c6b9c64c2d0ffbf64f0f5872b3f8893b196b4f7c4",
     "checksum_type": "sha256",
     "size": 297544947,
-    "lib_c_type": "libc",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "8112493f4c60f07960e9b800eab738b9",
-    "distribution": "zulu",
-    "version": {
-      "components": [
-        21,
-        0,
-        1
-      ],
-      "build": [
-        12
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        21,
-        30,
-        15
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "macos",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://cdn.azul.com/zulu/bin/zulu21.30.15-ca-fx-jdk21.0.1-macosx_x64.zip",
-    "checksum": "d9fbea18215f033d82e284e8ff443803661e58b73a509d48707ee4cf348e2070",
-    "checksum_type": "sha256",
-    "size": 301629662,
     "lib_c_type": "libc",
     "javafx_bundled": true,
     "term_of_support": "lts",
@@ -20005,6 +19931,43 @@
     "latest_build_available": false
   },
   {
+    "id": "2a7ada900f0349daabc3e134842dc15d",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        13,
+        0,
+        10
+      ],
+      "build": [
+        5
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        13,
+        46,
+        15
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu13.46.15-ca-fx-jdk13.0.10-macosx_x64.tar.gz",
+    "checksum": "2033f56580366b33ec9078db74303ae21e9d3c97028f5dbbcf18214f69791e62",
+    "checksum_type": "sha256",
+    "size": 285760371,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "mts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "37b070deef1e66b73bb67355549b0dcb",
     "distribution": "zulu",
     "version": {
@@ -32341,6 +32304,43 @@
     "latest_build_available": false
   },
   {
+    "id": "0a5ebabe6cec35e2bc3021cdd383f116",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        11,
+        0,
+        2
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        29,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu11.29.3-ca-fx-jdk11.0.2-macosx_x64.tar.gz",
+    "checksum": "ad51258b8e83187bcca8fa0f0e8c1d7545a5f15b70ca09a66b612d759a14ea7c",
+    "checksum_type": "sha256",
+    "size": 262323718,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "46ce223189b9da3fdb6bbf765134fbd9",
     "distribution": "zulu",
     "version": {
@@ -43093,6 +43093,44 @@
     "checksum": "37556902100779fc2a1aab88015fb59de383a75054e7dd50975b004779a02269",
     "checksum_type": "sha256",
     "size": 108585203,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "43766ad0a8a94d44a906c55f029d3321",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        201
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        34,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.34.0.1-ca-jdk8.0.201-macosx_x64.tar.gz",
+    "checksum": "bd27b8a7870990a1a8418ca2ffc513d5e8164a222ea381033e27871b26ab14fb",
+    "checksum_type": "sha256",
+    "size": 76979434,
     "lib_c_type": "libc",
     "javafx_bundled": false,
     "term_of_support": "lts",
