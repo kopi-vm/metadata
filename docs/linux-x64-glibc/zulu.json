@@ -30365,6 +30365,44 @@
     "latest_build_available": true
   },
   {
+    "id": "edb537ee7314eded8527b4c7d9e88a0c",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        462
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        88,
+        0,
+        19
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-fx-jdk8.0.462-linux_x64.tar.gz",
+    "checksum": "c1b265b5f77e437a5b85d63bb945f9202bffc3a5df9613ee4a62b9e031116eaf",
+    "checksum_type": "sha256",
+    "size": 178126408,
+    "lib_c_type": "glibc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "2c2cfa4a81b3119ddfbee464fea8b214",
     "distribution": "zulu",
     "version": {
@@ -34728,6 +34766,44 @@
     "checksum": "661024a0bc3aa43d51886ae48a6866e7f81239f7e9ff205d57caf3d005b75633",
     "checksum_type": "sha256",
     "size": 43775694,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "53ef9e4c65c71785d922c50ed33f5664",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        342
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        64,
+        0,
+        15
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.64.0.15-ca-jdk8.0.342-linux_x64.tar.gz",
+    "checksum": "64279672265607d6b77ad9d21f1fe03f4b8d8e1450509ed01275edb552463a2a",
+    "checksum_type": "sha256",
+    "size": 108386873,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",

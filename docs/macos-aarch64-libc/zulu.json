@@ -20068,6 +20068,43 @@
     "latest_build_available": false
   },
   {
+    "id": "e7fc8b2a3b75908b34495a373f7d7809",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        15,
+        0,
+        1
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        15,
+        28,
+        1007
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu15.28.1007-ca-jdk15.0.1-macos_aarch64.zip",
+    "checksum": "0844a82461cc304d3386a37458fb750e8567875e9cb99125680cc6f169283ffa",
+    "checksum_type": "sha256",
+    "size": 195524562,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "mts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "0521bcf073ec152998c95fb263949e84",
     "distribution": "zulu",
     "version": {
@@ -21358,6 +21395,43 @@
     "size": 255460760,
     "lib_c_type": "libc",
     "javafx_bundled": true,
+    "term_of_support": "mts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "a742b3c4158448d49a14cf515a288ae2",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        13,
+        0,
+        10
+      ],
+      "build": [
+        5
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        13,
+        46,
+        15
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu13.46.15-ca-jdk13.0.10-macosx_aarch64.tar.gz",
+    "checksum": "92eb552b109a1e68809c319df6dc29798fdd64a07098bd5821387e8b298657e5",
+    "checksum_type": "sha256",
+    "size": 179912266,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
     "term_of_support": "mts",
     "release_status": "ga",
     "latest_build_available": false
