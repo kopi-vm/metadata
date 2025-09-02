@@ -1534,43 +1534,6 @@
     "latest_build_available": false
   },
   {
-    "id": "3ed001dd54799f03c790afaa0acb21b4",
-    "distribution": "zulu",
-    "version": {
-      "components": [
-        19,
-        0,
-        2
-      ],
-      "build": [
-        7
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        19,
-        32,
-        13
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://cdn.azul.com/zulu/bin/zulu19.32.13-ca-jdk19.0.2-linux_musl_aarch64.tar.gz",
-    "checksum": "c534b402168ff345ab03dd3036bd0826bb225c518614bf6885d40f6e4e4f9adb",
-    "checksum_type": "sha256",
-    "size": 197148097,
-    "lib_c_type": "musl",
-    "javafx_bundled": false,
-    "term_of_support": "sts",
-    "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
     "id": "e531b9fb861cab3629d754d426319e11",
     "distribution": "zulu",
     "version": {
@@ -3450,6 +3413,43 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "24ab646c8f215d95cf69d5f8eebb33e4",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        16,
+        0,
+        2
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        16,
+        32,
+        15
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu16.32.15-ca-jdk16.0.2-linux_musl_aarch64.tar.gz",
+    "checksum": "7372e0812c86a2f228038a5328204e480ab164be257e40c7dc8e73e92513e9f5",
+    "checksum_type": "sha256",
+    "size": 201148333,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "fa9e2898857fbcf2b73042170ff80089",
