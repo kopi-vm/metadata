@@ -977,6 +977,41 @@
     "latest_build_available": false
   },
   {
+    "id": "d69d40f548246ac9dc024226a0cc7c8b",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        23
+      ],
+      "build": [
+        33
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        23,
+        0,
+        75
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu23.0.75-beta-jdk23.0.0-beta.33-linux_aarch64.tar.gz",
+    "checksum": "2df42748538438d406adc7e863d0c37211df73394e6efe03cf3e05bd780f2d9c",
+    "checksum_type": "sha256",
+    "size": 219153720,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "52ca851ae66bb41a2f81d322f5c64fb2",
     "distribution": "zulu",
     "version": {
@@ -7448,6 +7483,43 @@
     "size": 43214954,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "b76af0ffabe2a119b76338aef3c14bb0",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        11,
+        0,
+        26
+      ],
+      "build": [
+        4
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        78,
+        15
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu11.78.15-ca-fx-jdk11.0.26-linux_aarch64.tar.gz",
+    "checksum": "8645a7b9521229a4c92b37c84c395a7cb5f3a0f476c6707121a5241e2b5bc573",
+    "checksum_type": "sha256",
+    "size": 305144729,
+    "lib_c_type": "glibc",
+    "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
