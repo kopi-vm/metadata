@@ -34,7 +34,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "9c339bcf589e655b20056dec34b46c48",
@@ -71,7 +71,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "3b86b03aa02163566ef47e30bf19274f",
@@ -252,7 +252,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "6440f4fee74dbccbfe5c26591581d3c1",
@@ -289,7 +289,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "3cc20abc55ffab96d7fa8a954f9ab659",
@@ -507,7 +507,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "3cbf4ac27f3a785064c17a4da785cc1c",
@@ -2150,43 +2150,6 @@
     "checksum": "dd881d7a13325d243531ad96c94b65f5606338372800972cf409fac5a16643e4",
     "checksum_type": "sha256",
     "size": 46161302,
-    "lib_c_type": "musl",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "57c8018d50086c142d776397705bbb2c",
-    "distribution": "zulu",
-    "version": {
-      "components": [
-        17,
-        0,
-        15
-      ],
-      "build": [
-        6
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        17,
-        58,
-        21
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://cdn.azul.com/zulu/bin/zulu17.58.21-ca-jdk17.0.15-linux_musl_aarch64.tar.gz",
-    "checksum": "81d3b6017d3a7a0f43a006305c1d9a52c329e5454fff1a87eea52b6712600347",
-    "checksum_type": "sha256",
-    "size": 197152496,
     "lib_c_type": "musl",
     "javafx_bundled": false,
     "term_of_support": "lts",
