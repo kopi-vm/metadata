@@ -3034,41 +3034,6 @@
     "latest_build_available": false
   },
   {
-    "id": "01e6f8c2ca75aa5def604b6d8ab71ac5",
-    "distribution": "dragonwell",
-    "version": {
-      "components": [
-        8,
-        0,
-        462
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        26,
-        25
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.26.25_jdk8u462-ga/Alibaba_Dragonwell_Standard_8.26.25_aarch64_linux.tar.gz",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 102228694,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
     "id": "a530c14451d41e37dcaa145376d06f20",
     "distribution": "dragonwell",
     "version": {
@@ -4790,6 +4755,43 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "01e6f8c2ca75aa5def604b6d8ab71ac5",
+    "distribution": "dragonwell",
+    "version": {
+      "components": [
+        8,
+        0,
+        462
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        462
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.26.25_jdk8u462-ga/Alibaba_Dragonwell_Standard_8.26.25_aarch64_linux.tar.gz",
+    "checksum": "37122741953cecd9d0a8ec708b563cb98aa7cb69097af28ac85a852244c1dd1f",
+    "checksum_type": "sha256",
+    "size": 102228694,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "0903a9522bec3eeed0e1059d8e7034e0",

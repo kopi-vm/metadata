@@ -2743,6 +2743,41 @@
     "latest_build_available": false
   },
   {
+    "id": "bd3153164cc6cc27dd8ed801bcf1d6b9",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        22
+      ],
+      "build": [
+        19
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        22,
+        0,
+        49
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu22.0.49-beta-jdk22.0.0-beta.19-linux_aarch64.tar.gz",
+    "checksum": "de4a46fe221d86830118343c6825a4179979d373d9517ae25d5259861d12fa6c",
+    "checksum_type": "sha256",
+    "size": 213372328,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "2636e4ef992eab2ec1cdafb671a63ab3",
     "distribution": "zulu",
     "version": {
@@ -8934,6 +8969,43 @@
     "checksum": "aa47dafb258a7552570f119ccf48848d1144d12c660c79dfeb1d6844360b2fc1",
     "checksum_type": "sha256",
     "size": 90335158,
+    "lib_c_type": "glibc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "7b6accccfe7bb80365aa46339c670dc5",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        11,
+        0,
+        25
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        76,
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu11.76.21-ca-fx-jdk11.0.25-linux_aarch64.tar.gz",
+    "checksum": "6aebd77940c993fed52cf637cafa03d4ee2a04ee5666dff5b83e1a4f26609923",
+    "checksum_type": "sha256",
+    "size": 304793995,
     "lib_c_type": "glibc",
     "javafx_bundled": true,
     "term_of_support": "lts",
