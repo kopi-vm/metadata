@@ -32,7 +32,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "af5c0a8c3f1107adcc4318bce93f8680",
@@ -67,7 +67,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "c6be6a1f443030b914f4bf5c41ea9427",
@@ -9218,6 +9218,41 @@
     "latest_build_available": false
   },
   {
+    "id": "65be2ead3778668e7b355a35aa2ec9e0",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        11,
+        0,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        31,
+        15
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu11.31.15-ca-jdk11.0.3-linux_aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 417182286,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "2345b746f9e2745be0d7a6cb4b481528",
     "distribution": "zulu",
     "version": {
@@ -10275,6 +10310,78 @@
     "checksum": "c4449d28499f92213ae7b5ffc5c970b0947933e3fbd81a5612bb4071831c2b46",
     "checksum_type": "sha256",
     "size": 118778359,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "d65168a30a7856ca21a683d69adc7704",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        392
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        74,
+        0,
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.74.0.17-ca-jdk8.0.392-linux_aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 118778359,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "fb13023e6fe49ec8c358e1c098356c50",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        392
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        74,
+        0,
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.74.0.17-ca-jre8.0.392-linux_aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 48944132,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -11813,6 +11920,42 @@
     "checksum": null,
     "checksum_type": null,
     "size": 164904528,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "ac654af1eb26efdd92ab0a05d5579939",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        144
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        23,
+        0,
+        66
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.23.0.66-ca-jdk1.8.0.144-linux_aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 159553808,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",

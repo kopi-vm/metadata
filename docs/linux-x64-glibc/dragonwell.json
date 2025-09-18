@@ -1696,6 +1696,80 @@
     "latest_build_available": false
   },
   {
+    "id": "2aa210619989e539d52c9d7c92f94f47",
+    "distribution": "dragonwell",
+    "version": {
+      "components": [
+        11,
+        0,
+        28
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        28,
+        25,
+        6
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-extended-11.0.28.25_jdk-11.0.28-ga/Alibaba_Dragonwell_Extended_11.0.28.25.6_x64_linux.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 199060262,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "3b04aad16c6c64dffcd5683a1987990c",
+    "distribution": "dragonwell",
+    "version": {
+      "components": [
+        11,
+        0,
+        28
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        28,
+        25,
+        6
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-extended-11.0.28.25_jdk-11.0.28-ga/Alibaba_Dragonwell_Extended_11.0.28.25.6_riscv64_linux.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 178370722,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "69eadb7fb0aa56178a23fa918844025f",
     "distribution": "dragonwell",
     "version": {
@@ -1767,7 +1841,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "d1601bf2fd568d1272c333f51c23d4f8",
@@ -4027,6 +4101,41 @@
     "checksum": null,
     "checksum_type": null,
     "size": 192741903,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "60e9112452bba595aec8c532ae3edbff",
+    "distribution": "dragonwell",
+    "version": {
+      "components": [
+        8,
+        0,
+        462
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        26,
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-extended-8.26.25_jdk8u462-ga/Alibaba_Dragonwell_Extended_8.26.25_x64_linux.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 103410746,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
