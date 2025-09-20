@@ -1,5 +1,71 @@
 [
   {
+    "id": "ce915be4dbce9b65c7996e0e166f79fc",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        25
+      ],
+      "build": [
+        36
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25%2B36/OpenJDK25U-jdk_x64_alpine-linux_hotspot_25_36.tar.gz",
+    "checksum": "637e47474d411ed86134f413af7d5fef4180ddb0bf556347b7e74a88cf8904c8",
+    "checksum_type": "sha256",
+    "size": 139912688,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "f83ae718358a64df62e6517532e7d093",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        25
+      ],
+      "build": [
+        36
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25%2B36/OpenJDK25U-jre_x64_alpine-linux_hotspot_25_36.tar.gz",
+    "checksum": "aa5160aa130f0f0b4379fc62a0d5198c065815224e01318272864e56f260de34",
+    "checksum_type": "sha256",
+    "size": 60719295,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "11d60cbe54b2f52ed94658c360d66f82",
     "distribution": "temurin",
     "version": {
