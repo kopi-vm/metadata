@@ -6631,41 +6631,6 @@
     "latest_build_available": false
   },
   {
-    "id": "5e0d5398e260c593df2f3106acd27b93",
-    "distribution": "liberica_native",
-    "version": {
-      "components": [
-        22,
-        3,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        22,
-        3,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "macos",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://download.bell-sw.com/vm/22.3.1/bellsoft-liberica-vm-openjdk11.0.18+10-22.3.1+1-macos-amd64.tar.gz",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 277826639,
-    "lib_c_type": "libc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "6205b51ed1bc24a3d59051e8d7dfd1ed",
     "distribution": "liberica_native",
     "version": {
@@ -7295,6 +7260,39 @@
     "lib_c_type": "libc",
     "javafx_bundled": false,
     "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "87f069505d8a84c29529f0b7dfa05080",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        22,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        22,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk11.0.16+8-22.2.0+2-macos-amd64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 274197677,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
   },
@@ -9228,6 +9226,39 @@
     "checksum": "11dbb45245c8f6bf16c9d4ae8b59a4b2affa8375",
     "checksum_type": "sha1",
     "size": 396128168,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "a3a1fabde944afef779bff9d4fd1538a",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        21,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.bell-sw.com/vm/21.3.0/bellsoft-liberica-vm-openjdk11-21.3.0-macos-amd64.tar.gz",
+    "checksum": "bed3bcc41e2ca7403278dceb2078832cd4ac9d9e",
+    "checksum_type": "sha1",
+    "size": 384363786,
     "lib_c_type": "libc",
     "javafx_bundled": false,
     "term_of_support": "lts",
