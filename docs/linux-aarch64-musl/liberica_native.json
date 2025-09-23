@@ -1,5 +1,38 @@
 [
   {
+    "id": "bc62e8c28b17e46e9116dd18847e5577",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        25
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/LibericaNIK/releases/download/25.0.0+1-25+37/bellsoft-liberica-vm-openjdk25+37-25.0.0+1-linux-aarch64-musl.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 320112213,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "589aa94fe9d97c7ebd3cd74eb6eb5f9a",
     "distribution": "liberica_native",
     "version": {
@@ -1677,6 +1710,41 @@
     "checksum": null,
     "checksum_type": null,
     "size": 285165902,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "c17c6398bc1a27e78917048799ce0105",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        22,
+        3,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        22,
+        3,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.bell-sw.com/vm/22.3.2/bellsoft-liberica-vm-openjdk17.0.7+7-22.3.2+1-linux-aarch64-musl.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 303216761,
     "lib_c_type": "musl",
     "javafx_bundled": false,
     "term_of_support": "lts",
