@@ -510,6 +510,43 @@
     "latest_build_available": false
   },
   {
+    "id": "12c3c9ecde83d835a24c7ef503cda38f",
+    "distribution": "semeru_certified",
+    "version": {
+      "components": [
+        17,
+        0,
+        16
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        16
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.16%2B8_openj9-0.53.0/ibm-semeru-certified-jre_aarch64_linux_17.0.16.0.tar.gz",
+    "checksum": "c1d325b46d970e429a6a1db536fcd138facaeb0c34b96d43be6aeb3622d05d14",
+    "checksum_type": "sha256",
+    "size": 52429988,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "cdcc00ddda3991924ede835db27ef88f",
     "distribution": "semeru_certified",
     "version": {
