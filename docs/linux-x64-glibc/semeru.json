@@ -94,7 +94,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "c0a4eca12b79b66e685e82f4fa172d7e",
@@ -199,7 +199,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "2deeb8b77961c39bfeb6699f523bca05",
@@ -436,7 +436,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "cc64e7772305222b564a6861b9f43e93",
@@ -471,7 +471,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "de79dbb12a5e8f53c8174ce34c4fd567",
@@ -646,7 +646,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "6b92876611c3a84af7aeb1aa628ec872",
@@ -1116,6 +1116,43 @@
     "latest_build_available": false
   },
   {
+    "id": "2496ec856cb1356bcc0fbed7841d2b66",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        21,
+        0,
+        4
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.4%2B7_openj9-0.46.1/ibm-semeru-certified-jre_x64_linux_21.0.4.1.tar.gz",
+    "checksum": "73f39564be493f130844779ae3a1a438f0ab95276ab776579e997b647cd587f0",
+    "checksum_type": "sha256",
+    "size": 55255800,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "7d91675a940d818a70826a3316a1cced",
     "distribution": "semeru",
     "version": {
@@ -1144,6 +1181,43 @@
     "checksum": null,
     "checksum_type": "sha256",
     "size": 54963509,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "8137a6ba536877d71417f8d55f6fab65",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        21,
+        0,
+        4
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.4%2B7_openj9-0.46.1/ibm-semeru-certified-jdk_x64_linux_21.0.4.1.tar.gz",
+    "checksum": "61b7bddbfabdf3c992dfc42c1f9388e4325d7593e3576694002e49eb70845c24",
+    "checksum_type": "sha256",
+    "size": 249862997,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -1213,7 +1287,7 @@
     "download_url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.4%2B7_openj9-0.46.1/ibm-semeru-open-jdk_x64_linux_21.0.4_7_openj9-0.46.1.tar.gz",
     "checksum": null,
     "checksum_type": "sha256",
-    "size": 228961114,
+    "size": 228961150,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -1248,7 +1322,7 @@
     "download_url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.4%2B7_openj9-0.46.1/ibm-semeru-open-jre_x64_linux_21.0.4_7_openj9-0.46.1.tar.gz",
     "checksum": null,
     "checksum_type": "sha256",
-    "size": 54963626,
+    "size": 54963535,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -1533,7 +1607,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "d577a77fb95d2197f92ba856228eb937",
@@ -1638,7 +1712,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "badcaa91b1ccb370ff030c5f5124b3c2",
@@ -1673,7 +1747,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "2cb04922539592dbcce53c96bd4962e6",
@@ -1708,7 +1782,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "630c07a91ee41e1e589bea3e37a8eeb5",
@@ -1743,7 +1817,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "6d0d13a5b755a8f71dce8be1774ac071",
@@ -1778,7 +1852,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "b2ec4dcc72c18e69c9eadca5f7c46044",
@@ -3585,7 +3659,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "c873b44de7b4f355fda849d1600f788f",
@@ -3620,7 +3694,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "63b1403e36607c644ca852ae1c37fa55",
