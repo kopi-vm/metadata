@@ -1,38 +1,5 @@
 [
   {
-    "id": "1245f3f54c09e283229ce319da7069f9",
-    "distribution": "semeru",
-    "version": {
-      "components": [
-        25
-      ],
-      "build": [
-        36
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        25
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jre",
-    "archive_type": "targz",
-    "download_url": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25%2B36_openj9-0.55.0/ibm-semeru-certified-jre_aarch64_linux_25.0.0.0.tar.gz",
-    "checksum": "0713c49444003a38b5733a5d452f5c3760d5347c3bdc31c876c07311bc97ec31",
-    "checksum_type": "sha256",
-    "size": 56843708,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
     "id": "3943ad991bbee7e7c01d805285ff080c",
     "distribution": "semeru",
     "version": {
@@ -61,40 +28,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
-    "id": "893d3178cbcf71e56b1e090079e445a9",
-    "distribution": "semeru",
-    "version": {
-      "components": [
-        25
-      ],
-      "build": [
-        36
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        25
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25%2B36_openj9-0.55.0/ibm-semeru-certified-jdk_aarch64_linux_25.0.0.0.tar.gz",
-    "checksum": "a2f4764290c14b403e8eed320e94b6ca2510905e3f37ddae9df2d78e15016c16",
-    "checksum_type": "sha256",
-    "size": 263569972,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "cef61ae9b57c83f141f4ffa860b2b7a8",
@@ -125,7 +59,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "9c4dab8dc5d692d6b6b17c53add86f39",
@@ -160,7 +94,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "fef81e35e4f2e0ce2cabd1835029763a",
@@ -195,7 +129,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "c677012cca5f76051018a415a98bbb2a",
@@ -230,7 +164,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "f7bdc6fe12cf45989d7426310d0c853e",
@@ -265,7 +199,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "23c488c6bbbaf756b419c4e1c217cc2f",
@@ -502,7 +436,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "10a38545e3da67b90a9945a2f9795297",
@@ -537,7 +471,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "b666b705ec0e937fa9763e04476fb66d",
@@ -572,7 +506,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "d2b0e00b113e38b7b477c12ee0365ded",
@@ -607,7 +541,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "09b827f7faa65c73ace5a408d48de69a",
@@ -712,81 +646,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
-    "id": "5590ae3baac43e92ddb092dc4ad66a5a",
-    "distribution": "semeru",
-    "version": {
-      "components": [
-        21,
-        0,
-        8
-      ],
-      "build": [
-        9
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        21,
-        0,
-        8
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.8%2B9_openj9-0.53.0/ibm-semeru-certified-jdk_aarch64_linux_21.0.8.0.tar.gz",
-    "checksum": "02b85f31e8c9a9eb43f058459c023840dec8e00fdbaa753f9d0265b3465352b2",
-    "checksum_type": "sha256",
-    "size": 255286336,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
-    "id": "95413095f2cc8f3cd2fe2471f0b69af6",
-    "distribution": "semeru",
-    "version": {
-      "components": [
-        21,
-        0,
-        8
-      ],
-      "build": [
-        9
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        21,
-        0,
-        8
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jre",
-    "archive_type": "targz",
-    "download_url": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.8%2B9_openj9-0.53.0/ibm-semeru-certified-jre_aarch64_linux_21.0.8.0.tar.gz",
-    "checksum": "4a1a6f5b86aef9fe3dfd805d54e467795f8b0fb16b77a09dedcf52b3be34baca",
-    "checksum_type": "sha256",
-    "size": 56974801,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "ab9c84d38389dc5835dc16b475c3f77e",
@@ -821,7 +681,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "1aedfc573d76914982cf106bb5336ccc",
@@ -1564,7 +1424,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "83b09f26c0b26c0cfb8f9374770c2d2e",
@@ -1599,7 +1459,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "1fc7158d4aeba71bba1e4ef99244b3ec",
@@ -1704,7 +1564,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "e2a19e17b0a4386f2ccaa0d69618a1d2",
@@ -1739,7 +1599,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "252cdac4b42bd6c33d40b431e35672d0",
@@ -1774,7 +1634,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "37faf462eae35ab1589c1119783efa29",
@@ -1809,7 +1669,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "43f889ef7fb1f820ffa5e23fdb18226c",
@@ -1844,7 +1704,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "e3af03e1efe548afd055360a1aff7df2",
@@ -1879,7 +1739,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "d95fd1c57e321589479bfa9b6a36b7e8",
@@ -2026,43 +1886,6 @@
     "latest_build_available": false
   },
   {
-    "id": "12c3c9ecde83d835a24c7ef503cda38f",
-    "distribution": "semeru",
-    "version": {
-      "components": [
-        17,
-        0,
-        16
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        17,
-        0,
-        16
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jre",
-    "archive_type": "targz",
-    "download_url": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.16%2B8_openj9-0.53.0/ibm-semeru-certified-jre_aarch64_linux_17.0.16.0.tar.gz",
-    "checksum": "c1d325b46d970e429a6a1db536fcd138facaeb0c34b96d43be6aeb3622d05d14",
-    "checksum_type": "sha256",
-    "size": 52429988,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
     "id": "856259b70899523f26e3af5a57900abb",
     "distribution": "semeru",
     "version": {
@@ -2095,7 +1918,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "97e8e152e51472dedf78690cef32f2a6",
@@ -2130,44 +1953,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
-    "id": "d532d4fa2ddd4beedf93565419c01177",
-    "distribution": "semeru",
-    "version": {
-      "components": [
-        17,
-        0,
-        16
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        17,
-        0,
-        16
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.16%2B8_openj9-0.53.0/ibm-semeru-certified-jdk_aarch64_linux_17.0.16.0.tar.gz",
-    "checksum": "db6e58c25c20179f75f46e3d704145099047b0cfc9703e7b722f612c9b42e4fe",
-    "checksum_type": "sha256",
-    "size": 241745952,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "071c15d96a646e621bfb3a41169f922c",
@@ -3656,43 +3442,6 @@
     "latest_build_available": true
   },
   {
-    "id": "14cd442f4dbf780a2f76ed1366fceebc",
-    "distribution": "semeru",
-    "version": {
-      "components": [
-        11,
-        0,
-        28
-      ],
-      "build": [
-        6
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        11,
-        0,
-        28
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.28%2B6_openj9-0.53.0/ibm-semeru-certified-jdk_aarch64_linux_11.0.28.0.tar.gz",
-    "checksum": "c6a2faa2562228961ae3e78859a855e90e0b325b6e35a4e064f2f4fe5e0026d0",
-    "checksum_type": "sha256",
-    "size": 230931957,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
     "id": "7a963b137aa218170020a37661b2a651",
     "distribution": "semeru",
     "version": {
@@ -3725,7 +3474,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "819b38be3ee174e5b564e69826795a0e",
@@ -3760,44 +3509,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
-    "id": "c1beb9c202f7e01ce65c1739af579ed5",
-    "distribution": "semeru",
-    "version": {
-      "components": [
-        11,
-        0,
-        28
-      ],
-      "build": [
-        6
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        11,
-        0,
-        28
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jre",
-    "archive_type": "targz",
-    "download_url": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.28%2B6_openj9-0.53.0/ibm-semeru-certified-jre_aarch64_linux_11.0.28.0.tar.gz",
-    "checksum": "3cc1e7f666b48e1a72e51fb20158c08d212b85a037a268aa8d3549fb4693ac64",
-    "checksum_type": "sha256",
-    "size": 52937084,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "02e5642817218d4a3e68c4b9135a8f28",
@@ -5842,7 +5554,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "ed9fe2a71af4480aad3117be5cf6d51d",
@@ -5879,7 +5591,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "baf1858b236cc00a3aa3dd23453bd51d",
