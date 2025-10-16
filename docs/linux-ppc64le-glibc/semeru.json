@@ -28,7 +28,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "564049ce08f6d50ecdef2be9a9a54bc4",
@@ -59,7 +59,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "d7d2a0940cac2b608c7a116fa1bbdda4",
@@ -94,7 +94,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "fe97a8a9ae1ac99d8eaf0e56bf0f6fc0",
@@ -129,7 +129,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "584338dc53f2b46a49c0f840fd4d54ae",
@@ -164,7 +164,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "d242308598435905290f36961797e2b4",
@@ -199,7 +199,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "829c8914dbf49e716b4efad00f821706",
@@ -436,7 +436,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "b65c98536d1e57ad3aa5f1cd772b5093",
@@ -471,7 +471,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "d8fde604dc795b07e216414e167bc024",
@@ -506,7 +506,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "fe0b7ce13e7012666210baa8413e409c",
@@ -541,7 +541,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "7cdf8ac267cf6d393276036e3cc4e246",
@@ -646,7 +646,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "a66c2ea3eda8ed5c0c508e552b0c7398",
@@ -681,7 +681,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "04a754e37e8be3d7b14542966a1bc177",
@@ -1104,7 +1104,7 @@
     "download_url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.4%2B7_openj9-0.46.1/ibm-semeru-open-jre_ppc64le_linux_21.0.4_7_openj9-0.46.1.tar.gz",
     "checksum": null,
     "checksum_type": "sha256",
-    "size": 56561820,
+    "size": 56561867,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -1147,6 +1147,43 @@
     "latest_build_available": false
   },
   {
+    "id": "8c2b4dbdad833294e7e48f007ee3f58f",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        21,
+        0,
+        4
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64le",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.4%2B7_openj9-0.46.1/ibm-semeru-certified-jre_ppc64le_linux_21.0.4.1.tar.gz",
+    "checksum": "115d54252bcdfc6ed7abd71dccc7c0ae097dc0a085c069a49e3df4a3063fc83f",
+    "checksum_type": "sha256",
+    "size": 56854394,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "a70adf33b1329f6f623ccdc1dfbc1c02",
     "distribution": "semeru",
     "version": {
@@ -1174,7 +1211,44 @@
     "download_url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.4%2B7_openj9-0.46.1/ibm-semeru-open-jdk_ppc64le_linux_21.0.4_7_openj9-0.46.1.tar.gz",
     "checksum": null,
     "checksum_type": "sha256",
-    "size": 232343710,
+    "size": 232343850,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "be777c7e5f9b0e539eeabf448880a288",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        21,
+        0,
+        4
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64le",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.4%2B7_openj9-0.46.1/ibm-semeru-certified-jdk_ppc64le_linux_21.0.4.1.tar.gz",
+    "checksum": "dd9bb02646443825dbd4dc9983d1ab8b43c648875e8e133fdb218db6ca6a3aaf",
+    "checksum_type": "sha256",
+    "size": 253230324,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -1424,7 +1498,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "de411e341e6cc6361cb6760bf4e3d882",
@@ -1459,7 +1533,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "6aad3fec99dd12d432deb6383a522c17",
@@ -1564,7 +1638,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "a158b2a2df5e52c4eab323fe5d01d957",
@@ -1599,7 +1673,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "173a344fdc3d21a75ed5a3edb8f09260",
@@ -1634,7 +1708,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "1fe4f050428cdf3468856d2d38e7b190",
@@ -1669,7 +1743,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "80d310c411e7c29256b1ed101fca56b0",
@@ -1704,7 +1778,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "c352d857e2c4b696cbc4666de472681d",
@@ -1739,7 +1813,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "5566cafe68448de053bdf9d2fb046d3e",
@@ -1918,7 +1992,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "d36ef3bcb08340dc944f4b06910235e6",
@@ -1953,7 +2027,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "0bc740e314b8aac30a3665cdd9b5743d",
@@ -3544,7 +3618,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "efb8301098cd41ed4468861385b81910",
@@ -3579,7 +3653,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "76705224315c587a3bbfe0ab58b6abca",
@@ -5694,7 +5768,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "ebba1e6845245f3edbe6fb1b77f95894",
@@ -5731,7 +5805,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "08c4cb13286fb7395f9bdc3490148b7d",
