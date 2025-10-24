@@ -1,5 +1,40 @@
 [
   {
+    "id": "5690fe70c0f219f4473650ef6e7fd8f9",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/graalvm/25/archive/graalvm-jdk-25.0.1_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 422860804,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "52c98f1741803440f280a3b9f2590fab",
     "distribution": "graalvm",
     "version": {
@@ -28,7 +63,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "3135cd3b86239484cab6fac6b9d3db31",
@@ -334,6 +369,41 @@
     "latest_build_available": false
   },
   {
+    "id": "99353ce9d1b763b021b80ffdde20c2a3",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        21,
+        0,
+        9
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        9
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/graalvm/21/archive/graalvm-jdk-21.0.9_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 322219085,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "78c2119fb09a44353a1df32c6ab72ca4",
     "distribution": "graalvm",
     "version": {
@@ -366,7 +436,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "d6789de372872f3695b7931649de991d",
