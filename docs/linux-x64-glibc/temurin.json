@@ -37,6 +37,43 @@
     "latest_build_available": true
   },
   {
+    "id": "bb62763ee3cb0804f15b83f654050b72",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jdk_riscv64_linux_hotspot_25.0.1_8.tar.gz",
+    "checksum": "6c11dfbe07ec0eb9e8c23f302dcd57c7e26f3fc7b62e15533c5e6640900e497b",
+    "checksum_type": "sha256",
+    "size": 139501724,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "ce48ac759cd17d87abf070e61fb34a96",
     "distribution": "temurin",
     "version": {
@@ -67,6 +104,43 @@
     "checksum": "126c7f59b91df97b2e930b0a456422ce29af7f2385117e1c04297eba962b0b1c",
     "checksum_type": "sha256",
     "size": 61372266,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "eac5992c8c72a9a522ee2167647b42bd",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.1_8.tar.gz",
+    "checksum": "31af8beb1071d499bf4d55d4709aef49055e854c3f6b505d01296f947fde3b8f",
+    "checksum_type": "sha256",
+    "size": 60158042,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -137,7 +211,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "c7dbcf54bacc4c888b93cc42ef334a2a",
@@ -203,7 +277,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "45a40b6853d5e57ee7704cb794c7f7d4",
@@ -7312,6 +7386,80 @@
     "latest_build_available": true
   },
   {
+    "id": "29e92f59031aa3ab9fff063424df2b6f",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        11,
+        0,
+        29
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        29
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jdk_x64_linux_hotspot_11.0.29_7.tar.gz",
+    "checksum": "3c8f2b53dd137cd86e54f40df96fd0fc56df72c749c06469e7eab216503bc7cf",
+    "checksum_type": "sha256",
+    "size": 194736095,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "751eccbbfbc6f540c34a3e8b1f5ed02e",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        11,
+        0,
+        29
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        29
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jre_x64_linux_hotspot_11.0.29_7.tar.gz",
+    "checksum": "97a4c089411868e24bf74a9789a819ae4164818316f8a3146460a102e8db6149",
+    "checksum_type": "sha256",
+    "size": 43060206,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "6f41eeaa45a52a87bde72a2761437eee",
     "distribution": "temurin",
     "version": {
@@ -7346,7 +7494,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "7b16aaddccd72c4ff41b41a5af29561b",
@@ -7420,7 +7568,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "8bac590b393de91733e07630331b50dd",
@@ -10296,6 +10444,80 @@
     "latest_build_available": false
   },
   {
+    "id": "bc94c98e2d43ea4a9dbd2e01c2f79d66",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        8,
+        0,
+        472
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        472
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jdk_x64_linux_hotspot_8u472b08.tar.gz",
+    "checksum": "5becaa4ac660e844c5a39e2ebc39ff5ac824c37ff1b625af8c8b111dc13c3592",
+    "checksum_type": "sha256",
+    "size": 103123206,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "d99f666db124654fbd01df889e24ec47",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        8,
+        0,
+        472
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        472
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x64_linux_hotspot_8u472b08.tar.gz",
+    "checksum": "6f7fb5fd640a0fd00837344b0920cbc4b9b9284b50e66f33789e3b250446a16e",
+    "checksum_type": "sha256",
+    "size": 41435724,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "40031ac64372b27f0f87d294a4fd3a32",
     "distribution": "temurin",
     "version": {
@@ -10404,7 +10626,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "de9d929100334c7dfdb00e1e15c87d4a",
@@ -10441,7 +10663,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "10dbacebea0a22e9e6509ff212797246",
