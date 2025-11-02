@@ -1,5 +1,79 @@
 [
   {
+    "id": "20b69447777df44e85a2364548801254",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/LibericaNIK/releases/download/25.0.1+1-25.0.1+12/bellsoft-liberica-vm-full-openjdk25.0.1+12-25.0.1+1-linux-amd64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 356165666,
+    "lib_c_type": "glibc",
+    "javafx_bundled": true,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "ef69f19ddcf9e4dcfaaba70d90d0babb",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/LibericaNIK/releases/download/25.0.1+1-25.0.1+12/bellsoft-liberica-vm-openjdk25.0.1+12-25.0.1+1-linux-amd64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 345513519,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "426f1ed16eb99ebe23cbc70eeaced4fb",
     "distribution": "liberica_native",
     "version": {
@@ -30,7 +104,7 @@
     "javafx_bundled": true,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "72dafb370bc7fce520fc772ae8cd9bc1",
@@ -63,7 +137,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "0bdaf8aa6a082d2b2dc04e72ff72ff0e",
@@ -770,6 +844,80 @@
     "latest_build_available": false
   },
   {
+    "id": "24085aaaf49456c5d89b97fe22b0c531",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        23,
+        1,
+        9
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        23,
+        1,
+        9
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.1.9+1-21.0.9+12/bellsoft-liberica-vm-openjdk21.0.9+12-23.1.9+1-linux-amd64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 314982714,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "acd2e5ced0dce3fc844cf0f30032b244",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        23,
+        1,
+        9
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        23,
+        1,
+        9
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.1.9+1-21.0.9+12/bellsoft-liberica-vm-full-openjdk21.0.9+12-23.1.9+1-linux-amd64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 284780885,
+    "lib_c_type": "glibc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "30551066cf0558c666756d248864462b",
     "distribution": "liberica_native",
     "version": {
@@ -804,7 +952,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "b700322df3b88fdb460cbec28b5bc5d7",
@@ -841,7 +989,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "0bdadf3d079d2a4533655204fc5dc18f",
@@ -1653,6 +1801,80 @@
     "latest_build_available": false
   },
   {
+    "id": "ce54994d91e6b66946510e64dbd5635a",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        23,
+        0,
+        10
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        23,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.10+1-17.0.17+12/bellsoft-liberica-vm-full-openjdk17.0.17+12-23.0.10+1-linux-amd64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 294112996,
+    "lib_c_type": "glibc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "f6b8ee5e6bfe71ac9b56b217870d090e",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        23,
+        0,
+        10
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        23,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.10+1-17.0.17+12/bellsoft-liberica-vm-openjdk17.0.17+12-23.0.10+1-linux-amd64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 300027024,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "2017b9ee436a92672e3b88734ab77dc8",
     "distribution": "liberica_native",
     "version": {
@@ -1687,7 +1909,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "9f20f992bd00e27cded7934590e5aaec",
@@ -1724,7 +1946,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "cd91d1d3fe2d95edb2b13210b4d18d00",

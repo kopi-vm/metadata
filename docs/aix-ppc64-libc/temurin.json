@@ -1,5 +1,79 @@
 [
   {
+    "id": "95621e20420eabc86579b76049e40272",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64",
+    "operating_system": "aix",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jdk_ppc64_aix_hotspot_25.0.1_8.tar.gz",
+    "checksum": "f6b5f55777f3dbd9d236c640a0762955fd8eb37d1298feed74b0806fc082ba16",
+    "checksum_type": "sha256",
+    "size": 115139417,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "b8c3936fcd3833bfa14c5efa2a56fd57",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64",
+    "operating_system": "aix",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jre_ppc64_aix_hotspot_25.0.1_8.tar.gz",
+    "checksum": "ce3630a04f25f3728d2184e6c664585d8e3245fe923c51e0af02cd0b768f3a80",
+    "checksum_type": "sha256",
+    "size": 41051329,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "bc367eac67c1a1743e81a0b132acd2ab",
     "distribution": "temurin",
     "version": {
@@ -30,7 +104,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "eaf7f75f1373dc28f37b97c3c70e1872",
@@ -63,7 +137,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "332079105781fe7529e5edccc3fc0c97",
@@ -502,6 +576,80 @@
     "latest_build_available": true
   },
   {
+    "id": "6b43dd8e05cab00d3805091b047d329d",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        21,
+        0,
+        9
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        9
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64",
+    "operating_system": "aix",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.9_10.tar.gz",
+    "checksum": "3efeded404ac566c7ba4d0abcefb1762f2af0500a04ba51cb69393c667fba14b",
+    "checksum_type": "sha256",
+    "size": 201421257,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "bb4776d47c6f0c692a0938065e308a56",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        21,
+        0,
+        9
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        9
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64",
+    "operating_system": "aix",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.9_10.tar.gz",
+    "checksum": "2802938e712b30a807710c835c506f530e1886cf192a76ece8c773009543ad00",
+    "checksum_type": "sha256",
+    "size": 48302203,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "a21a40f7aa58a7710f8ecd48dad4e748",
     "distribution": "temurin",
     "version": {
@@ -536,7 +684,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "e371f303a6b05e1050ff1bbf06d044ae",
@@ -573,7 +721,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "4e6052429eab7e8c92c6b93aace51a27",
