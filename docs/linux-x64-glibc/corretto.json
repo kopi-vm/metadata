@@ -1,5 +1,44 @@
 [
   {
+    "id": "9dc8b85d8a8e0f5694dd67158b81959c",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1,
+        9,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/25.0.1.9.1/amazon-corretto-25.0.1.9.1-linux-x64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 227840525,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "14b3a7a013be6018d05d7d29014298e6",
     "distribution": "corretto",
     "version": {
@@ -36,7 +75,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "f7c35192ab687195f9a1fb4e2cd3a53d",
@@ -619,6 +658,45 @@
     "latest_build_available": false
   },
   {
+    "id": "454b2f35f06b635aa4a2871eddd1e32e",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        21,
+        0,
+        9
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        9,
+        11,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/21.0.9.11.1/amazon-corretto-21.0.9.11.1-linux-x64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 209281719,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "efe0db8815279f2aa364af57a9b00f39",
     "distribution": "corretto",
     "version": {
@@ -655,7 +733,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "bf61362f429c3a4553b499ba99a26558",
