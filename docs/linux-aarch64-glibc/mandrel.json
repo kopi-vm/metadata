@@ -1,5 +1,40 @@
 [
   {
+    "id": "f77e84329a01d087e8f2b1766b3d4aee",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-25.0.1.0-Final/mandrel-java25-linux-aarch64-25.0.1.0-Final.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 201414869,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "ec7faccc8320b4bbedfd958297566a26",
     "distribution": "mandrel",
     "version": {
@@ -34,7 +69,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "7f7e6b6bf90f2af927c41fbe962642b4",
