@@ -1,5 +1,79 @@
 [
   {
+    "id": "6183c9793713f872504f4e4daa6ccfb9",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        8,
+        0,
+        472
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        472
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "solaris",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jdk_x64_solaris_hotspot_8u472b08.tar.gz",
+    "checksum": "37d5730c158e1a18096aedcf59c739f6e96b2f8a1394a97bb7f129f388b6d050",
+    "checksum_type": "sha256",
+    "size": 111666960,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "bac4e767f7ef5d0cc0469b2ca387b94c",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        8,
+        0,
+        472
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        472
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "solaris",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x64_solaris_hotspot_8u472b08.tar.gz",
+    "checksum": "b0949c6b8c825c8dbe5dadd6750fe3ffe7e766fbc4a3829479f2c6f9e5da62e1",
+    "checksum_type": "sha256",
+    "size": 50240613,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "1e82ba0ac9cf8835fe768944a2763a6d",
     "distribution": "temurin",
     "version": {
@@ -34,7 +108,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "fd9f21f040e37166b3ebd0629ada8125",
@@ -71,7 +145,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "6777d3858151ae3af4b17b1d2eb0e311",
