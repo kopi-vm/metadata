@@ -1,5 +1,42 @@
 [
   {
+    "id": "24ea298fc027481319d4fb108d755968",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": [
+        2
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/LibericaNIK/releases/download/25.0.1+2-25.0.1+14/bellsoft-liberica-vm-openjdk25.0.1+14-25.0.1+2-windows-amd64.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 344317461,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "3caacc6f4881b4caef162c0e11280d04",
     "distribution": "liberica_native",
     "version": {
@@ -34,7 +71,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "f6b9853a4a2cff95894b98a53f9b8145",
@@ -67,6 +104,43 @@
     "checksum": null,
     "checksum_type": null,
     "size": 379148114,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": true,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "f9d825f1287c8d8b76bb00ad6ae0385f",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": [
+        2
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/LibericaNIK/releases/download/25.0.1+2-25.0.1+14/bellsoft-liberica-vm-full-openjdk25.0.1+14-25.0.1+2-windows-amd64.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 379170151,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": true,
     "term_of_support": "sts",
