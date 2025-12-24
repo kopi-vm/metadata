@@ -1,5 +1,40 @@
 [
   {
+    "id": "b03a88342b0a83c02211fcbf7ddaf25a",
+    "distribution": "microsoft",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://aka.ms/download-jdk/microsoft-jdk-25.0.1-windows-aarch64.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 215482070,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "b231bd8a66506d48a1ce1f84a9fb6997",
     "distribution": "microsoft",
     "version": {
@@ -29,6 +64,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "5ea5df3bae5cc1f1132a244de5c3feda",
+    "distribution": "microsoft",
+    "version": {
+      "components": [
+        21,
+        0,
+        9
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        9
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.9-windows-aarch64.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 192544939,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "62be30117657374bec63613f1e064423",
@@ -374,7 +444,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "75a8cef6973addec4d2c054237ffb930",
@@ -1146,7 +1216,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "6119e592267414138e9709d5be23cce2",

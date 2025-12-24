@@ -4035,39 +4035,6 @@
     "latest_build_available": false
   },
   {
-    "id": "696286498e094bac5f41e122ae25e889",
-    "distribution": "liberica_native",
-    "version": {
-      "components": [
-        22,
-        2
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        22,
-        2
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "linux",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-openjdk11.0.16.1+1-22.2.0+3-linux-amd64.tar.gz",
-    "checksum": "c90e91a7535833bdc0ecd2ef1810479955030a0c",
-    "checksum_type": "sha1",
-    "size": 524462330,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "8ab30904f3ed9e1f52a54501b8a56f3f",
     "distribution": "liberica_native",
     "version": {
@@ -5385,6 +5352,41 @@
     "checksum": null,
     "checksum_type": null,
     "size": 279995925,
+    "lib_c_type": "glibc",
+    "javafx_bundled": true,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "a46dc215a450a791b7c4b9eab430730c",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        21,
+        3,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        3,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.bell-sw.com/vm/21.3.1/bellsoft-liberica-vm-full-openjdk11-21.3.1-linux-amd64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 276585435,
     "lib_c_type": "glibc",
     "javafx_bundled": true,
     "term_of_support": "sts",

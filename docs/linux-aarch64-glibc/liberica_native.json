@@ -1140,41 +1140,6 @@
     "latest_build_available": false
   },
   {
-    "id": "98dfd4a971cc9d73d812418130f0cd88",
-    "distribution": "liberica_native",
-    "version": {
-      "components": [
-        23,
-        0,
-        5
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        23,
-        0,
-        5
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.5+1-17.0.12+10/bellsoft-liberica-vm-openjdk17.0.12+10-23.0.5+1-linux-aarch64.tar.gz",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 295026942,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "ba88470e464abc8a135f8510282e0368",
     "distribution": "liberica_native",
     "version": {
@@ -1961,6 +1926,39 @@
     "checksum": "1ae6a028b2f77b4d3c0d9a3e40ee007593b4e2d7",
     "checksum_type": "sha1",
     "size": 299968847,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "4663bed411a56ffbc2ad4187a5dc0dc6",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        22,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        22,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-openjdk17.0.4.1+1-22.2.0+3-linux-aarch64.tar.gz",
+    "checksum": "2a7906c2ee13f03f48cb94f84e79132e1bae5353",
+    "checksum_type": "sha1",
+    "size": 456139485,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",

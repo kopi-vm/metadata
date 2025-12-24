@@ -2236,6 +2236,39 @@
     "latest_build_available": false
   },
   {
+    "id": "85c6872376aeb78afb88c7026de5e0a5",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        22,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        22,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.bell-sw.com/vm/22.1.0/bellsoft-liberica-vm-openjdk17.0.3+7-22.1.0+1-linux-aarch64-musl.tar.gz",
+    "checksum": "accceed855529c4456d75957dce388f2971fd179",
+    "checksum_type": "sha1",
+    "size": 395252639,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "d650e87d524a4546e99314e59ca61916",
     "distribution": "liberica_native",
     "version": {
@@ -2692,6 +2725,41 @@
     "checksum": "9697328f9dc2d3efd0a2f1dfdc6e69b8cdd30236",
     "checksum_type": "sha1",
     "size": 356470332,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "24791566fd8fc9543e7f29f74d09623c",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        21,
+        3,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        3,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.bell-sw.com/vm/21.3.1/bellsoft-liberica-vm-openjdk17-21.3.1-linux-aarch64-musl.tar.gz",
+    "checksum": "e3b197377b89dec65d2c21dc8d4bd472ba425326",
+    "checksum_type": "sha1",
+    "size": 364602372,
     "lib_c_type": "musl",
     "javafx_bundled": false,
     "term_of_support": "lts",
