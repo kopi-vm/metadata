@@ -1,5 +1,79 @@
 [
   {
+    "id": "b605242ee1e520bfdfff8266833bb5c1",
+    "distribution": "jetbrains",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": [
+        26634
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.1-windows-x64-b266.34.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha512",
+    "size": 616951892,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "f01c97b9a069ed95f607dbe3e316ba2f",
+    "distribution": "jetbrains",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": [
+        26634
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.1-windows-x64-b266.34.zip",
+    "checksum": null,
+    "checksum_type": "sha512",
+    "size": 620517113,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "686627813c21f5cbeb8c52603ded6cca",
     "distribution": "jetbrains",
     "version": {
@@ -425,7 +499,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "a8c1477e0b68ecade461acada590f418",
@@ -495,6 +569,80 @@
     "checksum": null,
     "checksum_type": "sha512",
     "size": 607951922,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "aa32b8e63d6b19773d3fb5845e8bdbb8",
+    "distribution": "jetbrains",
+    "version": {
+      "components": [
+        21,
+        0,
+        9
+      ],
+      "build": [
+        116391
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        9
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-21.0.9-windows-x64-b1163.91.zip",
+    "checksum": null,
+    "checksum_type": "sha512",
+    "size": 607926158,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "c59685f9b34d93926948bc1911318789",
+    "distribution": "jetbrains",
+    "version": {
+      "components": [
+        21,
+        0,
+        9
+      ],
+      "build": [
+        116391
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        9
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-21.0.9-windows-x64-b1163.91.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha512",
+    "size": 604198363,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -610,7 +758,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "f5b944dda1e3bf85edba4a3c1e95ecef",
@@ -5224,43 +5372,6 @@
     "latest_build_available": false
   },
   {
-    "id": "ecb26c4264fb0dff6e8d4738a298d5ec",
-    "distribution": "jetbrains",
-    "version": {
-      "components": [
-        17,
-        0,
-        9
-      ],
-      "build": [
-        11662
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        17,
-        0,
-        9
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-17.0.9-windows-x64-b1166.2.tar.gz",
-    "checksum": null,
-    "checksum_type": "sha512",
-    "size": 494074587,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "17181638341ee8004b41dee580b742fa",
     "distribution": "jetbrains",
     "version": {
@@ -7740,41 +7851,6 @@
     "latest_build_available": false
   },
   {
-    "id": "d0f43e77d00648a38b6683226762e69e",
-    "distribution": "jetbrains",
-    "version": {
-      "components": [
-        17,
-        0,
-        3
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        17,
-        0,
-        3
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-17.0.3-windows-x64-b463.3.tar.gz",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 197458281,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "d523bdad8812b64d72bdc4598239ab19",
     "distribution": "jetbrains",
     "version": {
@@ -8293,7 +8369,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "e4ac672bd3ceb274ad610ed13382415f",
@@ -8330,7 +8406,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "96a70f4d9ef763ce90f9ffb596f3ef7e",
