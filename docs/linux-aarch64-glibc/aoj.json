@@ -132,6 +132,41 @@
     "latest_build_available": false
   },
   {
+    "id": "71d52b8b6054f8ee2f034afba8c6b6b8",
+    "distribution": "aoj",
+    "version": {
+      "components": [
+        15,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        15,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/AdoptOpenJDK/openjdk15-binaries/releases/download/jdk-15.0.2%2B7/OpenJDK15U-jre_aarch64_linux_hotspot_15.0.2_7.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 56464691,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "f43c5721c7424f0b35b428de9e3502fa",
     "distribution": "aoj",
     "version": {
@@ -2704,6 +2739,41 @@
     "checksum": null,
     "checksum_type": null,
     "size": 75382012,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "f60e31e5fc23cb9105cdfc374cc93c0e",
+    "distribution": "aoj",
+    "version": {
+      "components": [
+        8,
+        0,
+        191
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        191
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u191-b12/OpenJDK8U-jre_aarch64_linux_hotspot_8u191b12.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 39527000,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
