@@ -32,7 +32,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "5a1d4dadd064c62ace749bc4b2964096",
@@ -67,7 +67,7 @@
     "javafx_bundled": true,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "b63b70ac09d9c86ae029bb3fff012cc3",
@@ -102,7 +102,7 @@
     "javafx_bundled": true,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "bca42e53b3612bfc2ceee8efed984a1b",
@@ -137,7 +137,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "46a4e8522ffc571c83e886267e98e830",
@@ -175,7 +175,7 @@
     "javafx_bundled": true,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "4f262c0846e3c86d5235efd462750ef3",
@@ -213,7 +213,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "795194d66f11f0ede04c8b8b2cb4eb6f",
@@ -251,7 +251,7 @@
     "javafx_bundled": true,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "f9bb1add282f0f6c3485345ce84e367b",
@@ -289,7 +289,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "29213809102fae7e5429883e8027afed",
@@ -728,6 +728,117 @@
     "latest_build_available": false
   },
   {
+    "id": "23ed99865292b82824e967cd6ec57856",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        64,
+        15
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x86",
+    "operating_system": "windows",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu17.64.15-ca-jre17.0.18-win_i686.zip",
+    "checksum": "23de05d796e5645afc6d7efdd51c112c0c3d521058fdc726a8ea99bae2616338",
+    "checksum_type": "sha256",
+    "size": 40757522,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "554d80ec885ad1d9db91823efc3d5db0",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        64,
+        15
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x86",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu17.64.15-ca-jdk17.0.18-win_i686.zip",
+    "checksum": "d1860f5f82263cacfd460b5dacc966cd70f305929fdcd7760e9b36b443ae8f33",
+    "checksum_type": "sha256",
+    "size": 191178471,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "6e3289438816382daf61687d3eca7193",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        64,
+        15
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x86",
+    "operating_system": "windows",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu17.64.15-ca-jre17.0.18-win_i686.tar.gz",
+    "checksum": "5c0b2dc50ad97c2f0766eee3048b6687d744e61e59a2061584ba4a937851f2fe",
+    "checksum_type": "sha256",
+    "size": 40286690,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "08ff73d7a67f3b4182518e6b2f1b7b0a",
     "distribution": "zulu",
     "version": {
@@ -762,7 +873,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "09ecb66eac8f78a965b4809348f72f2a",
@@ -910,7 +1021,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "49b1430308837de7f0eeeddd074bf068",
@@ -4246,7 +4357,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "29f5f0b57a659af8a8db8c096db28987",
@@ -4283,7 +4394,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "7cf34dbce95bbec218794e40648f13d5",
@@ -4320,7 +4431,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "1c4614241dd6f4dbb2c7aeff0163a310",
@@ -4573,7 +4684,7 @@
     "javafx_bundled": false,
     "term_of_support": "mts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "8a54d90e3d237865d723985c4f384d8f",
@@ -4610,7 +4721,7 @@
     "javafx_bundled": true,
     "term_of_support": "mts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "e03e0748bf943b21bef5d1c099c2f412",
@@ -4647,7 +4758,7 @@
     "javafx_bundled": false,
     "term_of_support": "mts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "eb8c467d1d45c74ebbf0e62a3bc7f931",
@@ -4684,7 +4795,7 @@
     "javafx_bundled": true,
     "term_of_support": "mts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "016e71cadb11d3a6df6f4da81b49164f",
@@ -5827,7 +5938,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "b74a158fc6ea9076abd010f997b3aa2d",
@@ -5864,7 +5975,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "58ebaec1b0b34eac1a2d05e308ed1640",
@@ -6043,7 +6154,7 @@
     "javafx_bundled": true,
     "term_of_support": "mts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "09494cf129539acb8d9cac9521123f14",
@@ -6080,7 +6191,7 @@
     "javafx_bundled": true,
     "term_of_support": "mts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "40002d0ff7f257b0356d000253ab1a88",
@@ -6117,7 +6228,7 @@
     "javafx_bundled": false,
     "term_of_support": "mts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "8001086714f6bec3c299c07b09b5b238",
@@ -6154,7 +6265,7 @@
     "javafx_bundled": false,
     "term_of_support": "mts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "25a12e9859916872aa7faf072ff9d17b",
@@ -8261,7 +8372,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "7e816c07ae23acd64b1d8a6fb6df39f5",
@@ -8369,6 +8480,80 @@
     "latest_build_available": false
   },
   {
+    "id": "3f24c7176391784853d214d3c94139e3",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        11,
+        0,
+        30
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        86,
+        19
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x86",
+    "operating_system": "windows",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu11.86.19-ca-jre11.0.30-win_i686.zip",
+    "checksum": "e932b58758cabeca606e2895ddfe931b68083f936b21720d10d4412eceaa4d76",
+    "checksum_type": "sha256",
+    "size": 37888997,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "573a0fdb519a022baf78058c33e22d7e",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        11,
+        0,
+        30
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        86,
+        19
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x86",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu11.86.19-ca-jdk11.0.30-win_i686.zip",
+    "checksum": "7900930174af0b660a702bd3e048d662025d8a9c33b15c80a9893fdc8a6f4f13",
+    "checksum_type": "sha256",
+    "size": 182948417,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "1fd449a554c9ebe36b664aa2ad6228cb",
     "distribution": "zulu",
     "version": {
@@ -8403,7 +8588,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "7a9b6e77709ea72b65c5aeda194b8f3e",
@@ -8440,7 +8625,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "86ac3e448b0c58854b0140d8202f9d77",
@@ -12822,7 +13007,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "38c9f9721df93c4e714bd04a2f7409e3",
@@ -13246,6 +13431,82 @@
     "latest_build_available": false
   },
   {
+    "id": "37e1e098ce7271aac610107529ee9b44",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        92,
+        0,
+        19
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x86",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.19-ca-jdk8.0.482-win_i686.zip",
+    "checksum": "e928d80a066dce4ee7fe31a4060357c2e65bd23ee8be69701b37fa0fdf36406a",
+    "checksum_type": "sha256",
+    "size": 109116546,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "c388e271595e621acc60e6f98a8c7534",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        92,
+        0,
+        19
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x86",
+    "operating_system": "windows",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.19-ca-jre8.0.482-win_i686.zip",
+    "checksum": "118ad2e29ae0f86d81b74d55e55af3dc5f696ccc051316e88a7e9113fa931bf8",
+    "checksum_type": "sha256",
+    "size": 38336515,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "1e1c15f9d956159a4b3f647fd7ebf59c",
     "distribution": "zulu",
     "version": {
@@ -13319,7 +13580,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "5b9bbc7ea9e29bcba1caaedbca0da0e8",
@@ -13395,7 +13656,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "1bbad963aed442626b08532a187628fe",
@@ -18741,7 +19002,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "b2c3775442d2de9e9df61cd7b8f502dc",
@@ -18779,7 +19040,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "32eaca5224548708e7c188bba8517e71",
@@ -19654,6 +19915,6 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   }
 ]

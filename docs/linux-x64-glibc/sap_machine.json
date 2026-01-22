@@ -1,5 +1,75 @@
 [
   {
+    "id": "5f820a676c6951d6d339e138c7202e8e",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.2/sapmachine-jre-25.0.2_linux-x64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 51834876,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "ab0b9db38b6d4a0fcf9faeae434df0c5",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.2/sapmachine-jdk-25.0.2_linux-x64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 215393675,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "76465d7a57326c14903b9ef0c903abb7",
     "distribution": "sap_machine",
     "version": {
@@ -32,7 +102,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "9ab59dc35ed47f9c789e610c08075651",
@@ -67,7 +137,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "4d9b847451686f649e1435b887992bc4",
@@ -738,6 +808,76 @@
     "latest_build_available": false
   },
   {
+    "id": "34b4e7e13fdcd002f1e690277ad4f007",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.10/sapmachine-jdk-21.0.10_linux-x64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 210343194,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "fb451c7c6853ae3534be317b78cf1fdc",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.10/sapmachine-jre-21.0.10_linux-x64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 54821474,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "0b9281985aed48ca78323739e25504e1",
     "distribution": "sap_machine",
     "version": {
@@ -770,7 +910,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "919855d647ef7a59665235962c2a1b19",
@@ -805,7 +945,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "541b482468dd77caf966a60da3a8f7df",
@@ -2184,6 +2324,76 @@
     "latest_build_available": false
   },
   {
+    "id": "46a327690cc16066ee465a9ebd04367d",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.18/sapmachine-jre-17.0.18_linux-x64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 49371384,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "75bdbf03e03269e2796fd61851427bcc",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.18/sapmachine-jdk-17.0.18_linux-x64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 196204038,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "5e9dc2705066667cf11c9fdafc29b84e",
     "distribution": "sap_machine",
     "version": {
@@ -2216,7 +2426,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "840ec304230ef76d55d51af629ef660e",
@@ -2251,7 +2461,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "350bf344adf38340004b0f384f9b140b",
@@ -4668,6 +4878,76 @@
     "latest_build_available": false
   },
   {
+    "id": "0b585d8488be9d6528280cf633009d8e",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        11,
+        0,
+        30
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        30
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.30/sapmachine-jdk-11.0.30_linux-x64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 193615868,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "1bb992560c79ddf1119ce1013c93ba65",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        11,
+        0,
+        30
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        30
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.30/sapmachine-jre-11.0.30_linux-x64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 43045167,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "1350c0003e0d296219a8dde77af45b8a",
     "distribution": "sap_machine",
     "version": {
@@ -4700,7 +4980,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "dbb9ed8191317162f352f1bbd3457315",
@@ -4735,7 +5015,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "506e7a28573d209328536663bb86de7b",

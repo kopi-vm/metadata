@@ -404,6 +404,41 @@
     "latest_build_available": false
   },
   {
+    "id": "212a5ebfbbb4c7642ebbf50e0eb787ce",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.oracle.com/graalvm/21/archive/graalvm-jdk-21.0.10_linux-x64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 337119957,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "b7bab8bb2f2d66de3b2addc1ec5506c3",
     "distribution": "graalvm",
     "version": {
@@ -436,7 +471,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "6125b7eb615e7c848462e7415d422bd8",

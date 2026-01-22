@@ -404,6 +404,41 @@
     "latest_build_available": false
   },
   {
+    "id": "68787303bf051a1dd1471c6fe2577eee",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.oracle.com/graalvm/21/archive/graalvm-jdk-21.0.10_macos-aarch64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 327633879,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "1671060629cc03eb11aaf9eeac4d2a60",
     "distribution": "graalvm",
     "version": {
@@ -436,7 +471,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "3b2b209b6bad8bb917948c85896b471f",
