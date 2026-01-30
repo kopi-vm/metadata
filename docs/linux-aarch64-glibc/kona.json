@@ -1,5 +1,42 @@
 [
   {
+    "id": "bd90fb1ec18c3d22ec65fd23707936fa",
+    "distribution": "kona",
+    "version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/Tencent/TencentKona-21/releases/download/TencentKona-21.0.10/TencentKona-21.0.10.b1-jdk_linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": "md5",
+    "size": 211370635,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "63da2a7ab69aafc94de206e9d166e193",
     "distribution": "kona",
     "version": {
@@ -364,6 +401,43 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "063924dec17364cac99cb9671096f0ba",
+    "distribution": "kona",
+    "version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/Tencent/TencentKona-17/releases/download/TencentKona-17.0.18/TencentKona-17.0.18.b1-jdk_linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": "md5",
+    "size": 198514358,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "971a08f648339481cec9e1efdf0ac949",
@@ -1062,7 +1136,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "9c73bb7999bf2ff5662b58e7cb32c078",
@@ -1763,7 +1837,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "98ccb4d1e89db3ff9764746c78796ce7",
