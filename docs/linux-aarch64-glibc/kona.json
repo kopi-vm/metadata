@@ -1102,6 +1102,43 @@
     "latest_build_available": false
   },
   {
+    "id": "484fb0f61908e28abd7199b254a3e078",
+    "distribution": "kona",
+    "version": {
+      "components": [
+        11,
+        0,
+        30
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        30
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/Tencent/TencentKona-11/releases/download/kona11.0.30/TencentKona-11.0.30.b1-jdk_linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": "md5",
+    "size": 198883929,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "6942d673e0c4705688f327f809b71e34",
     "distribution": "kona",
     "version": {
@@ -1803,6 +1840,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "54333121da777881ae9d0ce87fcdab9a",
+    "distribution": "kona",
+    "version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/Tencent/TencentKona-8/releases/download/8.0.25-GA/TencentKona8.0.25.b1_jdk_linux-aarch64_8u482.tar.gz",
+    "checksum": null,
+    "checksum_type": "md5",
+    "size": 112449635,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "2199e40ba51abe1bb40475c0b4aa4d16",

@@ -995,6 +995,43 @@
     "latest_build_available": false
   },
   {
+    "id": "6b373ddf2063cd7ca3515968206c4c34",
+    "distribution": "kona",
+    "version": {
+      "components": [
+        11,
+        0,
+        30
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        30
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/Tencent/TencentKona-11/releases/download/kona11.0.30/TencentKona-11.0.30.b1_jdk_macosx-aarch64_notarized.tar.gz",
+    "checksum": null,
+    "checksum_type": "md5",
+    "size": 191002368,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "af6d2e631174d908624034a99e7f103d",
     "distribution": "kona",
     "version": {
@@ -1543,6 +1580,41 @@
     "checksum": null,
     "checksum_type": "md5",
     "size": 190407252,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "328fe342c4cc9728eb9b485311904121",
+    "distribution": "kona",
+    "version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/Tencent/TencentKona-8/releases/download/8.0.25-GA/TencentKona8.0.25.b1_jdk_macosx-aarch64_8u482_notarized.tar.gz",
+    "checksum": null,
+    "checksum_type": "md5",
+    "size": 104713740,
     "lib_c_type": "libc",
     "javafx_bundled": false,
     "term_of_support": "lts",
