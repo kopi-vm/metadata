@@ -108,7 +108,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "b8c3936fcd3833bfa14c5efa2a56fd57",
@@ -1309,6 +1309,80 @@
     "checksum": "5858955f17c773a984f46f69077f87964f1e73f871d7e72f25acb494ff3f849a",
     "checksum_type": "sha256",
     "size": 48124555,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "e46b24aac8c48227f64e6320d855d25a",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64",
+    "operating_system": "aix",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.18_8.tar.gz",
+    "checksum": "ce8381f8b990f2559509c2828fa6d93c0f9a3dbadce6544bda3c780f6c313da4",
+    "checksum_type": "sha256",
+    "size": 183462717,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "e53911f34fa3087029c2b1cd82a27a26",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64",
+    "operating_system": "aix",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.18_8.tar.gz",
+    "checksum": "995f263df4e629aa10a8c7d3a0682c65944ee5dc6f496816850d79eb7d67345e",
+    "checksum_type": "sha256",
+    "size": 41579650,
     "lib_c_type": "libc",
     "javafx_bundled": false,
     "term_of_support": "lts",
