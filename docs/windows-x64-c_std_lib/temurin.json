@@ -34,7 +34,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "fbd16acf862fffa587fa3a03982d37b4",
@@ -71,7 +71,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "b96cb7670c095245220e7d01d5927b58",
@@ -890,7 +890,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "f64fb88bc026b6fff89a59d1c788453f",
@@ -927,7 +927,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "552c7bffe0370c66410a51c55985b511",
@@ -2345,6 +2345,80 @@
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "69a793dd932268c7d1ae9d8b855de8ed",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jdk_x64_windows_hotspot_17.0.18_8.zip",
+    "checksum": "c24e6215fa75f861d2a900ceec67c620cd2eb6dfb81541087d5981293b16f0e5",
+    "checksum_type": "sha256",
+    "size": 190661454,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "8fc2f0da62fea82a0ed67baca93cde2d",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_x64_windows_hotspot_17.0.18_8.zip",
+    "checksum": "95c9ebe3ee16baab7239531757513d9a03799ca06483ef2f3b530e81e93e7b5b",
+    "checksum_type": "sha256",
+    "size": 43738387,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
   },
@@ -3867,7 +3941,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "de49af87ce3ca069872a7394f6a119ae",
@@ -3904,7 +3978,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "ce014c946e4d14aab9ec24173ed43896",
@@ -5466,6 +5540,80 @@
     "checksum": "5e00dd1fa87749c819ca94d8f3f352e198de44a9e2c09b0e75cc120a63edea87",
     "checksum_type": "sha256",
     "size": 42630785,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "39e136653d494f36c808d894055449d0",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jdk_x64_windows_hotspot_8u482b08.zip",
+    "checksum": "51637ae41af1bce379a9d059109820864949c8d57ca302e0d502fcf329d33a72",
+    "checksum_type": "sha256",
+    "size": 106448448,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "9805d1008f3668c732419765f603b586",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_x64_windows_hotspot_8u482b08.zip",
+    "checksum": "61c4fe5c2d3c06cf6fa79de8e62da52444c95be1616b8dc8ad1e6d8db72f37bf",
+    "checksum_type": "sha256",
+    "size": 40105457,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "lts",

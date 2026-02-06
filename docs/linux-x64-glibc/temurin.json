@@ -4526,7 +4526,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "fb252193add61f4c53e3d93286b84b3e",
@@ -4563,7 +4563,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "36c711848e54e1f38a10298d7434fbf1",
@@ -11332,6 +11332,43 @@
     "latest_build_available": false
   },
   {
+    "id": "33bb407a3d0cc85ac2b1b9f5e92b550d",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jdk_arm_linux_hotspot_8u482b08.tar.gz",
+    "checksum": "1d0d16394e2fe637f9eb8e73e63ea6fe9ceee98337c0527aa058cee777ad638a",
+    "checksum_type": "sha256",
+    "size": 98778216,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "664324243813a9b1012ecf58cdced319",
     "distribution": "temurin",
     "version": {
@@ -11404,6 +11441,43 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": true
+  },
+  {
+    "id": "fe99502baa406a25793617970f1697e3",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_arm_linux_hotspot_8u482b08.tar.gz",
+    "checksum": "29c93e29421b9f77bc95305834f3239313466fd988111b5cf409fd9a2f727cff",
+    "checksum_type": "sha256",
+    "size": 39196249,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
   },
   {
     "id": "53f9ba2c47ef79a7fe91283c8d652472",
