@@ -1,5 +1,40 @@
 [
   {
+    "id": "c6b9e38ae2a50cbebc8c86268e7eb860",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-25.0.2.0-Final/mandrel-java25-linux-aarch64-25.0.2.0-Final.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 201697526,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "f77e84329a01d087e8f2b1766b3d4aee",
     "distribution": "mandrel",
     "version": {
@@ -32,7 +67,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "ec7faccc8320b4bbedfd958297566a26",
@@ -379,6 +414,41 @@
     "latest_build_available": false
   },
   {
+    "id": "9879fdc0da65058576a0b5fe8338cf1a",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        23,
+        1,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        23,
+        1,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-23.1.10.0-Final/mandrel-java21-linux-aarch64-23.1.10.0-Final.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 258665907,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "710218a4b729566ce00ea0fea0c2f054",
     "distribution": "mandrel",
     "version": {
@@ -411,7 +481,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "d319afb89dc2d0fc1c7892634153571e",
