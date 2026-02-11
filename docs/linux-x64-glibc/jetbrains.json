@@ -71,7 +71,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "2fa40bdbed095f5809f8ba063063b5e1",
@@ -182,7 +182,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "f8e5e71fdcc247263bb3175143da623a",
@@ -318,6 +318,43 @@
     "checksum": null,
     "checksum_type": "sha512",
     "size": 524633248,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "ecd23fd7707c683afbcd6052998cb6a9",
+    "distribution": "jetbrains",
+    "version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": [
+        1163108
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-21.0.10-linux-x64-b1163.108.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha512",
+    "size": 524637745,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -581,7 +618,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "99ef07bf5883d7655e8aefe1864ecdf0",

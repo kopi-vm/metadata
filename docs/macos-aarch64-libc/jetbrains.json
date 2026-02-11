@@ -34,7 +34,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "6fb3e989bf1255c0bfc8b17d41147ea6",
@@ -219,7 +219,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "30d2479e658f63c6c930ae703fc69ced",
@@ -318,6 +318,43 @@
     "checksum": null,
     "checksum_type": "sha512",
     "size": 375021496,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "10fc3bf1ee0001078a473afe6e43cfdb",
+    "distribution": "jetbrains",
+    "version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": [
+        1163108
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-21.0.10-osx-aarch64-b1163.108.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha512",
+    "size": 375021682,
     "lib_c_type": "libc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -544,7 +581,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "8b77871f90ed755a9d9c4a25112d4ccf",

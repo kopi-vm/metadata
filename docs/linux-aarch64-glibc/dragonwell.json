@@ -1,5 +1,43 @@
 [
   {
+    "id": "152dd4dec61fc4ee27be4d587ccb2138",
+    "distribution": "dragonwell",
+    "version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        2,
+        0,
+        2,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/dragonwell-project/dragonwell25/releases/download/dragonwell-standard-25.0.2.0.2%2B10_jdk-25.0.2-ga/Alibaba_Dragonwell_Standard_25.0.2.0.2.10_aarch64_linux.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 223614130,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "1a9fe845dfb89ff32141081bdf697dea",
     "distribution": "dragonwell",
     "version": {
@@ -33,7 +71,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "5fe28c2a15603e4c6ee26595349e8a5a",
@@ -606,6 +644,44 @@
     "latest_build_available": false
   },
   {
+    "id": "193d4f509ff446bb447b4fb52b30883f",
+    "distribution": "dragonwell",
+    "version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        18,
+        0,
+        19,
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/dragonwell-project/dragonwell17/releases/download/dragonwell-standard-17.0.18.0.19%2B8_jdk-17.0.18-ga/Alibaba_Dragonwell_Standard_17.0.18.0.19.8_aarch64_linux.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 190762613,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "62452ddb0c9116555d9993bb36ecd05c",
     "distribution": "dragonwell",
     "version": {
@@ -641,7 +717,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "0d3a8533e64d139623f815b247ebc65b",
