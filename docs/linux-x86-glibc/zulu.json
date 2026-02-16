@@ -17238,42 +17238,6 @@
     "latest_build_available": false
   },
   {
-    "id": "233fb9f3ac5a473be73587e4af9477e0",
-    "distribution": "zulu",
-    "version": {
-      "components": [
-        8,
-        0,
-        482
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        92,
-        0,
-        21
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x86",
-    "operating_system": "linux",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jdk8.0.482-linux_i686.tar.gz",
-    "checksum": null,
-    "checksum_type": null,
-    "size": -1,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "73bee412da6f91304b4997048db0d3b7",
     "distribution": "zulu",
     "version": {
@@ -17420,42 +17384,6 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": true
-  },
-  {
-    "id": "dcb90f40221aad199b96b41d72dcb28e",
-    "distribution": "zulu",
-    "version": {
-      "components": [
-        8,
-        0,
-        482
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        92,
-        0,
-        21
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x86",
-    "operating_system": "linux",
-    "package_type": "jre",
-    "archive_type": "targz",
-    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jre8.0.482-linux_i686.tar.gz",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 45150521,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
   },
   {
     "id": "12ccd537b14beae5cd151dd77f6551e5",
@@ -24315,6 +24243,80 @@
     "checksum": "e05d496ca76f981a54dbb78c16eb88be01093c08970d12f38a11f7d2aed2afe3",
     "checksum_type": "sha256",
     "size": 79625422,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "233fb9f3ac5a473be73587e4af9477e0",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x86",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jdk8.0.482-linux_i686.tar.gz",
+    "checksum": "a7e3b28dd79ebe83042afbe7915214bd89575e9bf4d644ab5bcc380a1f766715",
+    "checksum_type": "sha256",
+    "size": 109726506,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "dcb90f40221aad199b96b41d72dcb28e",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x86",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jre8.0.482-linux_i686.tar.gz",
+    "checksum": "5717edca99bbe3ac425014652c2d11b15863839162afb356742532e0c7692c62",
+    "checksum_type": "sha256",
+    "size": 45150521,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",

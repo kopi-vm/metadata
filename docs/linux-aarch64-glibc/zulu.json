@@ -10817,42 +10817,6 @@
     "latest_build_available": false
   },
   {
-    "id": "764c66e7799bd3732d7b3d2bf7a2f613",
-    "distribution": "zulu",
-    "version": {
-      "components": [
-        8,
-        0,
-        482
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        92,
-        0,
-        21
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jdk8.0.482-linux_aarch64.tar.gz",
-    "checksum": null,
-    "checksum_type": null,
-    "size": -1,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "8c8bb364fbe99d857f8252960b61b2d8",
     "distribution": "zulu",
     "version": {
@@ -10927,42 +10891,6 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": true
-  },
-  {
-    "id": "ffa6eb0eb9c2c182a9a21fe7f402939b",
-    "distribution": "zulu",
-    "version": {
-      "components": [
-        8,
-        0,
-        482
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        92,
-        0,
-        21
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jre",
-    "archive_type": "targz",
-    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jre8.0.482-linux_aarch64.tar.gz",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 41725076,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
   },
   {
     "id": "1ea2585ac2783d7e651c5a0fd4dee14a",
@@ -12868,6 +12796,80 @@
     "checksum": null,
     "checksum_type": null,
     "size": 147337546,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "764c66e7799bd3732d7b3d2bf7a2f613",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jdk8.0.482-linux_aarch64.tar.gz",
+    "checksum": "14a0ca3c75676b65c97e1937664ba33c204769d71297013780a5d19dbc73dff3",
+    "checksum_type": "sha256",
+    "size": 106346191,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "ffa6eb0eb9c2c182a9a21fe7f402939b",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jre8.0.482-linux_aarch64.tar.gz",
+    "checksum": "9b6140977c782593c69bcea2c12b390d90bea5c1dd21a3cfb3d1093e9be04aae",
+    "checksum_type": "sha256",
+    "size": 41725076,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
