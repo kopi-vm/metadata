@@ -25620,41 +25620,6 @@
     "latest_build_available": true
   },
   {
-    "id": "e5bb6dcc71fa97cae3912ca3f06b8ab1",
-    "distribution": "zulu",
-    "version": {
-      "components": [
-        11,
-        0,
-        30
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        11,
-        86,
-        21
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "macos",
-    "package_type": "jre",
-    "archive_type": "targz",
-    "download_url": "https://cdn.azul.com/zulu/bin/zulu11.86.21-ca-jre11.0.30-macosx_x64.tar.gz",
-    "checksum": null,
-    "checksum_type": null,
-    "size": -1,
-    "lib_c_type": "libc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
     "id": "580c1d23236b2ded8f07660ac8d03677",
     "distribution": "zulu",
     "version": {
@@ -35617,6 +35582,43 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "e5bb6dcc71fa97cae3912ca3f06b8ab1",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        11,
+        0,
+        30
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        30
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu11.86.21-ca-jre11.0.30-macosx_x64.tar.gz",
+    "checksum": "e9ed89646bde82bd41521e732cda730712d8dccdb59fb2be75e97768b3d7cbfb",
+    "checksum_type": "sha256",
+    "size": 39597011,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "cb99ed8a2fd8f8c67f34c92660660c75",
