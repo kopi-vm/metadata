@@ -1,5 +1,42 @@
 [
   {
+    "id": "938e40d873ceb0ed4815e1bf19fd03fa",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        25,
+        0,
+        2,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        2,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.2%2B10.1_openj9-0.57.0/ibm-semeru-open-jre_x64_windows_25.0.2.1.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 56803711,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "aa4bf97d7c5f0ddfaa785242cf42a8cc",
     "distribution": "semeru",
     "version": {
@@ -34,7 +71,44 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
+  },
+  {
+    "id": "b0f517d22cec2147f96730b992e08b1a",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        25,
+        0,
+        2,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        2,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.2%2B10.1_openj9-0.57.0/ibm-semeru-open-jdk_x64_windows_25.0.2.1.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 248643200,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "bb490f44c7cba6b57f5ed687fd061bec",
@@ -106,7 +180,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "d6f5e55800af3906b8b3c835f8a6fad9",
@@ -141,7 +215,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "3bd1376c3daef17dad4b9c48a331810d",
@@ -828,6 +902,80 @@
     "latest_build_available": false
   },
   {
+    "id": "c148500687a67c528e802a3391cf148c",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        21,
+        0,
+        10,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        10,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.10%2B7.1_openj9-0.57.0/ibm-semeru-open-jdk_x64_windows_21.0.10.1.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 240064578,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "e584f79558330578527827b181c7a9ec",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        21,
+        0,
+        10,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        10,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.10%2B7.1_openj9-0.57.0/ibm-semeru-open-jre_x64_windows_21.0.10.1.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 56983307,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "68f0e5912df9e77b18e9f42c2fe46fa1",
     "distribution": "semeru",
     "version": {
@@ -860,7 +1008,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "6dc577bd8ae71b75a808b34023aae10b",
@@ -895,7 +1043,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "08f23db3683b13fb0ad2544deced5e30",
@@ -2092,6 +2240,80 @@
     "latest_build_available": false
   },
   {
+    "id": "2c60ca08ccdd704a115c69dfaeba34fe",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        17,
+        0,
+        18,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        18,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.18%2B8.1_openj9-0.57.0/ibm-semeru-open-jre_x64_windows_17.0.18.1.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 52757612,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "e3c059c6639a24ab5f2dee547b713df3",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        17,
+        0,
+        18,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        18,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.18%2B8.1_openj9-0.57.0/ibm-semeru-open-jdk_x64_windows_17.0.18.1.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 227020011,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "76951fdd5542c1c8d6434554719bf1bc",
     "distribution": "semeru",
     "version": {
@@ -2124,7 +2346,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "c4f927649ad7cc4b5eb9cd3558ac4a83",
@@ -2159,7 +2381,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "217af3b31b88978cf0c753490980ca1e",
@@ -3674,7 +3896,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "32126898957abf609fa297239f689a5e",
@@ -3711,7 +3933,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "4f810609a209c006b0617cdc332e10ee",
@@ -3746,7 +3968,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "d6fc84c42b83c78746e325eb43df9f3b",
@@ -3781,7 +4003,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "a2a5d7a3d08e70c0d59ec7b30c28d62b",
