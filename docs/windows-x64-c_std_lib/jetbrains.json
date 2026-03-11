@@ -832,7 +832,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "932015f6361ccaead0c6d9b8717ed96e",
@@ -869,7 +869,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "ac151d55def6b6a9a159dc4cb4642851",
@@ -944,6 +944,80 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "dbd05c4936d573642f94cd149e1356c8",
+    "distribution": "jetbrains",
+    "version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": [
+        1163110
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-21.0.10-windows-x64-b1163.110.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha512",
+    "size": 610233172,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "e7337738591f6120002875ec9a5cf45c",
+    "distribution": "jetbrains",
+    "version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": [
+        1163110
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-21.0.10-windows-x64-b1163.110.zip",
+    "checksum": null,
+    "checksum_type": "sha512",
+    "size": 613867443,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "0596091a99125a62c56c9ba2c109ea1f",
