@@ -3559,41 +3559,6 @@
     "latest_build_available": false
   },
   {
-    "id": "275ec886f535b486230f55a5bfb4b3f8",
-    "distribution": "dragonwell",
-    "version": {
-      "components": [
-        8,
-        0,
-        482
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        28,
-        27
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.28.27_jdk8u482-ga/Alibaba_Dragonwell_Standard_8.28.27_aarch64_linux.tar.gz",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 102258982,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
     "id": "48fe3374fb5ad448441c811b93b12763",
     "distribution": "dragonwell",
     "version": {
@@ -3627,41 +3592,6 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": true
-  },
-  {
-    "id": "bf12c5a17328600c640327a775e36b08",
-    "distribution": "dragonwell",
-    "version": {
-      "components": [
-        8,
-        0,
-        472
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        27,
-        26
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "aarch64",
-    "operating_system": "linux",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.27.26_jdk8u472-ga/Alibaba_Dragonwell_Standard_8.27.26_aarch64_linux.tar.gz",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 102230094,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
   },
   {
     "id": "ce7af486dd531e2c8c28c66d976c2498",
@@ -5450,6 +5380,80 @@
     "checksum": null,
     "checksum_type": null,
     "size": 100424591,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "275ec886f535b486230f55a5bfb4b3f8",
+    "distribution": "dragonwell",
+    "version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        482
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.28.27_jdk8u482-ga/Alibaba_Dragonwell_Standard_8.28.27_aarch64_linux.tar.gz",
+    "checksum": "8a6740a2826bae55bb312657d2d83cf1b9c4e4c0be983d4180661f171eec138b",
+    "checksum_type": "sha256",
+    "size": 102258982,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "bf12c5a17328600c640327a775e36b08",
+    "distribution": "dragonwell",
+    "version": {
+      "components": [
+        8,
+        0,
+        472
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        472
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.27.26_jdk8u472-ga/Alibaba_Dragonwell_Standard_8.27.26_aarch64_linux.tar.gz",
+    "checksum": "07375dcfba369cd40453e20c5adcd9d1c3cbbf6f9f356955cfe129dc6dc85e6a",
+    "checksum_type": "sha256",
+    "size": 102230094,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
