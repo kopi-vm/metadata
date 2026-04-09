@@ -33,6 +33,39 @@
     "latest_build_available": true
   },
   {
+    "id": "8d5aed84faf3fabeae05d98fa21c2b61",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        26
+      ],
+      "build": [
+        35
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26%2B35/OpenJDK26U-jre_riscv64_linux_hotspot_26_35.tar.gz",
+    "checksum": "6b53b35f4995c1fe200e4ebd711393d8bcab18f948fcbbf4e0590b1825775630",
+    "checksum_type": "sha256",
+    "size": 61921536,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "b7f6da648647bf05d05a14cdca409f73",
     "distribution": "temurin",
     "version": {
@@ -59,6 +92,39 @@
     "checksum": "68e19ba53b7f1f74635c13f809e5db36cebccf3ae9e752423dd92d2ad7d831ef",
     "checksum_type": "sha256",
     "size": 144338986,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "bd91bc637d690dcbba6fd4b6a75d03df",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        26
+      ],
+      "build": [
+        35
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26%2B35/OpenJDK26U-jdk_riscv64_linux_hotspot_26_35.tar.gz",
+    "checksum": "044cd107152425e189c7094b0f1c566afddf255149c56a7758e300481923fec6",
+    "checksum_type": "sha256",
+    "size": 142958857,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "sts",
