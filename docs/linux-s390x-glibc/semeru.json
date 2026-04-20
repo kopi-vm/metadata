@@ -245,6 +245,80 @@
     "latest_build_available": false
   },
   {
+    "id": "5f4d5e86ca58a5cb394d087f8256a03a",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "s390x",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.2%2B10.1_openj9-0.57.0/ibm-semeru-certified-jdk_s390x_linux_25.0.2.1.tar.gz",
+    "checksum": "5d1741661e86bfbe3a3139665de5cccf709ebce21a0df0cee8f4315fe6d4a299",
+    "checksum_type": "sha256",
+    "size": 265628978,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "ce4be74000e598af9b3c0311fc9a2918",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "s390x",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.2%2B10.1_openj9-0.57.0/ibm-semeru-certified-jre_s390x_linux_25.0.2.1.tar.gz",
+    "checksum": "924ac3482adac0ce7b94d12498520949309a850e98ae95bac9a1f4cfbbfb1548",
+    "checksum_type": "sha256",
+    "size": 58127701,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "d70c218d2f4c7cf0652f77d35b413e56",
     "distribution": "semeru",
     "version": {
@@ -1245,6 +1319,80 @@
     "checksum": "e7db1841762cc680f7cbdbeaffa7520c68e9f05ae9f7be4fed4c9e255b578bde",
     "checksum_type": "sha256",
     "size": 258796435,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "8b73fdf69681efca327a270b35c524a3",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "s390x",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.10%2B7.1_openj9-0.57.0/ibm-semeru-certified-jdk_s390x_linux_21.0.10.1.tar.gz",
+    "checksum": "be8f976cf6cc957d7cab90cc91e025eaeeec69c175259574254f545ef61e3d1d",
+    "checksum_type": "sha256",
+    "size": 258803561,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "d203cfa03a52fc709f04acd58d7499e7",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "s390x",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.10%2B7.1_openj9-0.57.0/ibm-semeru-certified-jre_s390x_linux_21.0.10.1.tar.gz",
+    "checksum": "a13ea33ffc490eaaea67f7645e1e5cc058b31217baaaefc0922e4650b53a50ec",
+    "checksum_type": "sha256",
+    "size": 58339961,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -2960,6 +3108,43 @@
     "latest_build_available": false
   },
   {
+    "id": "20850110d014c193a68e3ad5f1487369",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "s390x",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.18%2B8.1_openj9-0.57.0/ibm-semeru-certified-jre_s390x_linux_17.0.18.1.tar.gz",
+    "checksum": "e339888c1bb805c48ca2f371a4bbc6de3f2370abbadcca78886148493bce6001",
+    "checksum_type": "sha256",
+    "size": 53776016,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "47c3ff7cc258bb850fc5d562701634ef",
     "distribution": "semeru",
     "version": {
@@ -3023,6 +3208,43 @@
     "checksum": null,
     "checksum_type": "sha256",
     "size": 53463267,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "796d7888837c824430a34534244854ab",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        18
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "s390x",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.18%2B8.1_openj9-0.57.0/ibm-semeru-certified-jdk_s390x_linux_17.0.18.1.tar.gz",
+    "checksum": "b34c3a94595c27b23bcef4775370dfe513a24c0c5d13c071d68216e021b21eb4",
+    "checksum_type": "sha256",
+    "size": 245315702,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -5168,6 +5390,43 @@
     "latest_build_available": false
   },
   {
+    "id": "648aa08123eee8baf14afccd02bcbb51",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        11,
+        0,
+        29
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        29
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "s390x",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_s390x_linux_11.0.29.0.tar.gz",
+    "checksum": "f21e8768e225b3e9224bd10f455698933f505c1084a45ade87678360fa84a12e",
+    "checksum_type": "sha256",
+    "size": 232533396,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "d155df2a39912b7ef37fef41ccce7c94",
     "distribution": "semeru",
     "version": {
@@ -5196,6 +5455,43 @@
     "checksum": null,
     "checksum_type": "sha256",
     "size": 217544886,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "e6b3629c19b60e6ef4ad8a45da2f2706",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        11,
+        0,
+        29
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        29
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "s390x",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jre_s390x_linux_11.0.29.0.tar.gz",
+    "checksum": "e670e75580b64362257cdd6119331f539f21c0e0cb96e72559022f0ad848dc53",
+    "checksum_type": "sha256",
+    "size": 53743407,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
