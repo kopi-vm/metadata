@@ -71,7 +71,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "6e48f2b9eb2585ae614a3816b4624d80",
@@ -178,6 +178,43 @@
     "checksum": null,
     "checksum_type": "sha512",
     "size": 388099972,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "9dd431e9b5e0fb4d071f9ec98fdbcf74",
+    "distribution": "jetbrains",
+    "version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": [
+        329117
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.2-osx-aarch64-b329.117.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha512",
+    "size": 384074412,
     "lib_c_type": "libc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -507,7 +544,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "e99bae143b75f9a10ead10248f02055e",
