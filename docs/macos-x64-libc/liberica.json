@@ -1,5 +1,75 @@
 [
   {
+    "id": "022da008aec31166911cefd6fd71914d",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        26,
+        0,
+        1
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jdk26.0.1+10-macos-amd64-full.zip",
+    "checksum": "3f98380fb28f3ccda4930b10b94ecaa2a31e018f",
+    "checksum_type": "sha1",
+    "size": 373536579,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "0305551dceff736c9a67840a0aa79550",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        26,
+        0,
+        1
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jre26.0.1+10-macos-amd64-full.tar.gz",
+    "checksum": "d4dca29a18fd7c9e6ce387aab52c3422dbc3d824",
+    "checksum_type": "sha1",
+    "size": 131323514,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "054f967c2e88261aabb4785e2194903a",
     "distribution": "liberica",
     "version": {
@@ -28,6 +98,76 @@
     "size": 130085603,
     "lib_c_type": "libc",
     "javafx_bundled": true,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "1fb3423ee344bf99b3ad4ea58efc1e2d",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        26,
+        0,
+        1
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jdk26.0.1+10-macos-amd64.zip",
+    "checksum": "01ba4d501dcf348bd6b98e627309d9ef99a8033b",
+    "checksum_type": "sha1",
+    "size": 257044083,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "2c570518696cd55ef6035f1cd7249ad5",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        26,
+        0,
+        1
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jdk26.0.1+10-macos-amd64-lite.zip",
+    "checksum": "5146717fccb59ea103bb16b097636cb09e5c82ec",
+    "checksum_type": "sha1",
+    "size": 84255802,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": true
@@ -63,7 +203,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "2f6619d01d2b4aa2bff8ff9e13379eec",
@@ -96,7 +236,7 @@
     "javafx_bundled": true,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "30ad56034515531088f6f81745703077",
@@ -129,7 +269,7 @@
     "javafx_bundled": true,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "38455ea948a5079cc5caab9b2501ec4d",
@@ -162,7 +302,7 @@
     "javafx_bundled": true,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "3cc400dbb4b77b7a699b91fecef55717",
@@ -195,7 +335,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "6381969117c6a6ecd66adb5dd866627b",
@@ -224,6 +364,41 @@
     "checksum": null,
     "checksum_type": null,
     "size": 80251285,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "76f607616287d142d268be88f5cd0470",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        26,
+        0,
+        1
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jre26.0.1+10-macos-amd64.tar.gz",
+    "checksum": "dea6d2ef7d28eb5ce7eba36ad48ceec2594936d8",
+    "checksum_type": "sha1",
+    "size": 80107141,
     "lib_c_type": "libc",
     "javafx_bundled": false,
     "term_of_support": "sts",
@@ -261,6 +436,181 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "7da0461e85c88ea6b2d690f246dada6b",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        26,
+        0,
+        1
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jdk26.0.1+10-macos-amd64-full.tar.gz",
+    "checksum": "9f191907b693c62738f18b9c925d152e142cf817",
+    "checksum_type": "sha1",
+    "size": 368948367,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "af59f4ba8c2c188be89e60d151068063",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        26,
+        0,
+        1
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jre26.0.1+10-macos-amd64.zip",
+    "checksum": "ead3080dc32f9211de602e82584efea816144e00",
+    "checksum_type": "sha1",
+    "size": 80765733,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "b0adc7934a39fbe5a3a573a943a2bff8",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        26,
+        0,
+        1
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jre26.0.1+10-macos-amd64-full.zip",
+    "checksum": "b70097293bdea09125f854568a68598d32aa2db6",
+    "checksum_type": "sha1",
+    "size": 132192483,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "c1cb64fee99903da6b647412621e28dc",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        26,
+        0,
+        1
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jdk26.0.1+10-macos-amd64-lite.tar.gz",
+    "checksum": "c4a5508f48578e6d3ee18476b93a7422a95e4812",
+    "checksum_type": "sha1",
+    "size": 83545130,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "c3a999c186b182e99f8f02d9de1dfd11",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        26,
+        0,
+        1
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jdk26.0.1+10-macos-amd64.tar.gz",
+    "checksum": "8c8b06c0ce8a9d9f2a61f35cc3729b093f755c96",
+    "checksum_type": "sha1",
+    "size": 253066251,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
     "latest_build_available": true
   },
   {
@@ -294,7 +644,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "eb4db70e50617515bafb75a94a4bd11f",
@@ -326,6 +676,41 @@
     "lib_c_type": "libc",
     "javafx_bundled": false,
     "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "061d6e51ae49ab7e6fe9171c84e2ab5c",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jdk25.0.3+11-macos-amd64.tar.gz",
+    "checksum": "27ae0c806a4f343e689e97d43a8e1c3b95489d3b",
+    "checksum_type": "sha1",
+    "size": 247594061,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": true
   },
@@ -433,6 +818,41 @@
     "latest_build_available": false
   },
   {
+    "id": "3e5146a44c106d51e429c4ac2c2f7b1f",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-macos-amd64-full.zip",
+    "checksum": "b83b9caa317f0108a6a67493bf089e665486ebf8",
+    "checksum_type": "sha1",
+    "size": 130141921,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "468ef06fa0a40989daa930bd5a91ec4f",
     "distribution": "liberica",
     "version": {
@@ -461,6 +881,41 @@
     "checksum": "9bed655185ca52cbb7c1d7ece60c077b9ed650ea",
     "checksum_type": "sha1",
     "size": 128785317,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "47cf8ab72a373f1d0c087eb1538c0f53",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jdk25.0.3+11-macos-amd64-full.zip",
+    "checksum": "209d3c00928b402a29dca6dbfffb774c9095eafa",
+    "checksum_type": "sha1",
+    "size": 367831649,
     "lib_c_type": "libc",
     "javafx_bundled": true,
     "term_of_support": "lts",
@@ -571,6 +1026,41 @@
     "latest_build_available": false
   },
   {
+    "id": "6bc904557fb472c33936f880965cb60e",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jdk25.0.3+11-macos-amd64-full.tar.gz",
+    "checksum": "44f111e55218e9a9a36b4b9f459d934c9e95ea6c",
+    "checksum_type": "sha1",
+    "size": 363252444,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "6ccaefcbdb89c53cd11dd4ce742a14c0",
     "distribution": "liberica",
     "version": {
@@ -671,7 +1161,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "72c3efa0969f0cb34996c83612aa94fe",
@@ -912,6 +1402,41 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "907c31114e7a1a8b3975135f0ca524a7",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-macos-amd64.zip",
+    "checksum": "164f7db2be9b73e38bb91b4bc4042d48684aab5e",
+    "checksum_type": "sha1",
+    "size": 78827995,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
     "latest_build_available": true
   },
   {
@@ -982,7 +1507,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "94aa96ffaf0875b06a4c7e066b0c829a",
@@ -1046,6 +1571,41 @@
     "checksum": "1d494f623465e67898e8c3cf31bee438442b229f",
     "checksum_type": "sha1",
     "size": 78240902,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "99e6c868eb01f446fe36b3f22d9e007a",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jdk25.0.3+11-macos-amd64-lite.tar.gz",
+    "checksum": "4d525a0e000ca92e4e0a779611ca617f0743d45c",
+    "checksum_type": "sha1",
+    "size": 81865727,
     "lib_c_type": "libc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -1118,7 +1678,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "b5840e7ef86ce59fdfc74ae0559d3b04",
@@ -1188,7 +1748,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "b84d330227565c3aeabf3295a9cbb85b",
@@ -1294,6 +1854,41 @@
     "latest_build_available": false
   },
   {
+    "id": "bc1df3a11e10a77270ea938c4d5c0962",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-macos-amd64-full.tar.gz",
+    "checksum": "3c04415fb8fa679352579b9a692438786d7f48c3",
+    "checksum_type": "sha1",
+    "size": 129278588,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "c725edb8546217d50e059b0a1560ad6f",
     "distribution": "liberica",
     "version": {
@@ -1392,6 +1987,41 @@
     "checksum": "13ff48a0bad9edd8774af8c90e1df184c6623ad5",
     "checksum_type": "sha1",
     "size": 78866497,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "d2d057cd669280f5ea81a35ad7cea907",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jdk25.0.3+11-macos-amd64.zip",
+    "checksum": "3438cf316325ca41404c3a6fe2c794ff32d7c5f1",
+    "checksum_type": "sha1",
+    "size": 251582010,
     "lib_c_type": "libc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -1502,6 +2132,41 @@
     "latest_build_available": false
   },
   {
+    "id": "f1fea3f56dcba3b8dbef612ab108de77",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-macos-amd64.tar.gz",
+    "checksum": "b7270ecb6b5770f402508cb8aeb8f3c72956a546",
+    "checksum_type": "sha1",
+    "size": 78187186,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "f251fca3b4c8f3e601f7167507d316ef",
     "distribution": "liberica",
     "version": {
@@ -1570,6 +2235,41 @@
     "latest_build_available": false
   },
   {
+    "id": "f3270e793f3aebfb3ce18771ad9bddec",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jdk25.0.3+11-macos-amd64-lite.zip",
+    "checksum": "42d5430759c560e4f756ed0d49c85fe103538bdf",
+    "checksum_type": "sha1",
+    "size": 82589170,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "f3d4cccb2d01b43c6ee920d5f27eaba0",
     "distribution": "liberica",
     "version": {
@@ -1602,7 +2302,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "f4521b735b9f4f95199027754ec6d568",
@@ -1637,7 +2337,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "f4593c1cd5217d41847683db7d70d60b",
@@ -5185,6 +5885,41 @@
     "latest_build_available": false
   },
   {
+    "id": "03513ff7a671258ab5875301958db20c",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jdk21.0.11+11-macos-amd64-full.tar.gz",
+    "checksum": "07514f4e7db6c0a35c66432f882df9bfcfb5e87e",
+    "checksum_type": "sha1",
+    "size": 330290134,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "05613061c3dfa5c0fd121dea43661c6b",
     "distribution": "liberica",
     "version": {
@@ -5253,6 +5988,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "08bbeb4e8dc5aacacddf17d123709a49",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jdk21.0.11+11-macos-amd64.zip",
+    "checksum": "6a26217372379c65e4c621428d9167b2c48850ba",
+    "checksum_type": "sha1",
+    "size": 222620479,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "0c4df4b7d1553112730d6d1ccfa95cc2",
@@ -5707,7 +6477,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "2b5a914fd54334bb2d3b86e74cf685c8",
@@ -5847,7 +6617,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "2e018db157eac06a31cacfc008f9a716",
@@ -6130,6 +6900,41 @@
     "latest_build_available": false
   },
   {
+    "id": "3e5a80f29cb57aae30a2d4feeb829acc",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jre21.0.11+11-macos-amd64-full.zip",
+    "checksum": "976e2a234167e6e031b98e48dc7d524608829947",
+    "checksum_type": "sha1",
+    "size": 110984589,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "3eb21def0ee3a18a667bf5741a6d71c6",
     "distribution": "liberica",
     "version": {
@@ -6302,7 +7107,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "4a9f5e8b5da6ffc2a17ca6e9d3806444",
@@ -6337,7 +7142,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "4c0645d6a632b8bfd59dc388d400e330",
@@ -6655,6 +7460,41 @@
     "latest_build_available": false
   },
   {
+    "id": "5e9a5f686a4b35d5b9089849c502dcbe",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jdk21.0.11+11-macos-amd64.tar.gz",
+    "checksum": "2f18d3c7a485c2c6d76138e09e2ff9cb8db0ee34",
+    "checksum_type": "sha1",
+    "size": 218382429,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "60e70c43ad68650952978a77cf52a231",
     "distribution": "liberica",
     "version": {
@@ -6827,7 +7667,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "6cb56f9443112d8dab300cb64eebb476",
@@ -7001,6 +7841,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "7444462fbc3c4f5120b11e730d1e3785",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jre21.0.11+11-macos-amd64.tar.gz",
+    "checksum": "9ca565dcc9a3b17b0c52565e765a5ce28f8bcf4e",
+    "checksum_type": "sha1",
+    "size": 60108907,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "7732bf1c78b8d78173dfa62083bea8a5",
@@ -7487,6 +8362,41 @@
     "latest_build_available": false
   },
   {
+    "id": "97c15445f022c89543caf1699f02d558",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jre21.0.11+11-macos-amd64-full.tar.gz",
+    "checksum": "f972d6482d5059810c32f3776005627eecaaf397",
+    "checksum_type": "sha1",
+    "size": 110090907,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "97dd9340c667d50514d441305f3ca8ca",
     "distribution": "liberica",
     "version": {
@@ -7730,6 +8640,41 @@
     "latest_build_available": false
   },
   {
+    "id": "ad3c5f8ce1eb2907888aae7ec9649a67",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jdk21.0.11+11-macos-amd64-full.zip",
+    "checksum": "0e448af2423a17a9209f3bd61638fb3773b22fef",
+    "checksum_type": "sha1",
+    "size": 335067682,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "addd5b740035712d46f2c5d64d5d62ae",
     "distribution": "liberica",
     "version": {
@@ -7798,6 +8743,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "b052650cc97f9b17b2b1088ff9afabf2",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jdk21.0.11+11-macos-amd64-lite.zip",
+    "checksum": "6661359fdd6c2fa0d867c76b86d247fafc8f9e1a",
+    "checksum_type": "sha1",
+    "size": 77741672,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "b0a8874cb889915d970217e19cd26d6b",
@@ -7937,7 +8917,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "b2fb33201c4a0edc38742f8434808057",
@@ -8148,6 +9128,41 @@
     "latest_build_available": false
   },
   {
+    "id": "b883dbe48bb17b464d7194aba8613fc6",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jre21.0.11+11-macos-amd64.zip",
+    "checksum": "7e36a1ca27159782479a5eb5b29f5296a378b750",
+    "checksum_type": "sha1",
+    "size": 60809309,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "b9b35124c39ae55979ed457db861e1ee",
     "distribution": "liberica",
     "version": {
@@ -8320,7 +9335,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "c19369cb7328229bb1e4314d4994422b",
@@ -8354,6 +9369,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "c34b77880e244c13a86d28dc1ded4988",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jdk21.0.11+11-macos-amd64-lite.tar.gz",
+    "checksum": "5a11264a7b91f77e43970f34d9fd322f2b5d6822",
+    "checksum_type": "sha1",
+    "size": 76885018,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "c392f7b3076bfad172fdd47bfc761ec2",
@@ -8563,7 +9613,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "c7b7c175107a33b776e2f55534db15b4",
@@ -8633,7 +9683,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "c970dde428a3d0c93e3ecc5fea8acb83",
@@ -9121,7 +10171,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "e2c088b0549c8813acb13b6a710c390f",
@@ -13733,6 +14783,41 @@
     "latest_build_available": false
   },
   {
+    "id": "0a3968bb44059b80c540ce44c1b0b33b",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jre17.0.19+11-macos-amd64.tar.gz",
+    "checksum": "b52a2ae223476d56266d5faa850f495204a70e0f",
+    "checksum_type": "sha1",
+    "size": 53235073,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "0c37b4a9bb44eee977085569cb9fa1d8",
     "distribution": "liberica",
     "version": {
@@ -14083,6 +15168,41 @@
     "latest_build_available": false
   },
   {
+    "id": "194ae7afdd2c10d730b8cab64b635e53",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jre17.0.19+11-macos-amd64.zip",
+    "checksum": "c14ce3b613af5dea48c44e0a3dfe0169cb138e6c",
+    "checksum_type": "sha1",
+    "size": 53917515,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "1a2af56ec3d99a67aad3c3509b5ad607",
     "distribution": "liberica",
     "version": {
@@ -14290,7 +15410,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "22bccb57639b5a9f30f44ae7f3d3c412",
@@ -14922,6 +16042,41 @@
     "latest_build_available": false
   },
   {
+    "id": "32b5118c318ccdf805df0827ade19476",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-macos-amd64.tar.gz",
+    "checksum": "4d89302a3d1ab10f5d90fd690164de13ec099699",
+    "checksum_type": "sha1",
+    "size": 202734355,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "35c9c7afc9abc090c55f8ced99863188",
     "distribution": "liberica",
     "version": {
@@ -15234,7 +16389,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "4361e1ab297c223d35bbac39afb84518",
@@ -15865,7 +17020,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "4fe317e56fede27da5e7364c02ea0544",
@@ -16041,7 +17196,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "525dd97676dd21f01cea6d9cafee68e8",
@@ -16358,7 +17513,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "5a836ebb2461592434c3f215156fc910",
@@ -18153,7 +19308,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "8f610673db6cfa3dc89524073b34dbb9",
@@ -19064,6 +20219,41 @@
     "latest_build_available": false
   },
   {
+    "id": "a69c48b2baea55167a27641af0cfb65b",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jre17.0.19+11-macos-amd64-full.tar.gz",
+    "checksum": "bd5906235c6e293a61890ce2975e7df1f463f9be",
+    "checksum_type": "sha1",
+    "size": 103608752,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "a98dc89adaf15b443e98c436774814ba",
     "distribution": "liberica",
     "version": {
@@ -19131,7 +20321,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "ad473e888145afe5e6e11a68a7ae102f",
@@ -19166,7 +20356,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "adaa6e7bf1f7ca10598f89c838ca0017",
@@ -19486,6 +20676,41 @@
     "latest_build_available": false
   },
   {
+    "id": "baefe985682f23407ab28942ae29c12b",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-macos-amd64-full.tar.gz",
+    "checksum": "a1cb7c93cd32cda00991f23ef450179dff0cb366",
+    "checksum_type": "sha1",
+    "size": 315815514,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "bd5819ead0cfb9669c6bc23960f3ad93",
     "distribution": "liberica",
     "version": {
@@ -19589,7 +20814,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "c134c85656cb675262b4fdd1f48e93dc",
@@ -19661,6 +20886,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "c1ea9c2ebbf687fbc1a96a938777fab3",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-macos-amd64-full.zip",
+    "checksum": "0be29f92870045a2643dbacc02b10af23b65e85a",
+    "checksum_type": "sha1",
+    "size": 320764378,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "c24f6113cd1a03203a9250cd687fa851",
@@ -20714,7 +21974,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "d9d5330f816e39ee79236f380bd7cff3",
@@ -21141,6 +22401,41 @@
     "latest_build_available": false
   },
   {
+    "id": "e6139f0bc3e8b21fe4e250930028fe7f",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-macos-amd64-lite.zip",
+    "checksum": "b5b8c311d14c3bda251b67184da33ea98bfe5b3b",
+    "checksum_type": "sha1",
+    "size": 71806257,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "e6dbb6bfee0dc4cfd7634d141f855d30",
     "distribution": "liberica",
     "version": {
@@ -21281,6 +22576,41 @@
     "latest_build_available": false
   },
   {
+    "id": "ed8e92557b6ea09dc220f6fd38b3c2d5",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-macos-amd64-lite.tar.gz",
+    "checksum": "e9715453a3ff38e69c1595cfe9bce6046106b570",
+    "checksum_type": "sha1",
+    "size": 70954022,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "edb13b028cfcd96467f512256550316f",
     "distribution": "liberica",
     "version": {
@@ -21349,6 +22679,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "f17d13973b39d933b309e80ff0279e80",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jre17.0.19+11-macos-amd64-full.zip",
+    "checksum": "92f14ffdd66515e33bc1c54f5ac6fbe79005fe63",
+    "checksum_type": "sha1",
+    "size": 104487220,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "f2220f9a9aa354f1606fcf2b42acdc26",
@@ -21560,6 +22925,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "f9f592cc60647c9ac95735d51a085c64",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-macos-amd64.zip",
+    "checksum": "c6acd3036a07bb038942b157d5f5ecb05a925508",
+    "checksum_type": "sha1",
+    "size": 207077798,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "facff0a02c09e5f088dbce4eea5505fa",
@@ -24496,7 +25896,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "0892b6f4a45f5667e2b73f8b7eb76d3d",
@@ -25023,7 +26423,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "15364fdb1d6f59e2eaaf7d3cb5784ee5",
@@ -26044,7 +27444,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "33ec5580148707582fc990fadd17a518",
@@ -26290,6 +27690,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "3fedaf4fc88227ceafec1f171e9b99a6",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jre11.0.31+11-macos-amd64.tar.gz",
+    "checksum": "6714f88837363591a8676cf737edbbd215475140",
+    "checksum_type": "sha1",
+    "size": 47499422,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "4148f468bd1584b8b2abe62a0d36e063",
@@ -26677,6 +28112,41 @@
     "latest_build_available": false
   },
   {
+    "id": "4971e9c37c578fbcbef899a116200413",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jdk11.0.31+11-macos-amd64.tar.gz",
+    "checksum": "5c82939f8fddf50d64e84ad6652f9dadf4a0399b",
+    "checksum_type": "sha1",
+    "size": 199861261,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "499318db7043f05e84d95432dc1f802f",
     "distribution": "liberica",
     "version": {
@@ -26780,6 +28250,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "4beeb1474c85f5e0dbb0a99bcdf9f367",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jdk11.0.31+11-macos-amd64-full.tar.gz",
+    "checksum": "e5aaf0e506ef05c4476bc2c867e8441e82b25cbb",
+    "checksum_type": "sha1",
+    "size": 315708199,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "4e2f9fc5a62db26f40c0d0966111a535",
@@ -27835,6 +29340,41 @@
     "latest_build_available": false
   },
   {
+    "id": "61a49cbc8bd3ddd48403e9795a3f8f9c",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jdk11.0.31+11-macos-amd64-lite.zip",
+    "checksum": "4877f9da6d75bcf662ce95d86354160d9687fe6d",
+    "checksum_type": "sha1",
+    "size": 73364446,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "623c045906fc6ed3afd2448608ba2345",
     "distribution": "liberica",
     "version": {
@@ -28114,6 +29654,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "69b7c2d7351a83523c46dd9596d9c845",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jdk11.0.31+11-macos-amd64-full.zip",
+    "checksum": "53d8cb509307b92c6c6ac41f090332f17669fef6",
+    "checksum_type": "sha1",
+    "size": 321775701,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "6a0ebda2b65614b0719ba7dedd1276aa",
@@ -28921,7 +30496,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "7b72ccdee75247e5c728d29127256218",
@@ -29832,7 +31407,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "8eceb7ad6dce081169bdea488709cd51",
@@ -30045,7 +31620,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "93f4b9f8f5ac7ee7c59a09a89009c3d9",
@@ -30118,6 +31693,41 @@
     "latest_build_available": false
   },
   {
+    "id": "9a6b1846964fee3b574ebd0d4fe6a79b",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jre11.0.31+11-macos-amd64.zip",
+    "checksum": "cc436e8574945624170a69564c5a5702b978c367",
+    "checksum_type": "sha1",
+    "size": 48255244,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "9a764cbda9d3c26c315a7897ff8b7215",
     "distribution": "liberica",
     "version": {
@@ -30187,6 +31797,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "9d55bb236885680efff8a2f9547f8dfd",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jre11.0.31+11-macos-amd64-full.zip",
+    "checksum": "f4cb62989cbde42db56f05187c45a7e2c831c9b4",
+    "checksum_type": "sha1",
+    "size": 98734211,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "9dd1f60649f7545be9b856e4563bda69",
@@ -31208,7 +32853,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "b0bc9d71b2b43f21364d12904b177092",
@@ -32262,7 +33907,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "c8daa813ce53a01c260b9116605a83d1",
@@ -33462,6 +35107,41 @@
     "latest_build_available": false
   },
   {
+    "id": "df8972b9f35a90514dec8a416dd69140",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jdk11.0.31+11-macos-amd64.zip",
+    "checksum": "32ad765be754af8e213ab42659e630867da47466",
+    "checksum_type": "sha1",
+    "size": 205284170,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "df95cb8406e6ecd252caa55ce8294147",
     "distribution": "liberica",
     "version": {
@@ -33742,6 +35422,41 @@
     "latest_build_available": false
   },
   {
+    "id": "e38bcce62ad9c95fd9aaaf29129ae1dc",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jre11.0.31+11-macos-amd64-full.tar.gz",
+    "checksum": "f593d8eb8c13a864a267201d3d5deb69aeef3bfb",
+    "checksum_type": "sha1",
+    "size": 97814167,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "e3c1a05ec341b1fc0dcb4a66317bf7c4",
     "distribution": "liberica",
     "version": {
@@ -33915,7 +35630,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "e7ee83bfcb02823d6fce6ead1e542179",
@@ -34022,6 +35737,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "f1b939e6fc1fd334d11675f4a458dd23",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jdk11.0.31+11-macos-amd64-lite.tar.gz",
+    "checksum": "d23681f083515b1c474499b353313193d83e9486",
+    "checksum_type": "sha1",
+    "size": 72478337,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "f219944c9f1a8f566598345d089177b1",
@@ -34439,7 +36189,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "fcd18831909f1452c89be9f103596520",
@@ -35595,7 +37345,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "218eaa571cd184e08a2061e46b3f893c",
@@ -35980,7 +37730,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "2b5df2165f57fbc38acc29907a62e9f6",
@@ -36086,6 +37836,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "2f8b7bd8fc2007437609397e64acbc20",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jre8u492+9-macos-amd64.zip",
+    "checksum": "a9f3235cd20e0b699bdf9f2e90dd63eb2431daaf",
+    "checksum_type": "sha1",
+    "size": 40102303,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "3122d227f0d3d6387700b48c55703fc9",
@@ -36505,7 +38290,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "36d9ab8d27d8d9b622af9d624b48fe32",
@@ -37065,7 +38850,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "4effedb6865562910681f882c12a0ff8",
@@ -37100,7 +38885,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "50596633e79b0be935f0d3df52253a02",
@@ -37873,6 +39658,41 @@
     "latest_build_available": false
   },
   {
+    "id": "5ad815b60987ac0edbf405c4122b4efe",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jre8u492+9-macos-amd64.tar.gz",
+    "checksum": "dfda3d43962c8bfd0852ec05a2f71077cbe345f7",
+    "checksum_type": "sha1",
+    "size": 39901213,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "5c3804dc00cc0d28459727cf4673593e",
     "distribution": "liberica",
     "version": {
@@ -38328,6 +40148,41 @@
     "latest_build_available": false
   },
   {
+    "id": "6f1a462e334a74c30b21d562fa5bd76e",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-macos-amd64.zip",
+    "checksum": "b8404e1412a025d2b23fedb605932b4194094121",
+    "checksum_type": "sha1",
+    "size": 109227433,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "6f68c110f67ce3c52fbef80fd94507c8",
     "distribution": "liberica",
     "version": {
@@ -38500,7 +40355,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "73fa4d8627326811fc011b6f8982ed52",
@@ -39025,7 +40880,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "7f93dd752d9ed59a74d66fe4a150b988",
@@ -39166,6 +41021,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "85276190e1789707da4dac68a27238fe",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-macos-amd64.tar.gz",
+    "checksum": "dc9dbcac56a322c76a8cbde81f5bbaa06a010e29",
+    "checksum_type": "sha1",
+    "size": 104732179,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "85e21f991eed6da6560cb09d8bab553d",
@@ -39798,6 +41688,41 @@
     "latest_build_available": false
   },
   {
+    "id": "933cf2ae0e007d9f88cc3b7af8b31dff",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jre8u492+9-macos-amd64-full.tar.gz",
+    "checksum": "4d8cf0b799f6cf51125be25ea4add42408ac7a32",
+    "checksum_type": "sha1",
+    "size": 91799748,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "940a023ed0b1afe8544e5208e08878ab",
     "distribution": "liberica",
     "version": {
@@ -40145,6 +42070,41 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "9cd05e6f842ffd6e3fb1ad9c2286f302",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-macos-amd64-lite.tar.gz",
+    "checksum": "a39f0b6458d57d4dac1ddb84efd6c3768d8d28a7",
+    "checksum_type": "sha1",
+    "size": 53068226,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
     "latest_build_available": true
   },
   {
@@ -40425,6 +42385,41 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "a829e7cdf0e0a6991685d1563c803e6f",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-macos-amd64-full.tar.gz",
+    "checksum": "b76734e78b90abf96995b599b797ec0a5bf1c5fa",
+    "checksum_type": "sha1",
+    "size": 157806058,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
     "latest_build_available": true
   },
   {
@@ -40496,6 +42491,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "acad7b5ea85cff102559cea279872fc3",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jre8u492+9-macos-amd64-full.zip",
+    "checksum": "3d6bcf670a50963c198d11a98b5c9470b7002821",
+    "checksum_type": "sha1",
+    "size": 92085928,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "aed8ab100358585924db517f9353d22e",
@@ -43015,7 +45045,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "ee6a35d204128c2708bba1b7e03cb94f",
@@ -43613,6 +45643,41 @@
     "latest_build_available": false
   },
   {
+    "id": "fb24431183567a50fbb47ff129e4a727",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-macos-amd64-full.zip",
+    "checksum": "867c9a8832dc879dad720974f956f916fdb56d0b",
+    "checksum_type": "sha1",
+    "size": 162381557,
+    "lib_c_type": "libc",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "fc9a04e369424fbf3bc6ca2537fbd52a",
     "distribution": "liberica",
     "version": {
@@ -43681,6 +45746,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "fdd01af4c6e589eef64c55899297b04f",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-macos-amd64-lite.zip",
+    "checksum": "b871c26010f6714aab6bc16211a42912a04bb0a4",
+    "checksum_type": "sha1",
+    "size": 53262251,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "ffa1b048b28d1b6fc3b86bef2ba70b59",

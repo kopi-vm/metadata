@@ -66,6 +66,76 @@
     "latest_build_available": true
   },
   {
+    "id": "664fb7d92a70aaf1058ba845b9f5e392",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        26,
+        0,
+        1
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jdk26.0.1+10-linux-aarch64-musl.tar.gz",
+    "checksum": "a3e7bff3901b554cc8b246954010cfced0ce4582",
+    "checksum_type": "sha1",
+    "size": 262162190,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "837fbe76f2571bb8fc22ff39b0db3039",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        26,
+        0,
+        1
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jre26.0.1+10-linux-aarch64-musl.tar.gz",
+    "checksum": "1f12eb482e5111130161315dd2d0848e6c67859b",
+    "checksum_type": "sha1",
+    "size": 84353743,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "86c35e3b7554666f0db1e3c48ea93b10",
     "distribution": "liberica",
     "version": {
@@ -92,6 +162,41 @@
     "checksum": null,
     "checksum_type": null,
     "size": 84357235,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "b4c7088298d4fe8fa05cfcac43bddecf",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        26,
+        0,
+        1
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jdk26.0.1+10-linux-aarch64-musl-lite.tar.gz",
+    "checksum": "de3cd94af12650ecbcf7c5cd8585e36f4c2d9c59",
+    "checksum_type": "sha1",
+    "size": 84013127,
     "lib_c_type": "musl",
     "javafx_bundled": false,
     "term_of_support": "sts",
@@ -165,6 +270,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "3d13e989e715f255478e2aa1508f3c5e",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-linux-aarch64-musl.tar.gz",
+    "checksum": "9ce34bfe21fd207e8956ccf680c44e02433e2079",
+    "checksum_type": "sha1",
+    "size": 82242395,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "4e3f604e2e2d0bafc0031cdf49ba09c6",
@@ -268,6 +408,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "79c0b5ca7e0f458b1d610af9ec9a5c9a",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jdk25.0.3+11-linux-aarch64-musl-lite.tar.gz",
+    "checksum": "6e2de01a0f332a885227b9f42b60b080e498f6e3",
+    "checksum_type": "sha1",
+    "size": 82064500,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "7ea4347a1f5af5dddb1861d08871c835",
@@ -441,6 +616,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "f2286241648f032b6d1de2ac2c26387f",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jdk25.0.3+11-linux-aarch64-musl.tar.gz",
+    "checksum": "b393af379fa77e53b51fbbb3aa174ad6ee2d0d95",
+    "checksum_type": "sha1",
+    "size": 256355077,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "fb0d5094600e9a3729f5dccfa2ea7e86",
@@ -1928,6 +2138,111 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "3cf018e8365f5f865d51047cba9776ff",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jdk21.0.11+11-linux-aarch64-musl.tar.gz",
+    "checksum": "7842d7b20904881c08b958e71b441fc1d61686e6",
+    "checksum_type": "sha1",
+    "size": 227669974,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "3ff7543fced0ac26818184c4cb8249cc",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jdk21.0.11+11-linux-aarch64-musl-lite.tar.gz",
+    "checksum": "88e310fafa0a76d52820432d2da194c522813653",
+    "checksum_type": "sha1",
+    "size": 77460609,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "40506e9ce2c0d9b65362566d9023453c",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jre21.0.11+11-linux-aarch64-musl.tar.gz",
+    "checksum": "1a91fe30580ddbb710eca3cc7f58c4779431325a",
+    "checksum_type": "sha1",
+    "size": 64329287,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "468343eed728274c5ca5aa2f1ef41059",
@@ -4432,6 +4747,41 @@
     "latest_build_available": false
   },
   {
+    "id": "21c9a30086ae507707319f868c981af7",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-linux-aarch64-musl-lite.tar.gz",
+    "checksum": "7c10b1680af2514b9a29edf2df965db2188a22e1",
+    "checksum_type": "sha1",
+    "size": 71438892,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "223ff8dc3746645499c8e02974f0fc89",
     "distribution": "liberica",
     "version": {
@@ -4570,6 +4920,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "38de57b0ea8fff3d70b72deada0317b3",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-linux-aarch64-musl.tar.gz",
+    "checksum": "fe0f3209c4ea588755bbcab5c031597bfe5dea6a",
+    "checksum_type": "sha1",
+    "size": 211765839,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "42d652df15f66fffbac58642ad82e83e",
@@ -5238,6 +5623,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "79fc1da874306073024253ffe52ad307",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jre17.0.19+11-linux-aarch64-musl.tar.gz",
+    "checksum": "86f68252c0255c008d3bdbd6726ac87abd64fcb8",
+    "checksum_type": "sha1",
+    "size": 57378822,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "7d784da776a089b8568e3e99db3af05a",
@@ -7230,6 +7650,41 @@
     "latest_build_available": false
   },
   {
+    "id": "1312f642088d3d4deb60b913164262ee",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jdk11.0.31+11-linux-aarch64-musl.tar.gz",
+    "checksum": "a863072705bb74adb2593fee3c5c7419c18545e2",
+    "checksum_type": "sha1",
+    "size": 211804636,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "1369f619e940d4056c1270d0b7cef422",
     "distribution": "liberica",
     "version": {
@@ -8038,6 +8493,41 @@
     "latest_build_available": false
   },
   {
+    "id": "52e16bab1997d9e46d6e2c178ddd8bc1",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jre11.0.31+11-linux-aarch64-musl.tar.gz",
+    "checksum": "38fd0dd58799a6090d54aa4f1e2f26ab39dfde47",
+    "checksum_type": "sha1",
+    "size": 53081429,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "557d28ae26babc01a708c6916d1608f3",
     "distribution": "liberica",
     "version": {
@@ -8352,6 +8842,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "732d4c4ac22b3ccd9aef7fc6f48badfc",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": [
+        11
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jdk11.0.31+11-linux-aarch64-musl-lite.tar.gz",
+    "checksum": "4c47816b37f76a5ea566f071862894c0214fea2a",
+    "checksum_type": "sha1",
+    "size": 74262109,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "74e6616c11f593b448d768e64a03ba8e",
@@ -11196,6 +11721,41 @@
     "latest_build_available": false
   },
   {
+    "id": "93e414615f18a03eaa809e22ce6c30de",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-linux-aarch64-musl-lite.tar.gz",
+    "checksum": "25bac0a236c55a9c943e9209ed94622fe60713f7",
+    "checksum_type": "sha1",
+    "size": 51722357,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "95c1d837fe18bba771acf1beb03cd598",
     "distribution": "liberica",
     "version": {
@@ -11336,6 +11896,41 @@
     "latest_build_available": false
   },
   {
+    "id": "a4237416712553bdccc587973a6c9648",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jre8u492+9-linux-aarch64-musl.tar.gz",
+    "checksum": "970e8e30391ad45c8d00245a81397cc7886ace78",
+    "checksum_type": "sha1",
+    "size": 41757603,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "a5dad70f2d414acba3570f17381ca16a",
     "distribution": "liberica",
     "version": {
@@ -11369,6 +11964,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "aa38093472092245232a33b936c9db54",
+    "distribution": "liberica",
+    "version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-linux-aarch64-musl.tar.gz",
+    "checksum": "319a7ecbed29311ab9eb8706371fab0d012558ab",
+    "checksum_type": "sha1",
+    "size": 104773944,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "ab7e0f47162861a64b78b9d7b7a9fa89",
