@@ -1,5 +1,43 @@
 [
   {
+    "id": "5e19bef5e33af85b89bf4af93cac457c",
+    "distribution": "dragonwell",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        3,
+        0,
+        3,
+        9
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/dragonwell-project/dragonwell25/releases/download/dragonwell-standard-25.0.3.0.3%2B9_jdk-25.0.3-ga/Alibaba_Dragonwell_Standard_25.0.3.0.3.9_aarch64_linux.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 223910301,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "152dd4dec61fc4ee27be4d587ccb2138",
     "distribution": "dragonwell",
     "version": {
@@ -35,7 +73,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "1a9fe845dfb89ff32141081bdf697dea",
