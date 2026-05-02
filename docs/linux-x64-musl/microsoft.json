@@ -1,5 +1,40 @@
 [
   {
+    "id": "bf08d310f8bbb53288e427697055c60e",
+    "distribution": "microsoft",
+    "version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        19
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.19-alpine-x64.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 193127966,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "d325f52250103cee48b9b399dd104e82",
     "distribution": "microsoft",
     "version": {
@@ -67,7 +102,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "2384e341c148bda94bc0985ca29d87ed",
@@ -669,6 +704,41 @@
     "latest_build_available": false
   },
   {
+    "id": "d0799ee9daddfbed2eea5634cb54b8f6",
+    "distribution": "microsoft",
+    "version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        31
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://aka.ms/download-jdk/microsoft-jdk-11.0.31-alpine-x64.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 198015136,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "16ecf06540012d6ac3c3521fc6f32d6a",
     "distribution": "microsoft",
     "version": {
@@ -736,7 +806,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "fc698e499095c25e9c7b049b5e38880c",
