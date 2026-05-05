@@ -1,5 +1,38 @@
 [
   {
+    "id": "e1b7776bebdaa8c0ac377eebdfb84544",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-25.0.3.0-Final/mandrel-java25-linux-aarch64-25.0.3.0-Final.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 202013395,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "c6b9e38ae2a50cbebc8c86268e7eb860",
     "distribution": "mandrel",
     "version": {
@@ -32,7 +65,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "f77e84329a01d087e8f2b1766b3d4aee",
@@ -67,7 +100,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "ec7faccc8320b4bbedfd958297566a26",
@@ -104,7 +137,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "7f7e6b6bf90f2af927c41fbe962642b4",
@@ -139,7 +172,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "baf554beb940bc034b1ff37b925c6bec",
@@ -277,7 +310,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "0e99312926a15c35178de55c6430a417",
@@ -345,7 +378,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "e7f5bce88954959258b17208455bd6c4",
@@ -414,6 +447,39 @@
     "latest_build_available": false
   },
   {
+    "id": "50e0b388b36e1b31396603e4fe406606",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        23,
+        1,
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-23.1.11.0-Final/mandrel-java21-linux-aarch64-23.1.11.0-Final.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 259126890,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "9879fdc0da65058576a0b5fe8338cf1a",
     "distribution": "mandrel",
     "version": {
@@ -446,7 +512,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "710218a4b729566ce00ea0fea0c2f054",
@@ -481,7 +547,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "d319afb89dc2d0fc1c7892634153571e",
@@ -1080,7 +1146,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "b15424709ce14f8ba692f5cebeea70f5",
@@ -1146,7 +1212,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "8122643a3807e104bf6dc4ac695d52b0",
@@ -1181,7 +1247,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "dc4e1d12d4e06224af72b0175b8c10a0",
@@ -1255,7 +1321,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "b727f0e61e387b68646a738913b17da1",
@@ -1428,7 +1494,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "03dec71e7900cccc6337c9bf5c215e06",
@@ -1461,7 +1527,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "c4767ff4cd479942487fe9a3f183fb25",
@@ -1494,7 +1560,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "b768da6d0a78f7bd049cdc650958150c",
@@ -1568,7 +1634,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "3fad6657f5e6a7c718a36d80f1143b00",
@@ -1603,7 +1669,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "6b516c212b59caed60442c0b05dac7ce",
@@ -1638,7 +1704,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "64662dc15901788ef70a8ce744817526",
@@ -1852,7 +1918,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "0ade467ac92d9710a8a3ae894497031f",
@@ -1959,7 +2025,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "fe2873047f1af85f49e98292b2f27f46",
