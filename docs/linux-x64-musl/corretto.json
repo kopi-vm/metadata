@@ -4377,7 +4377,7 @@
     "javafx_bundled": true,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "0af1adf6923429811611f9352926de64",
@@ -5444,6 +5444,41 @@
     "latest_build_available": false
   },
   {
+    "id": "5ddeb66b0511b6c1d0437a0489418ff7",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        492
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/8.492.09.2/amazon-corretto-8.492.09.2-alpine-linux-x64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 100609050,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "fd4501cbef083477aa8b62e02c19a54e",
     "distribution": "corretto",
     "version": {
@@ -5476,7 +5511,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "0f8975cbdd1351f33304ac126f8b8e51",
