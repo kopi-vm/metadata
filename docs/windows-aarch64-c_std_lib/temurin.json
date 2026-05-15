@@ -148,6 +148,80 @@
     "latest_build_available": false
   },
   {
+    "id": "476d3c08f4989328dee56d22e202d98d",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.11_10.zip",
+    "checksum": "a6ef0829c261f856ef93d64724be6bc8fd8355c2bbddbd26d6544478a8353f87",
+    "checksum_type": "sha256",
+    "size": 192674418,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "c7225cc8e5af6a1311a70471e5135408",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "windows",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.11_10.zip",
+    "checksum": "22e2c2b83a7dc5653c938c9a49d87ad52a1faa38f7f3d80a96ceb0795ab99637",
+    "checksum_type": "sha256",
+    "size": 40076904,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "1e91f45234d88a64dafb961c93ddc75a",
     "distribution": "temurin",
     "version": {
@@ -182,7 +256,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "b4c5e1d137523094231fa302609fe438",
@@ -219,7 +293,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "3cd7045fca9a72cd9bc7d14a385e594c",
