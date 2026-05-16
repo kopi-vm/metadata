@@ -1,5 +1,42 @@
 [
   {
+    "id": "8a7ad6e8508221d37ba000eb9e080b25",
+    "distribution": "jetbrains",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": [
+        329124
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.3-osx-aarch64-b329.124.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha512",
+    "size": 383912461,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "e236ddeb80162dc39dfc7ec75be3d4dd",
     "distribution": "jetbrains",
     "version": {
@@ -34,7 +71,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "30e85045a0ec2d48416edd1363c2e8e5",
@@ -545,6 +582,43 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "7083b89563e7ce20943037b8cd2b8cc2",
+    "distribution": "jetbrains",
+    "version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": [
+        1163116
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-21.0.11-osx-aarch64-b1163.116.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha512",
+    "size": 375200119,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "0b98aec810298c2c1d7fdac5dac37910",
