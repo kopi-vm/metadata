@@ -2344,6 +2344,37 @@
     "latest_build_available": false
   },
   {
+    "id": "b19e70d579264f8b2668d1238a80f9de",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-21.0.0.0.Final/mandrel-java11-windows-amd64-21.0.0.0.Final.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 226171941,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "18429fd39e2efa357a367f52183b5f45",
     "distribution": "mandrel",
     "version": {
@@ -2410,6 +2441,43 @@
     "latest_build_available": false
   },
   {
+    "id": "e4add49fc5d98d96ee1e465c7b436589",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        20,
+        3,
+        1,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        20,
+        3,
+        1,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-20.3.1.2.Final/mandrel-java11-windows-amd64-20.3.1.2.Final.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 226587001,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "f191369f693a85435b6ae5c27d025d8c",
     "distribution": "mandrel",
     "version": {
@@ -2440,6 +2508,76 @@
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "e93ac2dd6840560af7a28c01087bac88",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        20,
+        3,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        20,
+        3,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-20.3.1.1.Final/mandrel-java11-windows-amd64-20.3.1.1.Final.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 226115933,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "178de06a591e3a7801be815a5a8e1436",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        20,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        20,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-20.3.0.0.Final/mandrel-java11-windows-amd64-20.3.0.0.Final.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 226323690,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
   }
