@@ -487,7 +487,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "8b952b49340106bff0bcf09d562bd265",
@@ -525,7 +525,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "a82d538725feee44d6125274c9da7e20",
@@ -563,7 +563,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "b4fe32d61ccf2982c625504048450c1d",
@@ -601,7 +601,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "366b325504ff77e0d963eb6a51cb0dac",
@@ -1779,7 +1779,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "65e9e8c8188b027725ed2a3167e10408",
@@ -2787,7 +2787,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "ae046dbadb086af3b0a38bd136657144",
@@ -2824,7 +2824,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "372c8bc305e208e2c57ddfeaf060bbb8",
@@ -2861,7 +2861,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "1577ce3cb52fea33d79080ad7a0d1e7d",
@@ -5527,6 +5527,41 @@
     "latest_build_available": false
   },
   {
+    "id": "66e768002becf9f723e000157be8c18c",
+    "distribution": "dragonwell",
+    "version": {
+      "components": [
+        8,
+        0,
+        472
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        27,
+        26
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.27.26_jdk8u472-ga/Alibaba_Dragonwell_Standard_8.27.26_x64_linux.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 102831342,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "60e9112452bba595aec8c532ae3edbff",
     "distribution": "dragonwell",
     "version": {
@@ -7653,43 +7688,6 @@
     "checksum": "da236f15d19d8cabd0a18550eaada878d62173aceff3bdde4df78f8acf122d9c",
     "checksum_type": "sha256",
     "size": 102878367,
-    "lib_c_type": "glibc",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
-    "id": "66e768002becf9f723e000157be8c18c",
-    "distribution": "dragonwell",
-    "version": {
-      "components": [
-        8,
-        0,
-        472
-      ],
-      "build": [
-        1
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        0,
-        472
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "linux",
-    "package_type": "jdk",
-    "archive_type": "targz",
-    "download_url": "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.27.26_jdk8u472-ga/Alibaba_Dragonwell_Standard_8.27.26_x64_linux.tar.gz",
-    "checksum": "63b362877de924f5f2b02b7cb4839705c0ecd38ee51308d3035d27d18fec1820",
-    "checksum_type": "sha256",
-    "size": 102831342,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",

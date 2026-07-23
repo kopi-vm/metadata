@@ -1,5 +1,40 @@
 [
   {
+    "id": "202888aed7ef64b245f57579e45f137a",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        26,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/java/26/archive/jdk-26.0.2_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 220832442,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "99a7bef30cbcbad962b5ee8e6d8535fe",
     "distribution": "oracle",
     "version": {
@@ -62,6 +97,41 @@
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "3926e1942b7bf1974fb5c90c9f0b6402",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/java/25/archive/jdk-25.0.4_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 215811018,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
   },
@@ -501,6 +571,41 @@
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "8e59e8821ba656253766961ff9e04635",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/java/21/archive/jdk-21.0.12_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 196941465,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
   },
@@ -1222,6 +1327,41 @@
     "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "ce2a2aeac45ae0e4b4c4c881f5b9f468",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "",
+    "checksum": null,
+    "checksum_type": null,
+    "size": -1,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "b1f5d562ec93cc8fa09f986a5fd352d1",
@@ -2270,6 +2410,41 @@
     "latest_build_available": false
   },
   {
+    "id": "48b6593bc857a9d173aed929e84a4dae",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "",
+    "checksum": null,
+    "checksum_type": null,
+    "size": -1,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "faf00aec60bc906ad2918a60285ec054",
     "distribution": "oracle",
     "version": {
@@ -3246,6 +3421,146 @@
     "lib_c_type": "c_std_lib",
     "javafx_bundled": true,
     "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "253fdb42bd513aa20fda7b79da4f669e",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        8,
+        0,
+        501
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        501
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "",
+    "checksum": null,
+    "checksum_type": null,
+    "size": -1,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "611348400cb69257d703813f0722bd58",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        8,
+        0,
+        501
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        501
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "",
+    "checksum": null,
+    "checksum_type": null,
+    "size": -1,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "d1b5a8ad7d8ba9be17b2670d620f0716",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        8,
+        0,
+        501
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        501
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "",
+    "checksum": null,
+    "checksum_type": null,
+    "size": -1,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "dfebf7f5d09cdb9f1449a63e6119c7c0",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        8,
+        0,
+        501
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        501
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "",
+    "checksum": null,
+    "checksum_type": null,
+    "size": -1,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": true,
+    "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
   },

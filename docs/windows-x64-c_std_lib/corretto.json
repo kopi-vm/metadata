@@ -1,5 +1,40 @@
 [
   {
+    "id": "5297bb36bae8ce45f42d22bb22c718c1",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        26,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/26.0.2.10.1/amazon-corretto-26.0.2.10.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 227084144,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "aef31393305d211de05e1c2966659f3b",
     "distribution": "corretto",
     "version": {
@@ -128,6 +163,41 @@
     "latest_build_available": false
   },
   {
+    "id": "9b4b8f2c526d3ed7d78d608791763bae",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/25.0.4.7.1/amazon-corretto-25.0.4.7.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 221963675,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "03d700efed0c4036fcfdf0ad69d51200",
     "distribution": "corretto",
     "version": {
@@ -206,17 +276,13 @@
         0,
         1
       ],
-      "build": [
-        8
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         25,
         0,
-        1,
-        8,
         1
       ],
       "build": null,
@@ -230,43 +296,6 @@
     "checksum": null,
     "checksum_type": null,
     "size": 221694789,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "e5bc10c93310ca2278d2d7d4c708e462",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        25
-      ],
-      "build": [
-        36
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        25,
-        0,
-        0,
-        36,
-        2
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/25.0.0.36.2/amazon-corretto-25.0.0.36.2-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 221674905,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -360,6 +389,37 @@
     "checksum": null,
     "checksum_type": null,
     "size": 221661716,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "e5bc10c93310ca2278d2d7d4c708e462",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/25.0.0.36.2/amazon-corretto-25.0.0.36.2-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 221674905,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -805,6 +865,41 @@
     "latest_build_available": false
   },
   {
+    "id": "6fb5075b2dcb0e97607e0bbd93459403",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/21.0.12.8.1/amazon-corretto-21.0.12.8.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 202321524,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "9eb5d45802b65696ed3ce0f14bb1e4ff",
     "distribution": "corretto",
     "version": {
@@ -883,18 +978,14 @@
         0,
         9
       ],
-      "build": [
-        10
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         21,
         0,
-        9,
-        10,
-        1
+        9
       ],
       "build": null,
       "pre_release": null
@@ -922,18 +1013,14 @@
         0,
         8
       ],
-      "build": [
-        9
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         21,
         0,
-        8,
-        9,
-        1
+        8
       ],
       "build": null,
       "pre_release": null
@@ -961,18 +1048,14 @@
         0,
         7
       ],
-      "build": [
-        6
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         21,
         0,
-        7,
-        6,
-        1
+        7
       ],
       "build": null,
       "pre_release": null
@@ -1000,18 +1083,14 @@
         0,
         6
       ],
-      "build": [
-        7
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         21,
         0,
-        6,
-        7,
-        1
+        6
       ],
       "build": null,
       "pre_release": null
@@ -1039,18 +1118,14 @@
         0,
         5
       ],
-      "build": [
-        11
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         21,
         0,
-        5,
-        11,
-        1
+        5
       ],
       "build": null,
       "pre_release": null
@@ -1078,18 +1153,14 @@
         0,
         4
       ],
-      "build": [
-        7
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         21,
         0,
-        4,
-        7,
-        1
+        4
       ],
       "build": null,
       "pre_release": null
@@ -1117,18 +1188,14 @@
         0,
         3
       ],
-      "build": [
-        9
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         21,
         0,
-        3,
-        9,
-        1
+        3
       ],
       "build": null,
       "pre_release": null
@@ -1156,18 +1223,14 @@
         0,
         2
       ],
-      "build": [
-        13
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         21,
         0,
-        2,
-        13,
-        1
+        2
       ],
       "build": null,
       "pre_release": null
@@ -1195,17 +1258,13 @@
         0,
         1
       ],
-      "build": [
-        12
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         21,
         0,
-        1,
-        12,
         1
       ],
       "build": null,
@@ -1219,43 +1278,6 @@
     "checksum": null,
     "checksum_type": null,
     "size": 201439571,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "20c411a02591122494402412467b84e0",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        21
-      ],
-      "build": [
-        35
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        21,
-        0,
-        0,
-        35,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/21.0.0.35.1/amazon-corretto-21.0.0.35.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 201409004,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -1287,6 +1309,37 @@
     "checksum": null,
     "checksum_type": "md5",
     "size": 202110128,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "20c411a02591122494402412467b84e0",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/21.0.0.35.1/amazon-corretto-21.0.0.35.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 201409004,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -1802,6 +1855,41 @@
     "latest_build_available": false
   },
   {
+    "id": "bd4aaf2998de5eb0fb99889241ddce2a",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/17.0.20.8.1/amazon-corretto-17.0.20.8.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 188081965,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "e0143530f82903b2747d212ef9dabef4",
     "distribution": "corretto",
     "version": {
@@ -1915,18 +2003,14 @@
         0,
         17
       ],
-      "build": [
-        10
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        17,
-        10,
-        1
+        17
       ],
       "build": null,
       "pre_release": null
@@ -1954,18 +2038,14 @@
         0,
         16
       ],
-      "build": [
-        8
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        16,
-        8,
-        1
+        16
       ],
       "build": null,
       "pre_release": null
@@ -1993,18 +2073,14 @@
         0,
         15
       ],
-      "build": [
-        6
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        15,
-        6,
-        1
+        15
       ],
       "build": null,
       "pre_release": null
@@ -2032,18 +2108,14 @@
         0,
         14
       ],
-      "build": [
-        7
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        14,
-        7,
-        1
+        14
       ],
       "build": null,
       "pre_release": null
@@ -2071,18 +2143,14 @@
         0,
         13
       ],
-      "build": [
-        11
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        13,
-        11,
-        1
+        13
       ],
       "build": null,
       "pre_release": null
@@ -2110,18 +2178,14 @@
         0,
         12
       ],
-      "build": [
-        7
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        12,
-        7,
-        1
+        12
       ],
       "build": null,
       "pre_release": null
@@ -2149,18 +2213,14 @@
         0,
         11
       ],
-      "build": [
-        9
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        11,
-        9,
-        1
+        11
       ],
       "build": null,
       "pre_release": null
@@ -2188,18 +2248,14 @@
         0,
         10
       ],
-      "build": [
-        7
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        10,
-        7,
-        1
+        10
       ],
       "build": null,
       "pre_release": null
@@ -2227,18 +2283,14 @@
         0,
         9
       ],
-      "build": [
-        8
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        9,
-        8,
-        1
+        9
       ],
       "build": null,
       "pre_release": null
@@ -2258,45 +2310,6 @@
     "latest_build_available": false
   },
   {
-    "id": "af2410e463e4167337e1643a511c3d98",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        17,
-        0,
-        8
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        17,
-        0,
-        8,
-        8,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/17.0.8.8.1/amazon-corretto-17.0.8.8.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 186879670,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "6a8a3bef4218ce4f16f7bfae03f3521b",
     "distribution": "corretto",
     "version": {
@@ -2305,18 +2318,14 @@
         0,
         8
       ],
-      "build": [
-        7
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        8,
-        7,
-        1
+        8
       ],
       "build": null,
       "pre_release": null
@@ -2336,6 +2345,41 @@
     "latest_build_available": false
   },
   {
+    "id": "af2410e463e4167337e1643a511c3d98",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        17,
+        0,
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        8
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/17.0.8.8.1/amazon-corretto-17.0.8.8.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 186879670,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "cfe4dc734d54087926c0ee5387352653",
     "distribution": "corretto",
     "version": {
@@ -2344,18 +2388,14 @@
         0,
         7
       ],
-      "build": [
-        7
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        7,
-        7,
-        1
+        7
       ],
       "build": null,
       "pre_release": null
@@ -2383,18 +2423,14 @@
         0,
         6
       ],
-      "build": [
-        10
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        6,
-        10,
-        1
+        6
       ],
       "build": null,
       "pre_release": null
@@ -2422,18 +2458,14 @@
         0,
         5
       ],
-      "build": [
-        8
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        5,
-        8,
-        1
+        5
       ],
       "build": null,
       "pre_release": null
@@ -2461,18 +2493,14 @@
         0,
         4
       ],
-      "build": [
-        9
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        4,
-        9,
-        1
+        4
       ],
       "build": null,
       "pre_release": null
@@ -2500,18 +2528,14 @@
         0,
         4
       ],
-      "build": [
-        8
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        4,
-        8,
-        1
+        4
       ],
       "build": null,
       "pre_release": null
@@ -2539,18 +2563,14 @@
         0,
         3
       ],
-      "build": [
-        6
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        3,
-        6,
-        1
+        3
       ],
       "build": null,
       "pre_release": null
@@ -2578,18 +2598,14 @@
         0,
         2
       ],
-      "build": [
-        8
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        2,
-        8,
-        1
+        2
       ],
       "build": null,
       "pre_release": null
@@ -2617,17 +2633,13 @@
         0,
         1
       ],
-      "build": [
-        12
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         17,
         0,
-        1,
-        12,
         1
       ],
       "build": null,
@@ -2654,18 +2666,12 @@
       "components": [
         17
       ],
-      "build": [
-        35
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
-        17,
-        0,
-        0,
-        35,
-        1
+        17
       ],
       "build": null,
       "pre_release": null
@@ -3008,6 +3014,41 @@
     "latest_build_available": true
   },
   {
+    "id": "a4b6a1613a243d2a7c7804971a1749eb",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/11.0.32.9.1/amazon-corretto-11.0.32.9.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 189107895,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "70b60cd196596941d8a41fce59a95b64",
     "distribution": "corretto",
     "version": {
@@ -3086,18 +3127,14 @@
         0,
         29
       ],
-      "build": [
-        7
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        29,
-        7,
-        1
+        29
       ],
       "build": null,
       "pre_release": null
@@ -3125,18 +3162,14 @@
         0,
         28
       ],
-      "build": [
-        6
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        28,
-        6,
-        1
+        28
       ],
       "build": null,
       "pre_release": null
@@ -3164,18 +3197,14 @@
         0,
         27
       ],
-      "build": [
-        6
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        27,
-        6,
-        1
+        27
       ],
       "build": null,
       "pre_release": null
@@ -3203,18 +3232,14 @@
         0,
         26
       ],
-      "build": [
-        4
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        26,
-        4,
-        1
+        26
       ],
       "build": null,
       "pre_release": null
@@ -3242,18 +3267,14 @@
         0,
         25
       ],
-      "build": [
-        9
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        25,
-        9,
-        1
+        25
       ],
       "build": null,
       "pre_release": null
@@ -3281,18 +3302,14 @@
         0,
         24
       ],
-      "build": [
-        8
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        24,
-        8,
-        1
+        24
       ],
       "build": null,
       "pre_release": null
@@ -3320,18 +3337,14 @@
         0,
         23
       ],
-      "build": [
-        9
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        23,
-        9,
-        1
+        23
       ],
       "build": null,
       "pre_release": null
@@ -3359,18 +3372,14 @@
         0,
         22
       ],
-      "build": [
-        7
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        22,
-        7,
-        1
+        22
       ],
       "build": null,
       "pre_release": null
@@ -3398,18 +3407,14 @@
         0,
         21
       ],
-      "build": [
-        9
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        21,
-        9,
-        1
+        21
       ],
       "build": null,
       "pre_release": null
@@ -3429,45 +3434,6 @@
     "latest_build_available": false
   },
   {
-    "id": "4bc48b25f493aac4ef1b465feab1971f",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        11,
-        0,
-        20
-      ],
-      "build": [
-        9
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        11,
-        0,
-        20,
-        9,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/11.0.20.9.1/amazon-corretto-11.0.20.9.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 188270120,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "074b0fbbaf697248a6d897e72723d730",
     "distribution": "corretto",
     "version": {
@@ -3476,18 +3442,14 @@
         0,
         20
       ],
-      "build": [
-        8
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        20,
-        8,
-        1
+        20
       ],
       "build": null,
       "pre_release": null
@@ -3507,6 +3469,41 @@
     "latest_build_available": false
   },
   {
+    "id": "4bc48b25f493aac4ef1b465feab1971f",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        11,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/11.0.20.9.1/amazon-corretto-11.0.20.9.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 188270120,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "c683cdfd92306a140ce290c89851e271",
     "distribution": "corretto",
     "version": {
@@ -3515,18 +3512,14 @@
         0,
         19
       ],
-      "build": [
-        7
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        19,
-        7,
-        1
+        19
       ],
       "build": null,
       "pre_release": null
@@ -3554,18 +3547,14 @@
         0,
         18
       ],
-      "build": [
-        10
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        18,
-        10,
-        1
+        18
       ],
       "build": null,
       "pre_release": null
@@ -3593,18 +3582,14 @@
         0,
         17
       ],
-      "build": [
-        8
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        17,
-        8,
-        1
+        17
       ],
       "build": null,
       "pre_release": null
@@ -3624,45 +3609,6 @@
     "latest_build_available": false
   },
   {
-    "id": "b6070c71c5a0d817d4ed079c09b71def",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        11,
-        0,
-        16
-      ],
-      "build": [
-        9
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        11,
-        0,
-        16,
-        9,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/11.0.16.9.1/amazon-corretto-11.0.16.9.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 187166246,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "a24d2951687df6772750c9d7810c8ae7",
     "distribution": "corretto",
     "version": {
@@ -3671,18 +3617,14 @@
         0,
         16
       ],
-      "build": [
-        8
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        16,
-        8,
-        1
+        16
       ],
       "build": null,
       "pre_release": null
@@ -3702,6 +3644,41 @@
     "latest_build_available": false
   },
   {
+    "id": "b6070c71c5a0d817d4ed079c09b71def",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        11,
+        0,
+        16
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        16
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/11.0.16.9.1/amazon-corretto-11.0.16.9.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 187166246,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "52a211ecb4082f33f61f358e89703163",
     "distribution": "corretto",
     "version": {
@@ -3710,18 +3687,14 @@
         0,
         15
       ],
-      "build": [
-        9
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        15,
-        9,
-        1
+        15
       ],
       "build": null,
       "pre_release": null
@@ -3749,18 +3722,14 @@
         0,
         14
       ],
-      "build": [
-        10
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        14,
-        10,
-        1
+        14
       ],
       "build": null,
       "pre_release": null
@@ -3788,18 +3757,14 @@
         0,
         14
       ],
-      "build": [
-        9
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        14,
-        9,
-        1
+        14
       ],
       "build": null,
       "pre_release": null
@@ -3827,18 +3792,14 @@
         0,
         13
       ],
-      "build": [
-        8
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        13,
-        8,
-        1
+        13
       ],
       "build": null,
       "pre_release": null
@@ -3866,18 +3827,14 @@
         0,
         12
       ],
-      "build": [
-        7
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        12,
-        7,
-        1
+        12
       ],
       "build": null,
       "pre_release": null
@@ -3905,18 +3862,14 @@
         0,
         11
       ],
-      "build": [
-        9
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        11,
-        9,
-        1
+        11
       ],
       "build": null,
       "pre_release": null
@@ -3944,18 +3897,14 @@
         0,
         10
       ],
-      "build": [
-        9
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        10,
-        9,
-        1
+        10
       ],
       "build": null,
       "pre_release": null
@@ -3983,18 +3932,14 @@
         0,
         9
       ],
-      "build": [
-        12
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        9,
-        12,
-        1
+        9
       ],
       "build": null,
       "pre_release": null
@@ -4022,18 +3967,14 @@
         0,
         9
       ],
-      "build": [
-        11
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        9,
-        11,
-        2
+        9
       ],
       "build": null,
       "pre_release": null
@@ -4061,18 +4002,14 @@
         0,
         8
       ],
-      "build": [
-        10
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        8,
-        10,
-        1
+        8
       ],
       "build": null,
       "pre_release": null
@@ -4100,18 +4037,14 @@
         0,
         7
       ],
-      "build": [
-        10
-      ],
+      "build": null,
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         11,
         0,
-        7,
-        10,
-        1
+        7
       ],
       "build": null,
       "pre_release": null
@@ -4317,82 +4250,6 @@
     "latest_build_available": true
   },
   {
-    "id": "c087a4729c524ea5b7b30b82430a0708",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        472
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        472,
-        8,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.472.08.1/amazon-corretto-8.472.08.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121917230,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "9bdb916d6091a2eb06be44f50388a017",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        462
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        462,
-        8,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.462.08.1/amazon-corretto-8.462.08.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121893881,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "c4b1fa91eeb00a7991ca4d9a08b43c25",
     "distribution": "corretto",
     "version": {
@@ -4424,44 +4281,6 @@
     "checksum": null,
     "checksum_type": null,
     "size": 48472839,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "89c127526756c1757b27276119c777ee",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        452
-      ],
-      "build": [
-        9
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        452,
-        9,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.452.09.1/amazon-corretto-8.452.09.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121893796,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": true,
     "term_of_support": "lts",
@@ -4545,44 +4364,6 @@
     "latest_build_available": false
   },
   {
-    "id": "3c066f747edff3d0a6b4d2b5f8e7d3c8",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        442
-      ],
-      "build": [
-        6
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        442,
-        6,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.442.06.1/amazon-corretto-8.442.06.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121883765,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "6bbfdfefd583099993603466d6fd1496",
     "distribution": "corretto",
     "version": {
@@ -4614,44 +4395,6 @@
     "checksum": null,
     "checksum_type": null,
     "size": 48468989,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "6f9e68da9968a796cc84463d9ed4e426",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        432
-      ],
-      "build": [
-        6
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        432,
-        6,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.432.06.1/amazon-corretto-8.432.06.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121893160,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": true,
     "term_of_support": "lts",
@@ -4697,44 +4440,6 @@
     "latest_build_available": false
   },
   {
-    "id": "f25c46c7bb45b06326eb98b38f220c69",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        422
-      ],
-      "build": [
-        5
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        422,
-        5,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.422.05.1/amazon-corretto-8.422.05.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121870208,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "2ef8f76345e7fbf88929889eb5a08318",
     "distribution": "corretto",
     "version": {
@@ -4773,82 +4478,6 @@
     "latest_build_available": false
   },
   {
-    "id": "f0fc6349d24497046632c2c76ee96845",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        412
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        412,
-        8,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.412.08.1/amazon-corretto-8.412.08.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121863124,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "1bc0f1a511684147bc82142a01b03bfc",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        402
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        402,
-        8,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121708968,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "5ea09601356f31e067bb814c6f70a99d",
     "distribution": "corretto",
     "version": {
@@ -4880,44 +4509,6 @@
     "checksum": null,
     "checksum_type": null,
     "size": 48450682,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "1384178064d49d30d6a13db3d012c342",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        402
-      ],
-      "build": [
-        6
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        402,
-        6,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.402.06.1/amazon-corretto-8.402.06.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121708426,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": true,
     "term_of_support": "lts",
@@ -5001,82 +4592,6 @@
     "latest_build_available": false
   },
   {
-    "id": "441927bfa447beec00269a5f70cb6283",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        392
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        392,
-        8,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.392.08.1/amazon-corretto-8.392.08.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121696465,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "33ae68fd231bf8456c61b03fe8e34f6c",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        382
-      ],
-      "build": [
-        5
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        382,
-        5,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.382.05.1/amazon-corretto-8.382.05.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121004052,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "47a09d6e067dd2d688401b8b4c219d08",
     "distribution": "corretto",
     "version": {
@@ -5146,82 +4661,6 @@
     "checksum": null,
     "checksum_type": null,
     "size": 49796988,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "6bad9f5f131515a99d072aaa4e5b4357",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        372
-      ],
-      "build": [
-        7
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        372,
-        7,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.372.07.1/amazon-corretto-8.372.07.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 122257371,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "95d813cd16ce48e9c4af2595e066d9fe",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        362
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        362,
-        8,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.362.08.1/amazon-corretto-8.362.08.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 122296754,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": true,
     "term_of_support": "lts",
@@ -5305,82 +4744,6 @@
     "latest_build_available": false
   },
   {
-    "id": "70ae609a517849a3ae83d2381f56b4f4",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        352
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        352,
-        8,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.352.08.1/amazon-corretto-8.352.08.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 122314489,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "00191d6ebb8cc5ecbe22faeaa5d06f16",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        342
-      ],
-      "build": [
-        7
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        342,
-        7,
-        3
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.342.07.3/amazon-corretto-8.342.07.3-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 122292681,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "8fb2d3255759f434f10a021d41e60a60",
     "distribution": "corretto",
     "version": {
@@ -5450,82 +4813,6 @@
     "checksum": null,
     "checksum_type": null,
     "size": 49829997,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "78df28a29d88122f66cb1a2bad2ae9d0",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        342
-      ],
-      "build": [
-        7
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        342,
-        7,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.342.07.1/amazon-corretto-8.342.07.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 122291459,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "465d4697639306d726e2dd91d8508117",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        332
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        332,
-        8,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.332.08.1/amazon-corretto-8.332.08.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 122435189,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": true,
     "term_of_support": "lts",
@@ -5609,82 +4896,6 @@
     "latest_build_available": false
   },
   {
-    "id": "e90ee3b30c6653548b8dcbfc9eb19836",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        322
-      ],
-      "build": [
-        6
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        322,
-        6,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.322.06.1/amazon-corretto-8.322.06.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 122243868,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "02dc17b0d6723e6fa928b4afd71c9e95",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        312
-      ],
-      "build": [
-        7
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        312,
-        7,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.312.07.1/amazon-corretto-8.312.07.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 122210042,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "b882b994fb818b0f6a3fff64e1e0dd4b",
     "distribution": "corretto",
     "version": {
@@ -5716,44 +4927,6 @@
     "checksum": null,
     "checksum_type": null,
     "size": 49783002,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "67a9fc85a564fa3de84621bf7be820aa",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        302
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        302,
-        8,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.302.08.1/amazon-corretto-8.302.08.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 122196256,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": true,
     "term_of_support": "lts",
@@ -5799,44 +4972,6 @@
     "latest_build_available": false
   },
   {
-    "id": "34d597056583726da7ccd6d8b1473a3b",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        292
-      ],
-      "build": [
-        10
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        292,
-        10,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.292.10.1/amazon-corretto-8.292.10.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 122176049,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "83fbf7e3f636e92726bdb656d5947a8f",
     "distribution": "corretto",
     "version": {
@@ -5875,44 +5010,6 @@
     "latest_build_available": false
   },
   {
-    "id": "5a32d8ea184f1de816c27ade9516ef76",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        282
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        282,
-        8,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.282.08.1/amazon-corretto-8.282.08.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 122002189,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "e20c6256c96334b34faa5b9eadfab566",
     "distribution": "corretto",
     "version": {
@@ -5944,44 +5041,6 @@
     "checksum": null,
     "checksum_type": null,
     "size": 49687331,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "1ea07b4af9ce9a871e9a41c4420bddf9",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        275
-      ],
-      "build": [
-        1
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        275,
-        1,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.275.01.1/amazon-corretto-8.275.01.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121408965,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": true,
     "term_of_support": "lts",
@@ -6065,82 +5124,6 @@
     "latest_build_available": false
   },
   {
-    "id": "f32a3b87e64057bc5b9475c10f2199b4",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        272
-      ],
-      "build": [
-        10
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        272,
-        10,
-        3
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.272.10.3/amazon-corretto-8.272.10.3-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121406363,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "2b7f59ecc0dd6b7661c415e01fac21a9",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        272
-      ],
-      "build": [
-        10
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        272,
-        10,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.272.10.1/amazon-corretto-8.272.10.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121408469,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "95285971fbc159a1963a8d26b338a40e",
     "distribution": "corretto",
     "version": {
@@ -6217,82 +5200,6 @@
     "latest_build_available": false
   },
   {
-    "id": "dcbf5216cc8c8c4920d785d7d6ffd006",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        265
-      ],
-      "build": [
-        1
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        265,
-        1,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.265.01.1/amazon-corretto-8.265.01.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121033240,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "5c311c4c8c8446f417cc537a0f696c3b",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        262
-      ],
-      "build": [
-        10
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        262,
-        10,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.262.10.1/amazon-corretto-8.262.10.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 121030801,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "af407dc19ffbf9b87ef3c32946262065",
     "distribution": "corretto",
     "version": {
@@ -6331,44 +5238,6 @@
     "latest_build_available": false
   },
   {
-    "id": "04a096e57d138e05839a073556c23c45",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        252
-      ],
-      "build": [
-        9
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        252,
-        9,
-        2
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.252.09.2/amazon-corretto-8.252.09.2-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 120169182,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
     "id": "6b0d20b3043d8e2f0396b5e048be7578",
     "distribution": "corretto",
     "version": {
@@ -6400,44 +5269,6 @@
     "checksum": null,
     "checksum_type": null,
     "size": 48404832,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "5315f797bce6c04e4eef367316e7d44f",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        252
-      ],
-      "build": [
-        9
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        252,
-        9,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.252.09.1/amazon-corretto-8.252.09.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 120113773,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": true,
     "term_of_support": "lts",
@@ -6514,82 +5345,6 @@
     "checksum": null,
     "checksum_type": null,
     "size": 48280414,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "f0e6d03a6a88cc17a0dd91882b8024dc",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        242
-      ],
-      "build": [
-        8
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        242,
-        8,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.242.08.1/amazon-corretto-8.242.08.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 119905151,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": true,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "bb2584c66cf31f7bd0f2863b0f618788",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        8,
-        0,
-        242
-      ],
-      "build": [
-        7
-      ],
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        8,
-        242,
-        7,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/8.242.07.1/amazon-corretto-8.242.07.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 119902285,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": true,
     "term_of_support": "lts",
@@ -6787,6 +5542,41 @@
     "latest_build_available": false
   },
   {
+    "id": "c0e97bf298f9c170b32c898c4bd215c1",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        502
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        502
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.502.07.1/amazon-corretto-8.502.07.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 105895018,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "78dc60d410647c7ff625ad68c779d6ca",
     "distribution": "corretto",
     "version": {
@@ -6885,6 +5675,1091 @@
     "checksum": null,
     "checksum_type": null,
     "size": 121892760,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "c087a4729c524ea5b7b30b82430a0708",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        472
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        472
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.472.08.1/amazon-corretto-8.472.08.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121917230,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "9bdb916d6091a2eb06be44f50388a017",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        462
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        462
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.462.08.1/amazon-corretto-8.462.08.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121893881,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "89c127526756c1757b27276119c777ee",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        452
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        452
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.452.09.1/amazon-corretto-8.452.09.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121893796,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "3c066f747edff3d0a6b4d2b5f8e7d3c8",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        442
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        442
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.442.06.1/amazon-corretto-8.442.06.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121883765,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "6f9e68da9968a796cc84463d9ed4e426",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        432
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        432
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.432.06.1/amazon-corretto-8.432.06.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121893160,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "f25c46c7bb45b06326eb98b38f220c69",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        422
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        422
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.422.05.1/amazon-corretto-8.422.05.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121870208,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "f0fc6349d24497046632c2c76ee96845",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        412
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        412
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.412.08.1/amazon-corretto-8.412.08.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121863124,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "1384178064d49d30d6a13db3d012c342",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        402
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        402
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.402.06.1/amazon-corretto-8.402.06.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121708426,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "1bc0f1a511684147bc82142a01b03bfc",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        402
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        402
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.402.08.1/amazon-corretto-8.402.08.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121708968,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "441927bfa447beec00269a5f70cb6283",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        392
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        392
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.392.08.1/amazon-corretto-8.392.08.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121696465,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "33ae68fd231bf8456c61b03fe8e34f6c",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        382
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        382
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.382.05.1/amazon-corretto-8.382.05.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121004052,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "6bad9f5f131515a99d072aaa4e5b4357",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        372
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        372
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.372.07.1/amazon-corretto-8.372.07.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 122257371,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "95d813cd16ce48e9c4af2595e066d9fe",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        362
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        362
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.362.08.1/amazon-corretto-8.362.08.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 122296754,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "70ae609a517849a3ae83d2381f56b4f4",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        352
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        352
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.352.08.1/amazon-corretto-8.352.08.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 122314489,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "00191d6ebb8cc5ecbe22faeaa5d06f16",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        342
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        342
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.342.07.3/amazon-corretto-8.342.07.3-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 122292681,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "78df28a29d88122f66cb1a2bad2ae9d0",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        342
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        342
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.342.07.1/amazon-corretto-8.342.07.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 122291459,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "465d4697639306d726e2dd91d8508117",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        332
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        332
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.332.08.1/amazon-corretto-8.332.08.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 122435189,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "e90ee3b30c6653548b8dcbfc9eb19836",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        322
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        322
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.322.06.1/amazon-corretto-8.322.06.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 122243868,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "02dc17b0d6723e6fa928b4afd71c9e95",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        312
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        312
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.312.07.1/amazon-corretto-8.312.07.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 122210042,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "67a9fc85a564fa3de84621bf7be820aa",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        302
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        302
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.302.08.1/amazon-corretto-8.302.08.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 122196256,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "34d597056583726da7ccd6d8b1473a3b",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        292
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        292
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.292.10.1/amazon-corretto-8.292.10.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 122176049,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "5a32d8ea184f1de816c27ade9516ef76",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        282
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        282
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.282.08.1/amazon-corretto-8.282.08.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 122002189,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "1ea07b4af9ce9a871e9a41c4420bddf9",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        275
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        275
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.275.01.1/amazon-corretto-8.275.01.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121408965,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "2b7f59ecc0dd6b7661c415e01fac21a9",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        272
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        272
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.272.10.1/amazon-corretto-8.272.10.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121408469,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "f32a3b87e64057bc5b9475c10f2199b4",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        272
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        272
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.272.10.3/amazon-corretto-8.272.10.3-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121406363,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "dcbf5216cc8c8c4920d785d7d6ffd006",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        265
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        265
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.265.01.1/amazon-corretto-8.265.01.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121033240,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "5c311c4c8c8446f417cc537a0f696c3b",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        262
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        262
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.262.10.1/amazon-corretto-8.262.10.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 121030801,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "04a096e57d138e05839a073556c23c45",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        252
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        252
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.252.09.2/amazon-corretto-8.252.09.2-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 120169182,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "5315f797bce6c04e4eef367316e7d44f",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        252
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        252
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.252.09.1/amazon-corretto-8.252.09.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 120113773,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "bb2584c66cf31f7bd0f2863b0f618788",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        242
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        242
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.242.07.1/amazon-corretto-8.242.07.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 119902285,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "f0e6d03a6a88cc17a0dd91882b8024dc",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        242
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        242
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.242.08.1/amazon-corretto-8.242.08.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 119905151,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "lts",
