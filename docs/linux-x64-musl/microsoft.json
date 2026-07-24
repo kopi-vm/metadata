@@ -1,5 +1,40 @@
 [
   {
+    "id": "ea3e0d52ba2c5bd6f43dbc859d3400fe",
+    "distribution": "microsoft",
+    "version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.20-alpine-x64.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 193071385,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "bf08d310f8bbb53288e427697055c60e",
     "distribution": "microsoft",
     "version": {
@@ -702,6 +737,41 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "7edd1d79f0c9053fce0d4a023973fbc3",
+    "distribution": "microsoft",
+    "version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://aka.ms/download-jdk/microsoft-jdk-11.0.32-alpine-x64.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 197988454,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "d0799ee9daddfbed2eea5634cb54b8f6",
