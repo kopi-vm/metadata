@@ -1,5 +1,40 @@
 [
   {
+    "id": "c61212a35fe1905a610a6730a2a5fd7c",
+    "distribution": "graalvm_community",
+    "version": {
+      "components": [
+        25,
+        1,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/graalvm/graalvm-ce-builds/releases/download/graal-25.1.3/graalvm-community-jdk-25i1-25.0.3_windows-x64_bin.zip",
+    "checksum": "96f1e7a9674b5b5751224104ff0c4624f15f9522b190d960a041cab72c381393",
+    "checksum_type": "sha256",
+    "size": 346598596,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "fc7f825b0bd044a98b3eb5afb8e5fc55",
     "distribution": "graalvm_community",
     "version": {
