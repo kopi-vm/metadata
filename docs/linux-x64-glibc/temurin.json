@@ -4994,6 +4994,43 @@
     "latest_build_available": false
   },
   {
+    "id": "5985eda1611e692fb5f8c0c47320c977",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jdk_riscv64_linux_hotspot_17.0.20_8.tar.gz",
+    "checksum": "bc36e8044c88df9f4ec2967c5277d1c8fae572378c12c0bac44dcae15d3af2f7",
+    "checksum_type": "sha256",
+    "size": 189941424,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "9a64da518149c42dfb8c5e5deb1a2d4e",
     "distribution": "temurin",
     "version": {
@@ -5024,6 +5061,43 @@
     "checksum": "be7668bc030d578b83d6d5ef9221d6d6729bbbca8cf94a7d52e16ac68b5a5a35",
     "checksum_type": "sha256",
     "size": 193273593,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "cbcc909027ab245c34effcc4348330d7",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.20_8.tar.gz",
+    "checksum": "9c018e609c1f851018f053bb634e14473e8c0b6532aae400a105aa4d52c84d42",
+    "checksum_type": "sha256",
+    "size": 45228329,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
