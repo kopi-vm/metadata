@@ -864,6 +864,80 @@
     "latest_build_available": true
   },
   {
+    "id": "d2cdf7c7bcb845b481b4cb08924339bb",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64",
+    "operating_system": "aix",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.12_8.tar.gz",
+    "checksum": "fcdc197ac2120ee71313a7614ee9556e9b2168a2978b0dda72f7778129b9d1fb",
+    "checksum_type": "sha256",
+    "size": 201707430,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "e430f0e0e2e2e11d58f9efbf2e017774",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64",
+    "operating_system": "aix",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.12_8.tar.gz",
+    "checksum": "b1599b23e8dc061e2c7c27e72e1f516bea92a8853079a99baf310d2c30d6677a",
+    "checksum_type": "sha256",
+    "size": 48392834,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "323100ee8e4e369cacbbab401e38533a",
     "distribution": "temurin",
     "version": {
@@ -2489,6 +2563,80 @@
     "checksum": "0fb66f37a6e20cdca6fde961ebe910db8957a13e0dee36d98ba0681be7d65034",
     "checksum_type": "sha256",
     "size": 184006773,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "091ef8721c416022cdaf043e9c6a0a19",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64",
+    "operating_system": "aix",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jre_ppc64_aix_hotspot_11.0.32_9.tar.gz",
+    "checksum": "54ad0fe4fde8ecdbbe647c859a6e1e02ef791fcf0ac56b07e6978b51f984a19a",
+    "checksum_type": "sha256",
+    "size": 42088426,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "fb417bda3653fb53397abecfdbb79192",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64",
+    "operating_system": "aix",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jdk_ppc64_aix_hotspot_11.0.32_9.tar.gz",
+    "checksum": "b3c2fbf7a5d3fa3504fcf27d066ae2914ee3cf62d3772af515e7c47c70a9d04b",
+    "checksum_type": "sha256",
+    "size": 180824842,
     "lib_c_type": "libc",
     "javafx_bundled": false,
     "term_of_support": "lts",
