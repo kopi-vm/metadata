@@ -1,5 +1,79 @@
 [
   {
+    "id": "1d7d46d79fa4e20309652eb4b2dc1b0d",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        26,
+        0,
+        2
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_aarch64_mac_hotspot_26.0.2_10.tar.gz",
+    "checksum": "d184142482ae0409f0b5c9018b238b27255b2376c5e6473b750af876f3d97a6c",
+    "checksum_type": "sha256",
+    "size": 57802432,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "c690721bf2903461b9dee49e5010dee0",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        26,
+        0,
+        2
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jdk_aarch64_mac_hotspot_26.0.2_10.tar.gz",
+    "checksum": "4c9255ed5a9fa84ad6e25675bac6ba6a4906fc7878169d7369a1424157b50256",
+    "checksum_type": "sha256",
+    "size": 139613305,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "452dfc1cc9013972dc33eb709577c24f",
     "distribution": "temurin",
     "version": {
@@ -138,6 +212,80 @@
     "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "1df82b76031285ef2e6a4f59ffe9299d",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jdk_aarch64_mac_hotspot_25.0.4_7.tar.gz",
+    "checksum": "5a101c54abf5a9f16c0f70d8c38ba99e6567c1ba213378f0bb04497284f051bd",
+    "checksum_type": "sha256",
+    "size": 136352956,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "2ea0568202e7ecd4e244e9460e16204d",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": [
+        7
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.4_7.tar.gz",
+    "checksum": "bc5c721d4475b328e50cc0fbbe3319773db374716836e7caa8fb4398c1f90eba",
+    "checksum_type": "sha256",
+    "size": 56207717,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "c2dd35c9d0aaf0ba6ad0791320f99dfc",
@@ -1068,6 +1216,80 @@
     "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "1963e5739fd691761c528d9c9417be8d",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.12_8.tar.gz",
+    "checksum": "021d629349ebc12a409faa517b837ec80ceee8f58a5ac85c788ecad07ca6881c",
+    "checksum_type": "sha256",
+    "size": 200069721,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "439d289818d0b43fbc1818d78110ab0c",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.12_8.tar.gz",
+    "checksum": "36bb71d6fa5184e12a6483e7662783c2cbd383f5dca8034140f0a84dd5aa797d",
+    "checksum_type": "sha256",
+    "size": 48155581,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "b58baa95dec4fed3324702c7158651c4",
@@ -2635,6 +2857,80 @@
     "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "3363cbd4f2e87c4cb8e0c1e100c9e1c9",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.20_8.tar.gz",
+    "checksum": "3d1adc835e2e21fb7f3297c42a39bf07b8de58a83f8f05e01cf6c2890694c663",
+    "checksum_type": "sha256",
+    "size": 42722304,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "5f8cfce0da394ce0d5880242f29fc81c",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.20_8.tar.gz",
+    "checksum": "524850138c742324fb21fca4ff6ef68ea25f25bf59366a864e45b4a0c45ed0df",
+    "checksum_type": "sha256",
+    "size": 185860079,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "0778eefedb7663c38d34e646189c4db5",
@@ -4230,6 +4526,80 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "37162840cf6a5f6cc9e67fe778180250",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jre_aarch64_mac_hotspot_11.0.32_9.tar.gz",
+    "checksum": "c7e19979dcb4e2cc28eb42e73500cd69f55def199b825eaaf3b82c0844896221",
+    "checksum_type": "sha256",
+    "size": 37872112,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "f03abdc96a720f2eba10bebba94039de",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jdk_aarch64_mac_hotspot_11.0.32_9.tar.gz",
+    "checksum": "3e3687488e472035b7a27732f0f6127d59903ba9fd0cb6c815f1a182f4160109",
+    "checksum_type": "sha256",
+    "size": 184657053,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "14bb9740782d1fd422ce3754cd0e9d94",

@@ -1,5 +1,40 @@
 [
   {
+    "id": "fa67afd04ac8133ff61e2f5b7b8188b3",
+    "distribution": "graalvm_community",
+    "version": {
+      "components": [
+        25,
+        2,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/graalvm/graalvm-ce-builds/releases/download/graal-25.2.4/graalvm-community-jdk-25i2-25.0.4_macos-aarch64_bin.tar.gz",
+    "checksum": "507330fff8907de51b8621c95a21a491fa9b0d8c240de184594f40f83add3bfa",
+    "checksum_type": "sha256",
+    "size": 331502567,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "22356d8f85fe13a9f5b6ec0f24f79c91",
     "distribution": "graalvm_community",
     "version": {
