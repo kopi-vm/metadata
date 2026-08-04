@@ -1,5 +1,75 @@
 [
   {
+    "id": "d4c2745c42f62b1b9368af1df1c8b152",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        26,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_mac_26.0.2.0.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 56412087,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "da3a0373992741cd0b2cd4108d539b0a",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        26,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jdk_x64_mac_26.0.2.0.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 244734343,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "37126b782124d4cdbc9baa8f80042d0e",
     "distribution": "semeru",
     "version": {
@@ -130,6 +200,76 @@
     "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "ea4c005803c8ed4e41df946b4a1c2c5b",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-open-jre_x64_mac_25.0.4.0.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 55316297,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "f7cffe7b49a1f6774af09319615ba3f3",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-open-jdk_x64_mac_25.0.4.0.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 240245232,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "9b0ed9d8e3675381ca6823e686f972bb",
@@ -1028,6 +1168,76 @@
     "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "8077fcaa1e2133438a2119c1cacc65c4",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.12.0/ibm-semeru-open-jdk_x64_mac_21.0.12.0.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 232702203,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "b65e19e2f6d26f548267d42e963e7a79",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        12
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.12.0/ibm-semeru-open-jre_x64_mac_21.0.12.0.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 55789127,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "3aa9108b3731e34a7e1dc69aecc1e2cf",
@@ -2436,6 +2646,76 @@
     "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "535934dddb0e71003302c5984e31c13d",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jdk_x64_mac_17.0.20.0.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 219964337,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "c2f0091bd71a6ebaf8a62e2a2e9d1b2f",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        20
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_mac_17.0.20.0.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 51585004,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "3e853662320d25ed0024de8e64e1ce5a",
@@ -4126,6 +4406,76 @@
     "lib_c_type": "libc",
     "javafx_bundled": false,
     "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "1a94afad72d02edbea7e97a5a03266ba",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_mac_11.0.32.0.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 50979935,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "347eb0b96ebd6101df73455a74c4ddd5",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        32
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jdk_x64_mac_11.0.32.0.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 213252378,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": true
   },
@@ -7665,6 +8015,76 @@
     "checksum": null,
     "checksum_type": "sha256",
     "size": 59580976,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "3bbd8473c5594f51fef75a48530e99c0",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        8,
+        0,
+        50
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        50
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk-8.0.502.0/ibm-semeru-open-jre_x64_mac_8.0.502.0.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 60434159,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "d7cc2ee304e28d10e3f3c58b975d6a40",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        8,
+        0,
+        50
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        50
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk-8.0.502.0/ibm-semeru-open-jdk_x64_mac_8.0.502.0.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 129980760,
     "lib_c_type": "libc",
     "javafx_bundled": false,
     "term_of_support": "lts",
