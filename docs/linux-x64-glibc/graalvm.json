@@ -1,5 +1,75 @@
 [
   {
+    "id": "508372dbed0484c1fdc62ee9feb4a853",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://gds.oracle.com/api/20220101/artifacts/15591F44E1FE42678A28E3E0627D4CEC/content",
+    "checksum": "76007c309f821aaf435bce63162ea0395587fc77350801c81643fe7feea37276",
+    "checksum_type": "sha256",
+    "size": 380509826,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "dd4baa40223855048e7d310a25d95328",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        25,
+        2,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://gds.oracle.com/api/20220101/artifacts/4907B8AC26CE4E5FA76A994F5A61BF38/content",
+    "checksum": "7100d99cbfec68b03b669cc60c7e8592bbcda1732e8eaebc460fe0b75849a894",
+    "checksum_type": "sha256",
+    "size": 383763978,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "f62372f71b154c7926742d25c15a11ac",
     "distribution": "graalvm",
     "version": {
@@ -33,6 +103,76 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": true
+  },
+  {
+    "id": "12771f0828ef5b804c7c7b8f8d8a5f1b",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        25,
+        1,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://gds.oracle.com/api/20220101/artifacts/FE09EC0A4D9244CA834F1777BCA30041/content",
+    "checksum": "efcb8984be5f72ecf8615641bec720c825a6889957f0b98d95123f563ff77c86",
+    "checksum_type": "sha256",
+    "size": 385870071,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "2a025fb770c814dd8be9ec45957b2707",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://gds.oracle.com/api/20220101/artifacts/BAE9DA022EAC4DCC8AE3C58ACDAB032E/content",
+    "checksum": "1b5296613c3d12521d594e1c99302df88d8e1f07d74ab7983dbf572000b92c7c",
+    "checksum_type": "sha256",
+    "size": 380030696,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
   },
   {
     "id": "c03da7b3f1eb3d61b1a28fdfffcf20f4",
@@ -96,6 +236,41 @@
     "archive_type": "targz",
     "download_url": "https://download.oracle.com/graalvm/25/archive/graalvm-jdk-25.0.2_linux-x64_bin.tar.gz",
     "checksum": null,
+    "checksum_type": "sha256",
+    "size": 378707027,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "9c247b262ef49bc17c9fa75feef32097",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://gds.oracle.com/api/20220101/artifacts/47C98F0E03CEF3DDE0631718000AC03B/content",
+    "checksum": "af545b1bc12ecd24a5ba95e2370da2163e87c4cf13991a482d5b176bf4165c12",
     "checksum_type": "sha256",
     "size": 378707027,
     "lib_c_type": "glibc",
