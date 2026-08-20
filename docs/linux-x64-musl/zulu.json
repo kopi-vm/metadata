@@ -1,5 +1,81 @@
 [
   {
+    "id": "4402934f792405b2e5b79cb0e91dab05",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        26,
+        0,
+        2,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26,
+        32,
+        203
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu26.32.203-ca-jre26.0.2.1-linux_musl_x64.tar.gz",
+    "checksum": "d7c72710ffc6364a8c907fddfaaecdf32ea8e1f3e85b3ce8afef09f0cf5018f6",
+    "checksum_type": "sha256",
+    "size": 63512940,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "c94c7310d1d7beee506d22a9652961b7",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        26,
+        0,
+        2,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26,
+        32,
+        203
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu26.32.203-ca-jdk26.0.2.1-linux_musl_x64.tar.gz",
+    "checksum": "aadcca0249b6e07b06747d475ce5a0d3ab1aaaadd5acb4ae3eed0c9f942dac2e",
+    "checksum_type": "sha256",
+    "size": 238566516,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "bad00c28757492ce12ec538cf6a49f85",
     "distribution": "zulu",
     "version": {
@@ -216,6 +292,82 @@
     "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "c7c1bf982472b645860c418a283f5ffa",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        25,
+        0,
+        4,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        36,
+        205
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu25.36.205-ca-jdk25.0.4.1-linux_musl_x64.tar.gz",
+    "checksum": "ef121cee9003160bb830a6432b5194eaeb15a43eb7e5a2c2402e343ffe7f464f",
+    "checksum_type": "sha256",
+    "size": 233363420,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "d28490d146e95abd4a9954ed459cf704",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        25,
+        0,
+        4,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        36,
+        205
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu25.36.205-ca-jre25.0.4.1-linux_musl_x64.tar.gz",
+    "checksum": "2951a33d65cec1b5941f9ef617a24eda04f3bf8a1bd574bd4c06b54807c50a0e",
+    "checksum_type": "sha256",
+    "size": 61852957,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "4dd0c36311cb24e056e4551cdcf137f5",
@@ -1376,6 +1528,82 @@
     "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "6491347a3fb9e0730bb22f71ac8cddfe",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        21,
+        0,
+        12,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        52,
+        203
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu21.52.203-ca-jre21.0.12.1-linux_musl_x64.tar.gz",
+    "checksum": "0d511876e089a55fe81d82e40de36bda55fe0f37d3f20d40c3d137ac2279470d",
+    "checksum_type": "sha256",
+    "size": 52970003,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "9a886a703c5ce5010fe411395d58d663",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        21,
+        0,
+        12,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        52,
+        203
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu21.52.203-ca-jdk21.0.12.1-linux_musl_x64.tar.gz",
+    "checksum": "f2b26df82d22910cdd7e5171517edbc10e5fc22657bfe85dd0aa75cbdaec01fd",
+    "checksum_type": "sha256",
+    "size": 213923015,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "b5e2e516601f82144b35a6823c3deaec",
@@ -3208,6 +3436,82 @@
     "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "557bc553851f5e3f4d80fa7f9236b538",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        17,
+        0,
+        20,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        68,
+        203
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu17.68.203-ca-jre17.0.20.1-linux_musl_x64.tar.gz",
+    "checksum": "7b58638ad88d1b33523071676f030f0ca025452777cdc07f4eb25e7e04ff053d",
+    "checksum_type": "sha256",
+    "size": 47113669,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "d43a366c7374df7a0be6b55f214c6f45",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        17,
+        0,
+        20,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        68,
+        203
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu17.68.203-ca-jdk17.0.20.1-linux_musl_x64.tar.gz",
+    "checksum": "7512b062d1ca3e43eec9fa8c83bbd525c93fa6ab618ee7f391931847a7619705",
+    "checksum_type": "sha256",
+    "size": 199280304,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "453a6110174a6af42d0270b0d3e75e99",
@@ -7696,6 +8000,82 @@
     "latest_build_available": false
   },
   {
+    "id": "2592c77525da7f54d2fd5fe753110d32",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        11,
+        0,
+        32,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        90,
+        205
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu11.90.205-ca-jre11.0.32.1-linux_musl_x64.tar.gz",
+    "checksum": "2c3f0fbbf43f15379585a364b483798a226dbe20dc03815d04810dcd658aef8c",
+    "checksum_type": "sha256",
+    "size": 43485992,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "fd0ff18eb772c04c4069c17f41eba44b",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        11,
+        0,
+        32,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        90,
+        205
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu11.90.205-ca-jdk11.0.32.1-linux_musl_x64.tar.gz",
+    "checksum": "54e010980f549ed33db8732ac09f188c52d3b67f51e941345c3a48a855682b9d",
+    "checksum_type": "sha256",
+    "size": 200699214,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "5df01063bc5118ada6aa2f241e4bacd8",
     "distribution": "zulu",
     "version": {
@@ -10543,6 +10923,82 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "da4bb59d268c63003df6d2501d1e8081",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        504
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        96,
+        0,
+        205
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-jre8.0.504-linux_musl_x64.tar.gz",
+    "checksum": "c3af1e8e49327ea23eb3b5ded66bbdeb28c4af766ef6fa6bb001ff5a9eede414",
+    "checksum_type": "sha256",
+    "size": 42180954,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "e3de61d59e698b43415be54be42d9aef",
+    "distribution": "zulu",
+    "version": {
+      "components": [
+        8,
+        0,
+        504
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        96,
+        0,
+        205
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu8.96.0.205-ca-jdk8.0.504-linux_musl_x64.tar.gz",
+    "checksum": "1f376ac138a1b9598e283f3d7929640aa3235a8ec6e46d00fa81a141057aaf3b",
+    "checksum_type": "sha256",
+    "size": 107103674,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "5ab3e524cb06010f719698bc246607f2",
