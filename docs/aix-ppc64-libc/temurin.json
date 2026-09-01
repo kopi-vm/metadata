@@ -1,5 +1,83 @@
 [
   {
+    "id": "76ee261dd8dac91b5bd3d0ec5ef88667",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        26,
+        0,
+        2,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26,
+        0,
+        2,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64",
+    "operating_system": "aix",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2.1%2B1/OpenJDK26U-jdk_ppc64_aix_hotspot_26.0.2.1_1.tar.gz",
+    "checksum": "f559e6ce5f8ba0c9dedbfabe50e47854300ddc99cd07cb8f43701cee382365aa",
+    "checksum_type": "sha256",
+    "size": 117837818,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "a8f0c92d408634231d53033d2472715f",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        26,
+        0,
+        2,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26,
+        0,
+        2,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64",
+    "operating_system": "aix",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2.1%2B1/OpenJDK26U-jre_ppc64_aix_hotspot_26.0.2.1_1.tar.gz",
+    "checksum": "001b7430a5132aa387eabad01764cf0bcfc5914d00a3d78b92a5299fd0329365",
+    "checksum_type": "sha256",
+    "size": 42230381,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "158685f95771adce8fa14c4e0364316a",
     "distribution": "temurin",
     "version": {
@@ -3024,6 +3102,84 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "9115617fd1c8d2a17ad014e5d69a9010",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        11,
+        0,
+        32,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        32,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64",
+    "operating_system": "aix",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_ppc64_aix_hotspot_11.0.32.1_1.tar.gz",
+    "checksum": "e2ce5a79399fc3b79fbdedae9d8138b8aabcf7dea19f43a26457cd421e14fbed",
+    "checksum_type": "sha256",
+    "size": 42088550,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "dcae248cc0cadc2c6bbb2df1e777f952",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        11,
+        0,
+        32,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        32,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64",
+    "operating_system": "aix",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jdk_ppc64_aix_hotspot_11.0.32.1_1.tar.gz",
+    "checksum": "59c1036df4bebdf4b1c4d81b0b4799695f4957cab2a5443d94a14549a296e166",
+    "checksum_type": "sha256",
+    "size": 180829763,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "091ef8721c416022cdaf043e9c6a0a19",
