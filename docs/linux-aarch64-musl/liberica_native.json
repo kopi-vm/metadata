@@ -683,6 +683,45 @@
     "latest_build_available": false
   },
   {
+    "id": "5c922ec2cdd5fb7fe79e6bcc90dba9ab",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        23,
+        1,
+        12,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        23,
+        1,
+        12,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.1.12.1+1-21.0.12.1+2/bellsoft-liberica-vm-openjdk21.0.12.1+2-23.1.12.1+1-linux-aarch64-musl.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 307347400,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "6c70bffedd0991aa7fb2c9a8fd2d3fa7",
     "distribution": "liberica_native",
     "version": {
@@ -1320,6 +1359,45 @@
     "checksum": null,
     "checksum_type": null,
     "size": 309278137,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "51958159e6461500e857f7fbac143f09",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        23,
+        0,
+        13,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        23,
+        0,
+        13,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.13.1+1-17.0.20.1+2/bellsoft-liberica-vm-openjdk17.0.20.1+2-23.0.13.1+1-linux-aarch64-musl.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 292775730,
     "lib_c_type": "musl",
     "javafx_bundled": false,
     "term_of_support": "lts",

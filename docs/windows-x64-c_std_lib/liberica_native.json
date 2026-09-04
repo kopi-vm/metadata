@@ -1405,6 +1405,45 @@
     "latest_build_available": true
   },
   {
+    "id": "a57810360ccffe4e87439abf2c60e5f6",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        23,
+        1,
+        12,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        23,
+        1,
+        12,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.1.12.1+1-21.0.12.1+2/bellsoft-liberica-vm-openjdk21.0.12.1+2-23.1.12.1+1-windows-amd64.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 319609292,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "a3e3710c6ed95c799a6fc3b69ac4dd5f",
     "distribution": "liberica_native",
     "version": {
@@ -2653,6 +2692,45 @@
     "size": 298783106,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": true,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "76a500ba0462f27121e871e098ed7294",
+    "distribution": "liberica_native",
+    "version": {
+      "components": [
+        23,
+        0,
+        13,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        23,
+        0,
+        13,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.13.1+1-17.0.20.1+2/bellsoft-liberica-vm-openjdk17.0.20.1+2-23.0.13.1+1-windows-amd64.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 302650588,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
