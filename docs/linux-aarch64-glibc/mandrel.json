@@ -30,7 +30,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "e1b7776bebdaa8c0ac377eebdfb84544",
@@ -161,6 +161,40 @@
     "checksum": null,
     "checksum_type": null,
     "size": 201329528,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "f4360eca360d5417328ef6e87a8d97fa",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        25,
+        0,
+        4,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-25.0.4.1-Final/mandrel-java25-linux-aarch64-25.0.4.1-Final.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 219650656,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -495,7 +529,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "50e0b388b36e1b31396603e4fe406606",
@@ -2210,6 +2244,40 @@
     "checksum": null,
     "checksum_type": null,
     "size": 226760299,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "c7bd3f4044bda21c170cd78acf486a52",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        23,
+        1,
+        12,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-23.1.12.1-Final/mandrel-java21-linux-aarch64-23.1.12.1-Final.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 259175771,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
