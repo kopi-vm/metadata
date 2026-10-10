@@ -297,16 +297,21 @@
       "components": [
         25,
         0,
-        4
+        4,
+        1
       ],
-      "build": null,
+      "build": [
+        1
+      ],
       "pre_release": null
     },
     "distribution_version": {
       "components": [
         25,
         0,
-        4
+        4,
+        10,
+        1
       ],
       "build": null,
       "pre_release": null
@@ -1063,6 +1068,46 @@
     "latest_build_available": false
   },
   {
+    "id": "e26c2bc7f580a3d90c65da457df0af4d",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        21,
+        0,
+        12,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        12,
+        12,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/21.0.12.12.1/amazon-corretto-21.0.12.12.1-windows-x64-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 202335724,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "152769d7dda4a9d0990d220d406b38a6",
     "distribution": "corretto",
     "version": {
@@ -1126,41 +1171,6 @@
     "checksum": null,
     "checksum_type": null,
     "size": 202321524,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
-    "id": "e26c2bc7f580a3d90c65da457df0af4d",
-    "distribution": "corretto",
-    "version": {
-      "components": [
-        21,
-        0,
-        12
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        21,
-        0,
-        12
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://corretto.aws/downloads/resources/21.0.12.12.1/amazon-corretto-21.0.12.12.1-windows-x64-jdk.zip",
-    "checksum": null,
-    "checksum_type": null,
-    "size": 202335724,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "lts",
