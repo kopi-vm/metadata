@@ -1,11 +1,11 @@
 [
   {
-    "id": "16d8182feac39874361597bf54e62900",
+    "id": "dbd14e8a7ebbccb031b1319ad9884473",
     "distribution": "graalvm",
     "version": {
       "components": [
         25,
-        3,
+        0,
         4,
         1
       ],
@@ -15,7 +15,45 @@
     "distribution_version": {
       "components": [
         25,
+        4,
+        4,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://gds.oracle.com/api/20220101/artifacts/918C670DC4F94B3C89A222AD0FEF4057/content",
+    "checksum": "cf71435f04d67267563c40572c29bbef017242dbb996a02bbe95a2e5ad5d761d",
+    "checksum_type": "sha256",
+    "size": 388808349,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "16d8182feac39874361597bf54e62900",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        25,
         0,
+        4,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        3,
         4,
         1
       ],
@@ -32,7 +70,77 @@
     "size": 367278016,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
-    "term_of_support": "lts",
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "634d713a2c0398254cf6756755d1c326",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        25,
+        0,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        2,
+        4
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://gds.oracle.com/api/20220101/artifacts/00A4947FC0E64A4AB29749E86447131C/content",
+    "checksum": "2b41fffc94c4c7795bce0fdde8847ab1c894903cb20779aedb6ca8628aa9983a",
+    "checksum_type": "sha256",
+    "size": 366072973,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "a475b98843121d33cffee43df426969b",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        25,
+        0,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        1,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://gds.oracle.com/api/20220101/artifacts/ADD4B955A09A41FCA20E82691ABF1D4F/content",
+    "checksum": "ed574ce79e213f31fec3289528ae009065b2036ed78fd4a79f7ec69e67f9b446",
+    "checksum_type": "sha256",
+    "size": 368962392,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
   },
@@ -54,6 +162,7 @@
         25,
         0,
         4,
+        1,
         1
       ],
       "build": null,
@@ -71,7 +180,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "be947790b94a3719a800a1fc830642a4",
@@ -111,43 +220,6 @@
     "latest_build_available": false
   },
   {
-    "id": "dbd14e8a7ebbccb031b1319ad9884473",
-    "distribution": "graalvm",
-    "version": {
-      "components": [
-        25,
-        4,
-        4,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        25,
-        0,
-        4,
-        1
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://gds.oracle.com/api/20220101/artifacts/918C670DC4F94B3C89A222AD0FEF4057/content",
-    "checksum": "cf71435f04d67267563c40572c29bbef017242dbb996a02bbe95a2e5ad5d761d",
-    "checksum_type": "sha256",
-    "size": 388808349,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": true
-  },
-  {
     "id": "16a9239a522fd0bf27de07b59c62a6de",
     "distribution": "graalvm",
     "version": {
@@ -176,41 +248,6 @@
     "checksum": "5198b29a6448cb72b9a3cef10866723e2d1e2ec4799561a344e032bb7c61e555",
     "checksum_type": "sha256",
     "size": 362420067,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "634d713a2c0398254cf6756755d1c326",
-    "distribution": "graalvm",
-    "version": {
-      "components": [
-        25,
-        2,
-        4
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        25,
-        0,
-        4
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://gds.oracle.com/api/20220101/artifacts/00A4947FC0E64A4AB29749E86447131C/content",
-    "checksum": "2b41fffc94c4c7795bce0fdde8847ab1c894903cb20779aedb6ca8628aa9983a",
-    "checksum_type": "sha256",
-    "size": 366072973,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -281,41 +318,6 @@
     "checksum": "8678e147a7e3c32eca47f1466d199b5c7346c9aad2ee55b51ebdf504d6ea7c72",
     "checksum_type": "sha256",
     "size": 362006770,
-    "lib_c_type": "c_std_lib",
-    "javafx_bundled": false,
-    "term_of_support": "lts",
-    "release_status": "ga",
-    "latest_build_available": false
-  },
-  {
-    "id": "a475b98843121d33cffee43df426969b",
-    "distribution": "graalvm",
-    "version": {
-      "components": [
-        25,
-        1,
-        3
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "distribution_version": {
-      "components": [
-        25,
-        0,
-        3
-      ],
-      "build": null,
-      "pre_release": null
-    },
-    "architecture": "x64",
-    "operating_system": "windows",
-    "package_type": "jdk",
-    "archive_type": "zip",
-    "download_url": "https://gds.oracle.com/api/20220101/artifacts/ADD4B955A09A41FCA20E82691ABF1D4F/content",
-    "checksum": "ed574ce79e213f31fec3289528ae009065b2036ed78fd4a79f7ec69e67f9b446",
-    "checksum_type": "sha256",
-    "size": 368962392,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "lts",
@@ -428,6 +430,41 @@
     "latest_build_available": false
   },
   {
+    "id": "1f650ebfe99789ce5c8ad2553664c6f7",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://gds.oracle.com/api/20220101/artifacts/417655BC6D24209FE0631518000AA186/content",
+    "checksum": "5398592ecdf8f47f4b481896e1e63cbfff4cb8e0ba61538526e3b3795b1a85e5",
+    "checksum_type": "sha256",
+    "size": 422860804,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "5690fe70c0f219f4473650ef6e7fd8f9",
     "distribution": "graalvm",
     "version": {
@@ -494,6 +531,37 @@
     "latest_build_available": false
   },
   {
+    "id": "d12093ae92a8cf1f245864b9e028d8b7",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://gds.oracle.com/api/20220101/artifacts/3EBE84CC493FFB77E0631718000AE6D6/content",
+    "checksum": "26388e7e448ba3341102ddfa29a3f514b2449e5876de26641b9fefb3cee2e584",
+    "checksum_type": "sha256",
+    "size": 422661453,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "3135cd3b86239484cab6fac6b9d3db31",
     "distribution": "graalvm",
     "version": {
@@ -526,7 +594,42 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
+  },
+  {
+    "id": "b6234e3f99ed5baaec6d05168f0f40e3",
+    "distribution": "graalvm",
+    "version": {
+      "components": [
+        24,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        24,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://gds.oracle.com/api/20220101/artifacts/3937A3DC40A05A4FE0631518000AA9E0/content",
+    "checksum": "a70785104855c181f2b56993d117e0e991eab6bd6dde99c32c2c5af857756653",
+    "checksum_type": "sha256",
+    "size": 365516301,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
   },
   {
     "id": "c8e2b08364def55a30565f415b0694bc",
@@ -627,7 +730,7 @@
     "javafx_bundled": false,
     "term_of_support": "mts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "01b3b180a3d7e9b853f6e937f5a47be8",
@@ -728,7 +831,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "c32f6a3f48b6e263b5f15ac64888a4aa",
@@ -829,7 +932,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "b44ad4f18a1ae53c855954b283118afe",
@@ -1280,7 +1383,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "c8013aa1d3f9b5e7e6f902c7e6cc7a1e",
@@ -1350,7 +1453,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "72aa63d600d8d711499b7010254ea591",
