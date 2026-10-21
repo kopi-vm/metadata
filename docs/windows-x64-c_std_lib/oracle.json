@@ -1,5 +1,40 @@
 [
   {
+    "id": "f7007cc34b5a15f232deb930d7e2b5ca",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/java/27/archive/jdk-27.0.1_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 220042956,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "mts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "604c630205d083699d0ddd7e29264fbf",
     "distribution": "oracle",
     "version": {
@@ -24,6 +59,43 @@
     "checksum": null,
     "checksum_type": "sha256",
     "size": 220017216,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "01a2ab41dc2353d4b2d40501a46d7124",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        26,
+        0,
+        2,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        26,
+        0,
+        2,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/java/26/archive/jdk-26.0.2.1_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 220833980,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "sts",
@@ -63,7 +135,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "99a7bef30cbcbad962b5ee8e6d8535fe",
@@ -132,6 +204,43 @@
     "latest_build_available": false
   },
   {
+    "id": "55202a23723bd5d2bfcc2d4fdb152879",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        25,
+        0,
+        4,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        4,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/java/25/archive/jdk-25.0.4.1_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 215813704,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "3926e1942b7bf1974fb5c90c9f0b6402",
     "distribution": "oracle",
     "version": {
@@ -164,7 +273,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "78fc67613510af551e201a850856a64a",
@@ -606,6 +715,43 @@
     "latest_build_available": false
   },
   {
+    "id": "5cfbcc404ff542dcb2227589c0737ad5",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        21,
+        0,
+        12,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        12,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/java/21/archive/jdk-21.0.12.1_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 196945976,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "8e59e8821ba656253766961ff9e04635",
     "distribution": "oracle",
     "version": {
@@ -638,7 +784,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "14f1a72c8c24bd52b89513aad2248778",
@@ -1259,6 +1405,43 @@
     "latest_build_available": false
   },
   {
+    "id": "aac5082b1185810e7906711c497eee8c",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        18,
+        0,
+        2,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        18,
+        0,
+        2,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/java/18/archive/jdk-18.0.2.1_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 181334641,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "2477a8d622be48ac2dfa23593c0c06cb",
     "distribution": "oracle",
     "version": {
@@ -1291,7 +1474,44 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
+  },
+  {
+    "id": "054b9a85c0788a85e4c3a7856535707e",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        18,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        18,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/java/18/archive/jdk-18.0.1.1_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 181189155,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
   },
   {
     "id": "0d011d80a3abf780a2f359dc6583aed4",
@@ -1920,6 +2140,43 @@
     "latest_build_available": false
   },
   {
+    "id": "69c4812de140962826dd814a314d0c6d",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        17,
+        0,
+        4,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        4,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/java/17/archive/jdk-17.0.4.1_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 180159099,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "6e34774fceb3a1b764677b03ad7f1292",
     "distribution": "oracle",
     "version": {
@@ -1948,6 +2205,43 @@
     "checksum": null,
     "checksum_type": "sha256",
     "size": 180154345,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "fbfe794c4d8fd297f796b55df22d272e",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        17,
+        0,
+        3,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        3,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/java/17/archive/jdk-17.0.3.1_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 179958887,
     "lib_c_type": "c_std_lib",
     "javafx_bundled": false,
     "term_of_support": "lts",
