@@ -204,6 +204,41 @@
     "latest_build_available": false
   },
   {
+    "id": "e16638c363a74f45cd87063003ffa58b",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        25,
+        0,
+        5
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        5
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.oracle.com/java/25/archive/jdk-25.0.5_linux-aarch64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 214816102,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "ebaffca05efe3d9206e321e67d791967",
     "distribution": "oracle",
     "version": {
@@ -238,7 +273,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "74af66a7fde3d84e2354f874fe4dbec1",
