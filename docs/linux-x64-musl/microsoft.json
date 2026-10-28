@@ -1,5 +1,42 @@
 [
   {
+    "id": "189b588b97812a6e7f554773a88b595f",
+    "distribution": "microsoft",
+    "version": {
+      "components": [
+        17,
+        0,
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        21,
+        0,
+        2
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.21.0.2-alpine-x64.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 193394205,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "dbb4757096747d4fad458409622e50cc",
     "distribution": "microsoft",
     "version": {
@@ -34,7 +71,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "ea3e0d52ba2c5bd6f43dbc859d3400fe",
