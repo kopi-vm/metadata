@@ -1,5 +1,83 @@
 [
   {
+    "id": "9018ddb80ccc201b8d890bc5a58f6148",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        0,
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/27.0.1.0.11/amazon-corretto-27.0.1.0.11-alpine-linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 228067804,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "0fde4454cfac2b64e1a8a7e0cd4799a4",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/27.0.1.0.10/amazon-corretto-27.0.1.0.10-alpine-linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 228079311,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "4a7ed128e28aa00d34314291358982d9",
     "distribution": "corretto",
     "version": {
@@ -28,7 +106,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "e77e184db310f27abc24964fe95421f2",
@@ -59,7 +137,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "f97a81b82540718b87b1a55f9967b399",
@@ -90,7 +168,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "c3b4a39d12a4f598e17be2ebda4aa651",
@@ -291,6 +369,84 @@
     "latest_build_available": false
   },
   {
+    "id": "561685608257aa7dc3910b9c0f9ed559",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        25,
+        0,
+        5
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        5,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/25.0.5.0.10/amazon-corretto-25.0.5.0.10-alpine-linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 225777234,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "00874ce5bca029111287d9edfc385143",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        25,
+        0,
+        5
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        5,
+        0,
+        9
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/25.0.5.0.9/amazon-corretto-25.0.5.0.9-alpine-linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 225778222,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "0fb2a04c6561b0ad210295f033b822fd",
     "distribution": "corretto",
     "version": {
@@ -328,7 +484,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "a3ee32b0b3ee07dc71bea364d705c2bc",
@@ -1140,6 +1296,84 @@
     "latest_build_available": false
   },
   {
+    "id": "6b41410eb17741413879f4e036f921e8",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        21,
+        0,
+        13
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        13,
+        0,
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/21.0.13.0.11/amazon-corretto-21.0.13.0.11-alpine-linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 207842325,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "77f6fa748a9b811f96509fd4e02f1877",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        21,
+        0,
+        13
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        13,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/21.0.13.0.10/amazon-corretto-21.0.13.0.10-alpine-linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 207852512,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "0c6ec26a67ef5797ec832d5c0de0f75d",
     "distribution": "corretto",
     "version": {
@@ -1177,7 +1411,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "253c8787d6c03cd41df8cfe8841d2368",
@@ -2022,6 +2256,84 @@
     "latest_build_available": true
   },
   {
+    "id": "5087a78efe8920b5c3a1e068d837dc22",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        17,
+        0,
+        21
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        21,
+        0,
+        11
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/17.0.21.0.11/amazon-corretto-17.0.21.0.11-alpine-linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 193616102,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "a33c6306d847a51f150aad0e91aa5259",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        17,
+        0,
+        21
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        21,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/17.0.21.0.10/amazon-corretto-17.0.21.0.10-alpine-linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 193626263,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "00d00a7b3cdcbbb5cfc91ff42f30b4e6",
     "distribution": "corretto",
     "version": {
@@ -2054,7 +2366,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "614ac42bcc2dac12d83850aa4cd0f741",
@@ -2089,7 +2401,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "acdbc9b2e2d161fe6f17b604e33e44dd",
@@ -2124,7 +2436,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "d9f514e45ce22f1428afdd7069134b04",
@@ -2753,6 +3065,84 @@
     "latest_build_available": false
   },
   {
+    "id": "a489937c15a29ee04085207cc2200ca6",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        33,
+        0,
+        10
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/11.0.33.0.10/amazon-corretto-11.0.33.0.10-alpine-linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 193759976,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "eca99b63172242f5fc75a5db5bf1e27e",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        33,
+        0,
+        9
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/11.0.33.0.9/amazon-corretto-11.0.33.0.9-alpine-linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 193768280,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "31218d7349654c50cb4a34d7c98ea9cb",
     "distribution": "corretto",
     "version": {
@@ -2785,7 +3175,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "80987e8491fef5d04c61a735964e385d",
@@ -2820,7 +3210,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "d9424949ead28e95084a063f781c9c5b",
@@ -2855,7 +3245,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "f6273f9963004a1df89f17ef3dfe1ead",
@@ -3414,6 +3804,78 @@
     "latest_build_available": false
   },
   {
+    "id": "317940ccf2ebe4424ee4cc9347e8151e",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        512
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        512,
+        9,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/8.512.09.1/amazon-corretto-8.512.09.1-alpine-linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 100487252,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "6e13986c76532a0dd94fabe02deace76",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        512
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        512,
+        8,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://corretto.aws/downloads/resources/8.512.08.1/amazon-corretto-8.512.08.1-alpine-linux-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 100485192,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "28c833432c5d938708a9274d2fad4977",
     "distribution": "corretto",
     "version": {
@@ -3446,7 +3908,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "334686368ab17a23d12204ff6eb60bf0",
@@ -3481,7 +3943,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "71b07700363dbba1525b6f61d6a4f3ac",
