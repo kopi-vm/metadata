@@ -1,5 +1,38 @@
 [
   {
+    "id": "6c706804f770a71cb0caba2bd66fdb9e",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        5
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-25.0.5.0-Final/mandrel-java25-linux-amd64-25.0.5.0-Final.tar.gz",
+    "checksum": "2436bb98b96b2cf439e218dfa3df53978588bc23c6e9f2cfed6a408db189951d",
+    "checksum_type": "sha256",
+    "size": 222020944,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "b37492aa44886f35cf8ee5f1e5e87200",
     "distribution": "mandrel",
     "version": {
@@ -31,7 +64,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "d0761f1b40e55f57ea323ad3cb312ddb",
@@ -230,7 +263,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "91831fb8dd984cee71a0ac86d63bf4dc",
@@ -328,7 +361,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "ee9a715f21ade6158f905984b9a3e13f",
@@ -426,7 +459,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "4ffb32ac0d0bad1f461f43aab291972f",
@@ -493,6 +526,39 @@
     "latest_build_available": false
   },
   {
+    "id": "ed6126b3d256f181402c26aeaf0c4f28",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        23,
+        1,
+        13
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-23.1.13.0-Final/mandrel-java21-linux-amd64-23.1.13.0-Final.tar.gz",
+    "checksum": "ac437f47821fce107018b90068298752e41bc346b0355ce2eca0402bc6252086",
+    "checksum_type": "sha256",
+    "size": 262698482,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "cb203c066235a887d0813a4b40dc255e",
     "distribution": "mandrel",
     "version": {
@@ -524,7 +590,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "cd36f7d4b991d5bf78a88fdbd1b6c93a",
@@ -986,7 +1052,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "1e389c9f529020be407ef5d9a783f611",
@@ -1188,7 +1254,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "8a565b1bb631845ba3c7f58447050a59",
@@ -1516,7 +1582,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "92eabbb51d48fe806b2cdb16795fe52b",

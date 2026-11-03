@@ -1,5 +1,38 @@
 [
   {
+    "id": "5be6814d9acdaad35ec71df7e9819de3",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        25
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        5
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-25.0.5.0-Final/mandrel-java25-linux-aarch64-25.0.5.0-Final.tar.gz",
+    "checksum": "293608bcf2d0f78fa13e675238b74d91b417152a19eee55317e3246696a5ef75",
+    "checksum_type": "sha256",
+    "size": 219834254,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "f4360eca360d5417328ef6e87a8d97fa",
     "distribution": "mandrel",
     "version": {
@@ -31,7 +64,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "e6c0f81565b5dd60d63952e3b7b3ade2",
@@ -230,7 +263,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "baf554beb940bc034b1ff37b925c6bec",
@@ -328,7 +361,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "ecbedb70ab5922c516aaa9ccb2ca29a5",
@@ -426,7 +459,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "e7f5bce88954959258b17208455bd6c4",
@@ -493,6 +526,39 @@
     "latest_build_available": false
   },
   {
+    "id": "c0af7768c06e074e4ce22f5c7605f1d8",
+    "distribution": "mandrel",
+    "version": {
+      "components": [
+        21
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        23,
+        1,
+        13
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/graalvm/mandrel/releases/download/mandrel-23.1.13.0-Final/mandrel-java21-linux-aarch64-23.1.13.0-Final.tar.gz",
+    "checksum": "51bb7806d39f9bcc0f775528f53e206bec753468216317534783875a6729a1b5",
+    "checksum_type": "sha256",
+    "size": 260037634,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "c7bd3f4044bda21c170cd78acf486a52",
     "distribution": "mandrel",
     "version": {
@@ -524,7 +590,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "978604d43df7753ea064e621f5e136b2",
@@ -986,7 +1052,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "6a7ae8b9cc3a3e70ae5d4ac6cb10cb08",
@@ -1188,7 +1254,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "6adc963dc4b71ce89f354113fb8be148",
@@ -1516,7 +1582,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "2cb1963459f16b4bd11a4f931c79fcae",
