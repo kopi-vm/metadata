@@ -7087,6 +7087,80 @@
     "latest_build_available": true
   },
   {
+    "id": "5b540272a68a95282a3b1881c2d0634d",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "s390x",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.33.0/ibm-semeru-certified-jdk_s390x_linux_11.0.33.0.tar.gz",
+    "checksum": "a07898309778d286bbdd081430efb305890435c92869ca4aead39d67a08ad297",
+    "checksum_type": "sha256",
+    "size": 241014553,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "8b7cdb5e7326213daa635ec1dc05959a",
+    "distribution": "semeru",
+    "version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": [
+        8
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "s390x",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.33.0/ibm-semeru-certified-jre_s390x_linux_11.0.33.0.tar.gz",
+    "checksum": "55c2d5d70040f8c53f6e6ab7023d8356717796ae34cc1465326aa369cfd0d41a",
+    "checksum_type": "sha256",
+    "size": 57818832,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "85083101b913556928e21d291d1c29f0",
     "distribution": "semeru",
     "version": {
