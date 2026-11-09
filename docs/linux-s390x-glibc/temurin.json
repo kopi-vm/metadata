@@ -1,5 +1,75 @@
 [
   {
+    "id": "51be30450f0590a295d5161e12f6cf1a",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "s390x",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jdk_s390x_linux_hotspot_27.0.1.0.2_1.tar.gz",
+    "checksum": "6c4e1f13490f1efb38b5f52667f05c433f7c94ae59c7e307a193e94b7b597e26",
+    "checksum_type": "sha256",
+    "size": 137965415,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "c7de5974ae5d5ed8a343840f879fabfb",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "s390x",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_s390x_linux_hotspot_27.0.1.0.2_1.tar.gz",
+    "checksum": "7d50814d945ad726824329658b58e032f003b3faa13c69ad1d0308a6743d60c6",
+    "checksum_type": "sha256",
+    "size": 60351484,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "1b87eb0b6624872fdf6933995cd24930",
     "distribution": "temurin",
     "version": {
@@ -30,7 +100,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "4fe80d14cef0f1553cb9f45385a70e45",
@@ -63,7 +133,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "cfd14a6b4d8821932635c8a4ab6c514e",
@@ -468,7 +538,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "d93cc1a94bb04c5c283d492ca58d67ee",
@@ -507,7 +577,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "13ec0504b0fac6bee2d754ae1f85f3ec",
@@ -1558,7 +1628,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "9e9c3c84592f04d0df31f6caffd6f355",
@@ -1597,7 +1667,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "46686a89a7493369622dc9de1757f2dd",
@@ -2921,7 +2991,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "ae2891e1c811ff511700a06775076d16",
@@ -2958,7 +3028,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "5f9c29e4b6bd4ee131c84103d1b870b8",
@@ -2997,7 +3067,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "a637d063a8900ad1d2474a535667b67b",
@@ -3036,7 +3106,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "2a54abfc9fda055ea687932b0493afe7",
@@ -4745,6 +4815,80 @@
     "latest_build_available": true
   },
   {
+    "id": "abbaa77da335010e042b23c0ea7acdaa",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "s390x",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B10/OpenJDK11U-jdk_s390x_linux_hotspot_11.0.33_10.tar.gz",
+    "checksum": "1d100931d701ea97933c429cbc18e249d3bb5b954feff920d75d6c31d7d443d4",
+    "checksum_type": "sha256",
+    "size": 168927892,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "f996b21f1599101847acde9ce3f365be",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "s390x",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B10/OpenJDK11U-jre_s390x_linux_hotspot_11.0.33_10.tar.gz",
+    "checksum": "88c71157732799dee7ec2417d9bed9fdc60fe8a806993d0de09b4449ff26bf9b",
+    "checksum_type": "sha256",
+    "size": 37454464,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "2eef081162509044268ec5e4adc425dc",
     "distribution": "temurin",
     "version": {
@@ -4781,7 +4925,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "3c1f87dace3958eeb51bd3de260d61b3",
@@ -4820,7 +4964,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "3ab6aaa746894318f71d8829ecf889b5",

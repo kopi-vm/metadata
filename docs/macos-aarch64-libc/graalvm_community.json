@@ -1,5 +1,42 @@
 [
   {
+    "id": "018c9c9bf98a3c9f9e9c0ccc62402d54",
+    "distribution": "graalvm_community",
+    "version": {
+      "components": [
+        25,
+        0,
+        5
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        5,
+        5,
+        0,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://gds.oracle.com/api/20220101/artifacts/5E6C3FCD93A64425BC9B38E0AE018AA2/content",
+    "checksum": "54369d4a5931a5a2101c7c52444a4e7e6647a3a4e041335053cda6fd22295e0c",
+    "checksum_type": "sha256",
+    "size": 337038650,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "f479f9bdccbbcc1d4a8f04622ee8ea2c",
     "distribution": "graalvm_community",
     "version": {
@@ -35,7 +72,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "47eb4b54575ac63648712fde89862f6b",

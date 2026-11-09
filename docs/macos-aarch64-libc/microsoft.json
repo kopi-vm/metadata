@@ -1686,6 +1686,41 @@
     "latest_build_available": true
   },
   {
+    "id": "be3411577d0e46105b9e97889fba7ada",
+    "distribution": "microsoft",
+    "version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://aka.ms/download-jdk/microsoft-jdk-11.0.33-macos-aarch64.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 185298210,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "d2aeaf78c467115d97a66ab1242f50c8",
     "distribution": "microsoft",
     "version": {
@@ -1720,7 +1755,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "9903f77146d3f2aabb474a622921b790",

@@ -1,5 +1,75 @@
 [
   {
+    "id": "0bc64e7b45093feed0bdda83ea087e16",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jdk_x64_alpine-linux_hotspot_27.0.1.0.2_1.tar.gz",
+    "checksum": "576a3b8ba79aa5a8bc7f1cb8b54aeffab8b2d1fb84a8fde4f8f3035ac65dfca1",
+    "checksum_type": "sha256",
+    "size": 142004487,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "71ba9a4016845c56332e59497dc198ed",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_x64_alpine-linux_hotspot_27.0.1.0.2_1.tar.gz",
+    "checksum": "2ed5b164f40cf5f5a04b73054d147f9111e431eff710d9c725a0efb191ff20a6",
+    "checksum_type": "sha256",
+    "size": 61558330,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "126f3a62b57f6708995b5db5b4062972",
     "distribution": "temurin",
     "version": {
@@ -30,7 +100,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "2202ecdf415d3c7e5714aa4b395fce44",
@@ -63,7 +133,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "1fbe547e4c1828bd7f7514ac5a623ee3",
@@ -392,7 +462,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "d6ac31ce7edd9b883e918af821eb6b28",
@@ -429,7 +499,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "85ae8a26b648299b8407aaeba2a001f0",
@@ -468,7 +538,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "f89ec389582e04530b210f38434657c8",
@@ -507,7 +577,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "350c7590d279158719e08e7b448526aa",
@@ -1548,7 +1618,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "de3c100d11dfcc48f7ea6ee8b3ca3877",
@@ -1585,7 +1655,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "6fdfbff6a8b683420d101adfa24751ae",
@@ -1624,7 +1694,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "9dfbba3649adedca3e8351b9197eab9d",
@@ -1663,7 +1733,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "057e1a053899ca3048b9e12f2dbcb59f",
@@ -3341,7 +3411,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "b415a00d2be47316ad1d629dd0bd8c7f",
@@ -3378,7 +3448,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": false
+    "latest_build_available": true
   },
   {
     "id": "6da79fcf3948a9c4dec66e45ede56ca3",
@@ -3417,7 +3487,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "76ede8d637f50d57b615795ef8a283d8",
@@ -3456,7 +3526,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "70f59ae6f5ddfb746e887cf058e22e7c",
@@ -5165,6 +5235,80 @@
     "latest_build_available": true
   },
   {
+    "id": "5746a807699a12c2d29e816b9bfa3b4d",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B10/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.33_10.tar.gz",
+    "checksum": "8e569f461461ac364ac9e9d14a2b70c15e3869dc9b41da2c6817bc7b02297567",
+    "checksum_type": "sha256",
+    "size": 42877044,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "8cb057d23db9497179f0c7a9dcb5ed0f",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B10/OpenJDK11U-jdk_x64_alpine-linux_hotspot_11.0.33_10.tar.gz",
+    "checksum": "d9deaccb8137409f91acdcfaa24e7c4b247163b425b29c33fe536c78f75dc237",
+    "checksum_type": "sha256",
+    "size": 194465852,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "2e95bc2b9fb29fc7f56fd7a4750c1282",
     "distribution": "temurin",
     "version": {
@@ -5201,7 +5345,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "fb980db5634342f7b900bdf9bf41fb1d",
@@ -5240,7 +5384,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "8257ffa9417beacfbb20ce3adb079333",
@@ -6957,6 +7101,80 @@
     "latest_build_available": false
   },
   {
+    "id": "62e93d1a4a3988af8e7f0ab85f26700e",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        8,
+        0,
+        512
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        512
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jdk_x64_alpine-linux_hotspot_8u512b09.tar.gz",
+    "checksum": "e2a7fa7d86033e6c315aa45a7ba772d1d93ccb4f736cab40291a5d7b0998e6b9",
+    "checksum_type": "sha256",
+    "size": 101456123,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "6dcb59b9a38aec96a672cd0bd8ee2168",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        8,
+        0,
+        512
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        512
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_x64_alpine-linux_hotspot_8u512b09.tar.gz",
+    "checksum": "12b6d25841b3e932a60dab34da43f4989a07f767444e3fe7c58d1187252753d9",
+    "checksum_type": "sha256",
+    "size": 41790619,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "3c5f383aa59519762e31da86111eadde",
     "distribution": "temurin",
     "version": {
@@ -6991,7 +7209,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "fdbf00a7ce92a3e66ae22de748c15d67",
@@ -7028,7 +7246,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "1f85a39d0def6a9d2971ae0f622b50fb",

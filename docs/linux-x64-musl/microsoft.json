@@ -813,6 +813,41 @@
     "latest_build_available": false
   },
   {
+    "id": "ff164e63aa94c4a46121ccda57a3a691",
+    "distribution": "microsoft",
+    "version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://aka.ms/download-jdk/microsoft-jdk-11.0.33-alpine-x64.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 198051870,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "d6d1cfe3bf966dcf0904e366a8338c17",
     "distribution": "microsoft",
     "version": {
@@ -847,7 +882,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "7edd1d79f0c9053fce0d4a023973fbc3",
