@@ -14888,6 +14888,43 @@
     "latest_build_available": false
   },
   {
+    "id": "7c5ac1f9b0f059070e4883543cde2cf0",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        8,
+        0,
+        512
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        512
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jdk_arm_linux_hotspot_8u512b09.tar.gz",
+    "checksum": "ff18c5421f350fa59b956f763720431c8f861094ec76c06f83a3dfdf502a6bd1",
+    "checksum_type": "sha256",
+    "size": 98845934,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "8c92f58d2ca69865157fdfb387a8ae30",
     "distribution": "temurin",
     "version": {
@@ -14955,6 +14992,43 @@
     "checksum": "57468dc8bfd71dd0578d9717e63a8c13b9efe0a2f2c85c2a13966d1c0f9b1e5f",
     "checksum_type": "sha256",
     "size": 41877429,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "f813909602f091135ac08c35cf505abc",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        8,
+        0,
+        512
+      ],
+      "build": [
+        9
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        0,
+        512
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_arm_linux_hotspot_8u512b09.tar.gz",
+    "checksum": "bbe01d0683d3dcdd0bbdcc568d3d9123f719a4fa390208b3fe1ca6e1ef083923",
+    "checksum_type": "sha256",
+    "size": 39227367,
     "lib_c_type": "glibc",
     "javafx_bundled": false,
     "term_of_support": "lts",
