@@ -1,5 +1,83 @@
 [
   {
+    "id": "a6e973dead0e85f872ceb66c85da01cd",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": [
+        4
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jdk_x64_alpine-linux_hotspot_27.0.1.1_4.tar.gz",
+    "checksum": "5ac34cbeed56fba0456cf94d1d8df3568ab852e196f54abf5172257f3d167dda",
+    "checksum_type": "sha256",
+    "size": 142014089,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "b1dfc35aebcf4430fb97ecf6cae6704e",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": [
+        4
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_x64_alpine-linux_hotspot_27.0.1.1_4.tar.gz",
+    "checksum": "b77dceb6bc1ddcddb2a1c291d1e972d5e6eda22c15c4cb843c95ea36f833023f",
+    "checksum_type": "sha256",
+    "size": 61565674,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "0bc64e7b45093feed0bdda83ea087e16",
     "distribution": "temurin",
     "version": {
@@ -503,7 +581,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "a555edebe090a510d3a888c1f6b7570c",
@@ -540,7 +618,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "d6ac31ce7edd9b883e918af821eb6b28",
@@ -1662,6 +1740,84 @@
     "latest_build_available": false
   },
   {
+    "id": "4a9120eebfff5693ef39440d96df0a04",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        21,
+        0,
+        13,
+        1
+      ],
+      "build": [
+        2
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        13,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.13.1_2.tar.gz",
+    "checksum": "72835f41a468ae949fc058f8ec6a73d303ca3e5ea165621e08aacb36bb537bba",
+    "checksum_type": "sha256",
+    "size": 52334950,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "62556222c505808fdf175a19e552a5f5",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        21,
+        0,
+        13,
+        1
+      ],
+      "build": [
+        2
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        13,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jdk_x64_alpine-linux_hotspot_21.0.13.1_2.tar.gz",
+    "checksum": "87af8e1557222db2a29c9d055c34a317916b4ddbdb91474d04b35229d337193e",
+    "checksum_type": "sha256",
+    "size": 208065382,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "bdb5659068f9fbaf6b4fd02c7422588a",
     "distribution": "temurin",
     "version": {
@@ -1733,7 +1889,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "6fdfbff6a8b683420d101adfa24751ae",
@@ -3455,6 +3611,84 @@
     "latest_build_available": false
   },
   {
+    "id": "79d36e95f0ef4bdb7186ccfcd782bb91",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        17,
+        0,
+        21,
+        1
+      ],
+      "build": [
+        2
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        21,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.21.1_2.tar.gz",
+    "checksum": "99fabb8e2517861fbbf1fc26103ee62240ec693340c4c7a812f7043e82acb203",
+    "checksum_type": "sha256",
+    "size": 46417416,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "fca21d2c8450c033bb178818aa0d21a3",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        17,
+        0,
+        21,
+        1
+      ],
+      "build": [
+        2
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        17,
+        0,
+        21,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jdk_x64_alpine-linux_hotspot_17.0.21.1_2.tar.gz",
+    "checksum": "4ac50955ad93051e45280c4edabae97c7c9ca4e1d2842c4e430e5b7d9960a570",
+    "checksum_type": "sha256",
+    "size": 192775348,
+    "lib_c_type": "musl",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "a2807c35f1a1e13e6c6262f24a75b5c6",
     "distribution": "temurin",
     "version": {
@@ -3526,7 +3760,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "6da79fcf3948a9c4dec66e45ede56ca3",
@@ -5384,7 +5618,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "2e95bc2b9fb29fc7f56fd7a4750c1282",
@@ -7250,7 +7484,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "3c5f383aa59519762e31da86111eadde",

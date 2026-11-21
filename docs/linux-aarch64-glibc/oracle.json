@@ -1,5 +1,42 @@
 [
   {
+    "id": "651414e2342ed6215340d88d1e649f58",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.oracle.com/java/27/archive/jdk-27.0.1.1_linux-aarch64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 218382800,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "mts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "629592870f7dc1d0d3aded362edbc5fb",
     "distribution": "oracle",
     "version": {
@@ -204,6 +241,43 @@
     "latest_build_available": false
   },
   {
+    "id": "bd5da8ce1d8a844ee775e9e72c6204d0",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        25,
+        0,
+        5,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        5,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.oracle.com/java/25/archive/jdk-25.0.5.1_linux-aarch64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 214840770,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "e16638c363a74f45cd87063003ffa58b",
     "distribution": "oracle",
     "version": {
@@ -236,7 +310,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "ebaffca05efe3d9206e321e67d791967",

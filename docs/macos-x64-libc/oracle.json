@@ -1,5 +1,42 @@
 [
   {
+    "id": "1bcdd8b468efbd2df8db2b5ac7c17497",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.oracle.com/java/27/archive/jdk-27.0.1.1_macos-x64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 215378240,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "mts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "965280f1efbdea594f79b78d04f0e457",
     "distribution": "oracle",
     "version": {
@@ -202,6 +239,43 @@
     "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "d70f941f72e9c25437324f4b4e9a188a",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        25,
+        0,
+        5,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        5,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.oracle.com/java/25/archive/jdk-25.0.5.1_macos-x64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 211907250,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "ffae6d60b9fb5ee6817a275bbba0afe9",

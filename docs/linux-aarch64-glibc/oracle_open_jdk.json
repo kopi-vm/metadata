@@ -1,5 +1,81 @@
 [
   {
+    "id": "6b8677f10514c2f10ff36e4f718641b0",
+    "distribution": "oracle_open_jdk",
+    "version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.java.net/java/GA/jdk27.0.1.1/c3a705caf5044be8aa0b09e62be69b20/4/GPL/openjdk-27.0.1.1_linux-aarch64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 224381534,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "5b5ccb54d8325de1571eaf9fcc641044",
+    "distribution": "oracle_open_jdk",
+    "version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        0,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.java.net/java/GA/jdk27.0.1.0.3/b14170c9b2de463d9b89442c6db3e384/1/GPL/openjdk-27.0.1.0.3_linux-aarch64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 224370069,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "73ba006517d2b45bb1e4d6433fdabf92",
     "distribution": "oracle_open_jdk",
     "version": {
@@ -36,7 +112,7 @@
     "javafx_bundled": false,
     "term_of_support": "sts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "89b99eab46a580170f2b7a137b469a06",

@@ -1,5 +1,116 @@
 [
   {
+    "id": "682a74fecb4f3f0cc9d664d4f242d791",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64le",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-27.0.1.1/sapmachine-jmods-27.0.1.1_linux-ppc64le.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 86561270,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "de7e219444d238c72b6ba8d46c50a55c",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64le",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-27.0.1.1/sapmachine-jdk-27.0.1.1_linux-ppc64le_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 128957346,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "edbf97d4b42da43f7d12519c2bb42d07",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64le",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-27.0.1.1/sapmachine-jre-27.0.1.1_linux-ppc64le_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 50251043,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "6a6640fee68ceb67770a5ee4e785d8c3",
     "distribution": "sap_machine",
     "version": {
@@ -554,6 +665,117 @@
     "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "d8fd5a5dd336802091b98074d6491668",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        25,
+        0,
+        5,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        5,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64le",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.5.1/sapmachine-jdk-25.0.5.1_linux-ppc64le_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 126687719,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "decc82f0b01eaca9619e1245d989e642",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        25,
+        0,
+        5,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        5,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64le",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.5.1/sapmachine-jre-25.0.5.1_linux-ppc64le_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 49361866,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "ea4220beafbcf8e1cff536178eb6193f",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        25,
+        0,
+        5,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        5,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64le",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.5.1/sapmachine-jmods-25.0.5.1_linux-ppc64le.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 85016416,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "754990a38c7fd2d160d32646904671d1",
@@ -1796,6 +2018,80 @@
     "latest_build_available": false
   },
   {
+    "id": "22b55df58c256b604c1dba590da95ee5",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        21,
+        0,
+        13,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        13,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64le",
+    "operating_system": "linux",
+    "package_type": "jre",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13.1/sapmachine-jre-21.0.13.1_linux-ppc64le_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 53822012,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "e379858c5818877c1d3d30fe2636c004",
+    "distribution": "sap_machine",
+    "version": {
+      "components": [
+        21,
+        0,
+        13,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        21,
+        0,
+        13,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "ppc64le",
+    "operating_system": "linux",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13.1/sapmachine-jdk-21.0.13.1_linux-ppc64le_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 210255047,
+    "lib_c_type": "glibc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "b5f57df370f23fc9f8973327c468b1e6",
     "distribution": "sap_machine",
     "version": {
@@ -1830,7 +2126,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "bf2095987b8e408d5bca26d37f247438",
@@ -1867,7 +2163,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "3638176e194b3e87bee6c5d36304add2",

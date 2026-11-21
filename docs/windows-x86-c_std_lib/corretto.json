@@ -1,5 +1,45 @@
 [
   {
+    "id": "a135d518e47c90795913d0612adfe0c1",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        11,
+        0,
+        33,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        33,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x86",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/11.0.33.1.1/amazon-corretto-11.0.33.1.1-windows-x86-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 170656063,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "e921dfaad6c554873daf676e90e66133",
     "distribution": "corretto",
     "version": {
@@ -1087,6 +1127,42 @@
     "term_of_support": "lts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "7f40383ce914f4c2003e5711f4d769cc",
+    "distribution": "corretto",
+    "version": {
+      "components": [
+        8,
+        0,
+        514
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        8,
+        514,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x86",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://corretto.aws/downloads/resources/8.514.01.1/amazon-corretto-8.514.01.1-windows-x86-jdk.zip",
+    "checksum": null,
+    "checksum_type": null,
+    "size": 104872679,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "33b2ea7c80677eb435519977425fd9ea",

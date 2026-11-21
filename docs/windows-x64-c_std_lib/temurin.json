@@ -1,5 +1,75 @@
 [
   {
+    "id": "8452062b4b7e763653cfdca6af2bce0b",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_x64_windows_hotspot_27.0.1.0.2_1.zip",
+    "checksum": "92b5019de93f4712115a5b81b9b625e63b0ad45084ccd3b45feceeb064387f0d",
+    "checksum_type": "sha256",
+    "size": 59154292,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
+    "id": "9dcc0557e4f08c904aab9f1a774b0685",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jdk_x64_windows_hotspot_27.0.1.0.2_1.zip",
+    "checksum": "5fac419f00d2256941a6b1253a827bb8b904da215a1ec0667035e5592811c1dc",
+    "checksum_type": "sha256",
+    "size": 142762093,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "36c6fff412e42f23a647ccc8ac1ee8fe",
     "distribution": "temurin",
     "version": {
@@ -429,7 +499,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "aa99913fa6d767d899ffc96082da01ca",
@@ -5165,6 +5235,80 @@
     "latest_build_available": true
   },
   {
+    "id": "6fa1e53187de644056cd7bf54cdc6001",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jre",
+    "archive_type": "zip",
+    "download_url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B10/OpenJDK11U-jre_x64_windows_hotspot_11.0.33_10.zip",
+    "checksum": "d07c70035f7462924cd385912d76d50622baa17b15e5260df8facabcf2fff998",
+    "checksum_type": "sha256",
+    "size": 43596092,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "a22636247fcb0c480648bc29edc28afa",
+    "distribution": "temurin",
+    "version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": [
+        10
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        11,
+        0,
+        33
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B10/OpenJDK11U-jdk_x64_windows_hotspot_11.0.33_10.zip",
+    "checksum": "cff2e75657c96a718974732b4a7b2c81a245a0b2ea44e6d8ea08cd0248d8fa9d",
+    "checksum_type": "sha256",
+    "size": 199525070,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "73d245b5487932ffd3d6bd88acf03bdc",
     "distribution": "temurin",
     "version": {
@@ -7102,7 +7246,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "15123c237b5638b6f1c9f2b1d76e5d60",

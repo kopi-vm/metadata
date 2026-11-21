@@ -1,5 +1,42 @@
 [
   {
+    "id": "461a22f8bd30cdaadfb3733ad13a16e2",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.oracle.com/java/27/archive/jdk-27.0.1.1_macos-aarch64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 212945728,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "mts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "7edf57ae91a983745a8233608a281dc9",
     "distribution": "oracle",
     "version": {
@@ -202,6 +239,43 @@
     "term_of_support": "sts",
     "release_status": "ga",
     "latest_build_available": false
+  },
+  {
+    "id": "37fab36bc11b52025e9192a371076839",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        25,
+        0,
+        5,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        5,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.oracle.com/java/25/archive/jdk-25.0.5.1_macos-aarch64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 209360576,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
   },
   {
     "id": "7b1b05b08a9ce71ded88f8aa79f4a9a0",

@@ -1,5 +1,42 @@
 [
   {
+    "id": "ec1abc2790a3027c366edd82d38a12cf",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/java/27/archive/jdk-27.0.1.1_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 220074616,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "mts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "f7007cc34b5a15f232deb930d7e2b5ca",
     "distribution": "oracle",
     "version": {
@@ -32,7 +69,7 @@
     "javafx_bundled": false,
     "term_of_support": "mts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "604c630205d083699d0ddd7e29264fbf",
@@ -204,6 +241,43 @@
     "latest_build_available": false
   },
   {
+    "id": "c3178b1980a6dc1c31fdc73e54ab7998",
+    "distribution": "oracle",
+    "version": {
+      "components": [
+        25,
+        0,
+        5,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        25,
+        0,
+        5,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "x64",
+    "operating_system": "windows",
+    "package_type": "jdk",
+    "archive_type": "zip",
+    "download_url": "https://download.oracle.com/java/25/archive/jdk-25.0.5.1_windows-x64_bin.zip",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 215974759,
+    "lib_c_type": "c_std_lib",
+    "javafx_bundled": false,
+    "term_of_support": "lts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
     "id": "29162facd66eac3d5f0f90908d6145a2",
     "distribution": "oracle",
     "version": {
@@ -236,7 +310,7 @@
     "javafx_bundled": false,
     "term_of_support": "lts",
     "release_status": "ga",
-    "latest_build_available": true
+    "latest_build_available": false
   },
   {
     "id": "55202a23723bd5d2bfcc2d4fdb152879",

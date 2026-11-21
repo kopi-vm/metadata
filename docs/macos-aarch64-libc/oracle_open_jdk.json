@@ -1,5 +1,81 @@
 [
   {
+    "id": "04d327887428334d3d440daa7cb1b241",
+    "distribution": "oracle_open_jdk",
+    "version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        1
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.java.net/java/GA/jdk27.0.1.1/c3a705caf5044be8aa0b09e62be69b20/4/GPL/openjdk-27.0.1.1_macos-aarch64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 219352299,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": true
+  },
+  {
+    "id": "8679414c47cee8ae21a311f1f5317187",
+    "distribution": "oracle_open_jdk",
+    "version": {
+      "components": [
+        27,
+        0,
+        1
+      ],
+      "build": [
+        1
+      ],
+      "pre_release": null
+    },
+    "distribution_version": {
+      "components": [
+        27,
+        0,
+        1,
+        0,
+        3
+      ],
+      "build": null,
+      "pre_release": null
+    },
+    "architecture": "aarch64",
+    "operating_system": "macos",
+    "package_type": "jdk",
+    "archive_type": "targz",
+    "download_url": "https://download.java.net/java/GA/jdk27.0.1.0.3/b14170c9b2de463d9b89442c6db3e384/1/GPL/openjdk-27.0.1.0.3_macos-aarch64_bin.tar.gz",
+    "checksum": null,
+    "checksum_type": "sha256",
+    "size": 219346606,
+    "lib_c_type": "libc",
+    "javafx_bundled": false,
+    "term_of_support": "sts",
+    "release_status": "ga",
+    "latest_build_available": false
+  },
+  {
     "id": "315b1f3ea55fa5fa6af828cb88b19b3c",
     "distribution": "oracle_open_jdk",
     "version": {
